@@ -1,6 +1,6 @@
 import { NextRequest, NextResponse } from "next/server";
 import Anthropic from "@anthropic-ai/sdk";
-import { FACULTY } from "@/lib/faculty";
+import { FACULTY, partnerCodes } from "@/lib/faculty";
 import type { Faculty } from "@/lib/faculty";
 
 export async function GET() {
@@ -181,37 +181,64 @@ Return strict JSON { "matches": [ { "id", "rationale" } ] }. Return up to 10.
   }
 
   if (userType === "prospective") {
-    // Team-pairing mode. We shortlist NTU-side and partner-side separately,
-    // send both to Claude, and ask for 1 NTU + 1+ partner pairings.
+    // Team-pairing mode. To stop one large partner (like Sorbonne) dominating
+    // the shortlist and every team, we shortlist separately *per partner* and
+    // send each partner's candidates as its own labeled block. The prompt then
+    // requires every team to include one PI from EACH selected partner — so a
+    // 3-partner selection produces teams of 1 NTU + 1 Sorbonne + 1 TUM + 1 Turin.
     const ntuPool = FACULTY.filter((f) => f.partner_university === "NTU");
-    const partnerPool = FACULTY.filter((f) => includesPartner(f.partner_university));
+    const selectedPartners = partnerCodes().filter(
+      (c) => c !== "NTU" && (partnerSet.size === 0 || partnerSet.has(c)),
+    );
+    if (selectedPartners.length === 0) {
+      return NextResponse.json(
+        { error: "Select at least one partner university." },
+        { status: 400 },
+      );
+    }
+    // Budget: give each partner ~25 candidates, NTU ~40 — keeps input tokens
+    // bounded regardless of how many partners are in play.
+    const perPartner = Math.max(15, Math.floor(80 / selectedPartners.length));
     const ntuShort = compact(shortlist(project, ntuPool, 40));
-    const partnerShort = compact(shortlist(project, partnerPool, 60));
+    const partnerBlocks = selectedPartners.map((code) => {
+      const pool = FACULTY.filter((f) => f.partner_university === code);
+      return { code, records: compact(shortlist(project, pool, perPartner)) };
+    });
+
+    const partnerRule =
+      selectedPartners.length === 1
+        ? `- Each team's partner_ids MUST contain exactly one id from PARTNER_${selectedPartners[0].toUpperCase()}.`
+        : `- Each team's partner_ids MUST contain exactly one id from EACH of these partner directories, in this order: ${selectedPartners
+            .map((c) => `PARTNER_${c.toUpperCase()}`)
+            .join(", ")}. A team is invalid if any of those partners is missing.`;
 
     const system = `You suggest Joint-PhD supervisor teams for a prospective PhD student.
-Each team has exactly one NTU faculty as the main supervisor, paired with one or more partner-university faculty as co-supervisors. The pairings should combine complementary expertise (e.g. model systems + methods, biology + engineering, wet lab + computational).
+Each team pairs exactly one NTU faculty (the main supervisor) with one partner-university faculty from EACH selected partner directory (co-supervisors). Teams should combine complementary expertise (e.g. model systems + methods, biology + engineering, wet lab + computational).
 
 Return strict JSON:
-{ "matches": [ { "ntu_id": "<NTU id>", "partner_ids": ["<partner id>", ...], "rationale": "<one sentence, ≤ 40 words>" } ] }
+{ "matches": [ { "ntu_id": "<NTU id>", "partner_ids": ["<id>", ...], "rationale": "<one sentence, ≤ 50 words>" } ] }
 
 Rules:
-- Return between 3 and 6 teams.
+- Return 4 to 6 teams.
 - Each team's ntu_id MUST come from NTU_DIRECTORY.
-- Each partner_id MUST come from PARTNER_DIRECTORY.
-- Prefer teams where the NTU and partner faculty offer complementary (not overlapping) expertise.
-- If multiple partner universities are represented, try to diversify across them.
-- Rationale names the complementary overlap that makes the team coherent for this project.
+${partnerRule}
+- Rationale names the complementary overlap across the whole team.
+- Prefer NTU faculty diversity across teams (don't re-use the same NTU PI unless they're genuinely the best fit for another team).
 - Output JSON only. No prose, no fences.`;
 
-    const directoryText =
-      `NTU_DIRECTORY (JSON):\n${JSON.stringify(ntuShort)}\n\n` +
-      `PARTNER_DIRECTORY (JSON):\n${JSON.stringify(partnerShort)}`;
+    const directoryText = [
+      `NTU_DIRECTORY (JSON):\n${JSON.stringify(ntuShort)}`,
+      ...partnerBlocks.map(
+        (b) =>
+          `\n\nPARTNER_${b.code.toUpperCase()} (JSON):\n${JSON.stringify(b.records)}`,
+      ),
+    ].join("");
     const projectText = `\n\nPROJECT:\n${project.trim()}`;
 
     try {
       const resp = await client.messages.create({
         model: MODEL,
-        max_tokens: 2500,
+        max_tokens: 3000,
         system,
         messages: [
           {
@@ -235,14 +262,25 @@ Rules:
           { status: 502 },
         );
       }
+      // Enforce the per-partner coverage rule server-side too — Claude mostly
+      // follows it but dropping incomplete teams guarantees the guarantee.
       const knownIds = new Set(FACULTY.map((f) => f.id));
+      const idToPartner = new Map(FACULTY.map((f) => [f.id, f.partner_university]));
       const clean = (parsed.matches ?? [])
         .map((m) => ({
           ntu_id: m.ntu_id,
           partner_ids: (m.partner_ids ?? []).filter((id) => knownIds.has(id)),
           rationale: m.rationale,
         }))
-        .filter((m) => knownIds.has(m.ntu_id) && m.partner_ids.length > 0)
+        .filter((m) => {
+          if (!knownIds.has(m.ntu_id)) return false;
+          if (idToPartner.get(m.ntu_id) !== "NTU") return false;
+          const teamPartners = new Set(
+            m.partner_ids.map((id) => idToPartner.get(id)).filter(Boolean),
+          );
+          // Every selected partner uni must be represented on the team.
+          return selectedPartners.every((c) => teamPartners.has(c));
+        })
         .slice(0, 6);
       return NextResponse.json({ kind: "team", matches: clean });
     } catch (e: any) {

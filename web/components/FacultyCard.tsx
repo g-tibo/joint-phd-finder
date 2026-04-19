@@ -1,21 +1,6 @@
 import type { Faculty } from "@/lib/faculty";
 import { PARTNER_NAME } from "@/lib/faculty";
-
-// NTU serves images with `Cross-Origin-Resource-Policy: same-site`, which
-// blocks cross-origin embedding. Route those through our own /api/img proxy.
-const HOSTS_NEEDING_PROXY = new Set(["www.ntu.edu.sg", "dr.ntu.edu.sg"]);
-
-function imgSrc(url: string): string {
-  try {
-    const u = new URL(url);
-    if (HOSTS_NEEDING_PROXY.has(u.host)) {
-      return `/api/img?u=${encodeURIComponent(url)}`;
-    }
-  } catch {
-    /* fall through */
-  }
-  return url;
-}
+import { FacultyPhoto } from "@/components/FacultyPhoto";
 
 function partnerLabel(code: string): string {
   return PARTNER_NAME[code] ?? code;
@@ -32,20 +17,7 @@ export function FacultyCard({
 }) {
   return (
     <article className="rounded-xl border border-black/10 dark:border-white/10 bg-white dark:bg-neutral-900 p-4 flex gap-4 hover:shadow-sm transition-shadow">
-      {f.photo_url ? (
-        // eslint-disable-next-line @next/next/no-img-element
-        <img
-          src={imgSrc(f.photo_url)}
-          alt=""
-          loading="lazy"
-          referrerPolicy="no-referrer"
-          className="w-20 h-20 rounded-lg object-cover bg-black/5 dark:bg-white/5 shrink-0"
-        />
-      ) : (
-        <div className="w-20 h-20 rounded-lg bg-black/5 dark:bg-white/5 shrink-0 grid place-items-center text-xs text-black/40 dark:text-white/40">
-          no photo
-        </div>
-      )}
+      <FacultyPhoto url={f.photo_url} />
       <div className="min-w-0 flex-1">
         <div className="flex items-baseline gap-2 flex-wrap">
           {rank !== undefined && (
