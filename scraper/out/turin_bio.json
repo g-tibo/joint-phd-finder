@@ -17,7 +17,7 @@
     "lab_url": "https://dbiosen.campusnet.unito.it/do/gruppi.pl/Show?_id=bmcd",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0002-5381-2024",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/dchamber.fotografia.jpg"
   },
   {
     "id": "turin-bio-beatrice-demarchi",
@@ -34,11 +34,11 @@
     "lab_url": "",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0002-8398-4409",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/bdemarch.fotografia.jpg"
   },
   {
-    "id": "turin-bio-nardo-giovanna-di",
-    "name": "Nardo Giovanna Di",
+    "id": "turin-bio-giovanna-di-nardo",
+    "name": "Giovanna Di Nardo",
     "institution": "Turin",
     "department": "Department of Life Sciences and Systems Biology (DBIOS)",
     "title": "Full Professor",
@@ -54,7 +54,7 @@
     "lab_url": "https://dbiosen.campusnet.unito.it/do/gruppi.pl/Show?_id=uquo",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0002-4169-2635",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/gdinardo.fotografia.png"
   },
   {
     "id": "turin-bio-giacomo-donati",
@@ -71,7 +71,7 @@
     "lab_url": "",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0002-0370-8288",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/gidonati.fotografia.jpg"
   },
   {
     "id": "turin-bio-stefano-fenoglio",
@@ -88,11 +88,11 @@
     "lab_url": "",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0001-6931-652x",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/stfenogl.fotografia.jpg"
   },
   {
-    "id": "turin-bio-pla-alessandra-fiorio",
-    "name": "Pla Alessandra Fiorio",
+    "id": "turin-bio-alessandra-fiorio-pla",
+    "name": "Alessandra Fiorio Pla",
     "institution": "Turin",
     "department": "Department of Life Sciences and Systems Biology (DBIOS)",
     "title": "Full Professor",
@@ -105,7 +105,7 @@
     "lab_url": "",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0003-4576-1594",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/afiorio.fotografia.jpg"
   },
   {
     "id": "turin-bio-andrea-genre",
@@ -125,7 +125,7 @@
     "lab_url": "https://dbiosen.campusnet.unito.it/do/gruppi.pl/Show?_id=2bq7",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0001-5029-6194",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/agenre.fotografia.jpeg"
   },
   {
     "id": "turin-bio-gianfranco-gilardi",
@@ -145,7 +145,7 @@
     "lab_url": "https://dbiosen.campusnet.unito.it/do/gruppi.pl/Show?_id=dyrs",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0002-6559-276X",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/giagilar.fotografia.jpg"
   },
   {
     "id": "turin-bio-giorgio-gribaudo",
@@ -165,7 +165,7 @@
     "lab_url": "https://dbiosen.campusnet.unito.it/do/gruppi.pl/Show?_id=h1dj",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0002-1583-9146",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/ggribaud.fotografia.jpeg"
   },
   {
     "id": "turin-bio-luisa-lanfranco",
@@ -185,7 +185,7 @@
     "lab_url": "https://dbiosen.campusnet.unito.it/do/gruppi.pl/Show?_id=2bq7",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0002-3961-2552",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/llanfran.fotografia.jpg"
   },
   {
     "id": "turin-bio-massimo-emilio-maffei",
@@ -205,7 +205,7 @@
     "lab_url": "https://dbiosen.campusnet.unito.it/do/gruppi.pl/Show?_id=nns8",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0001-6814-2353",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/mmaffei.fotografia.jpg"
   },
   {
     "id": "turin-bio-luca-munaron",
@@ -222,7 +222,7 @@
     "lab_url": "",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0001-9247-4446",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/lmunaron.fotografia.png"
   },
   {
     "id": "turin-bio-francesco-neri",
@@ -239,7 +239,7 @@
     "lab_url": "",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0003-3903-1974",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/frneri.fotografia.png"
   },
   {
     "id": "turin-bio-salvatore-oliviero",
@@ -259,7 +259,7 @@
     "lab_url": "https://dbiosen.campusnet.unito.it/do/gruppi.pl/Show?_id=o8m3",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0002-3405-765X",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/solivier.fotografia.png"
   },
   {
     "id": "turin-bio-paolo-peretto",
@@ -279,7 +279,7 @@
     "lab_url": "https://dbiosen.campusnet.unito.it/do/gruppi.pl/Show?_id=0y3b",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0001-5502-6476",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/pperetto.fotografia.png"
   },
   {
     "id": "turin-bio-silvia-perotto",
@@ -299,7 +299,7 @@
     "lab_url": "https://dbiosen.campusnet.unito.it/do/gruppi.pl/Show?_id=2bq7",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0003-0121-1806",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/sperotto.fotografia.jpg"
   },
   {
     "id": "turin-bio-antonio-rolando",
@@ -319,7 +319,7 @@
     "lab_url": "https://dbiosen.campusnet.unito.it/do/gruppi.pl/Show?_id=bmcd",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0002-3432-1780",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/arolando.fotografia.jpg"
   },
   {
     "id": "turin-bio-sheila-sadeghi",
@@ -359,7 +359,7 @@
     "lab_url": "https://dbiosen.campusnet.unito.it/do/gruppi.pl/Show?_id=2uzq",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0002-8848-4980",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/csinisca.fotografia.jpg"
   },
   {
     "id": "turin-bio-giovanna-cristina-varese",
@@ -379,7 +379,7 @@
     "lab_url": "https://dbiosen.campusnet.unito.it/do/gruppi.pl/Show?_id=lr5n",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0002-1455-6208",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/cvarese.fotografia.jpg"
   },
   {
     "id": "turin-bio-gianpiero-vigani",
@@ -396,7 +396,7 @@
     "lab_url": "",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0001-8852-3866",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/gvigani.fotografia.jpg"
   },
   {
     "id": "turin-bio-francesca-barbero",
@@ -415,7 +415,7 @@
     "lab_url": "https://dbiosen.campusnet.unito.it/do/gruppi.pl/Show?_id=f4o5",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0003-2667-0435",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/fbarbero.fotografia.jpg"
   },
   {
     "id": "turin-bio-elena-barni",
@@ -434,7 +434,7 @@
     "lab_url": "https://dbiosen.campusnet.unito.it/do/gruppi.pl/Show?_id=2uzq",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0001-7265-0064",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/elbarni.fotografia.jpg"
   },
   {
     "id": "turin-bio-cinzia-margherita-bertea",
@@ -454,7 +454,7 @@
     "lab_url": "https://dbiosen.campusnet.unito.it/do/gruppi.pl/Show?_id=nns8",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0003-2919-0445",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/cbertea.fotografia.jpg"
   },
   {
     "id": "turin-bio-sandro-bertolino",
@@ -474,7 +474,7 @@
     "lab_url": "https://dbiosen.campusnet.unito.it/do/gruppi.pl/Show?_id=p0ft",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0002-1063-8281",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/sbertoli.fotografia.jpg"
   },
   {
     "id": "turin-bio-francesca-bona",
@@ -494,7 +494,7 @@
     "lab_url": "https://dbiosen.campusnet.unito.it/do/gruppi.pl/Show?_id=bmcd",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0003-2260-8001",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/fbona.fotografia.jpg"
   },
   {
     "id": "turin-bio-simona-bonelli",
@@ -514,7 +514,7 @@
     "lab_url": "https://dbiosen.campusnet.unito.it/do/gruppi.pl/Show?_id=f4o5",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0001-5185-8136",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/sbonelli.fotografia.jpg"
   },
   {
     "id": "turin-bio-silvia-bonetta",
@@ -531,7 +531,7 @@
     "lab_url": "",
     "scholar_url": "",
     "orcid": "",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/sibonett.fotografia.jpg"
   },
   {
     "id": "turin-bio-serena-bovetti",
@@ -551,7 +551,7 @@
     "lab_url": "https://dbiosen.campusnet.unito.it/do/gruppi.pl/Show?_id=0y3b",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0002-0471-4081",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/sbovetti.fotografia.jpg"
   },
   {
     "id": "turin-bio-patrizia-bovolin",
@@ -571,7 +571,7 @@
     "lab_url": "https://www.dbios.unito.it/do/gruppi.pl/Show?_id=crts",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0002-3746-8542",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/pbovolin.fotografia.jpg"
   },
   {
     "id": "turin-bio-enrico-caprio",
@@ -591,7 +591,7 @@
     "lab_url": "https://dbiosen.campusnet.unito.it/do/gruppi.pl/Show?_id=bmcd",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0002-5997-5959",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/ecaprio.fotografia.jpg"
   },
   {
     "id": "turin-bio-luca-pietro-casacci",
@@ -608,7 +608,7 @@
     "lab_url": "",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0003-3083-7357",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/lcasacci.fotografia.png"
   },
   {
     "id": "turin-bio-sergio-castellano",
@@ -647,7 +647,7 @@
     "lab_url": "https://dbiosen.campusnet.unito.it/do/gruppi.pl/Show?_id=dyrs",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0002-4593-4507",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/gcatucci.fotografia.jpg"
   },
   {
     "id": "turin-bio-giada-cordoni",
@@ -662,7 +662,7 @@
     "lab_url": "",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0001-7093-0025",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/gcordoni.fotografia.jpg"
   },
   {
     "id": "turin-bio-stefano-d-alessandro",
@@ -677,11 +677,11 @@
     "lab_url": "",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0002-0464-5549",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/stdaless.fotografia.jpg"
   },
   {
-    "id": "turin-bio-marchis-silvia-de",
-    "name": "Marchis Silvia De",
+    "id": "turin-bio-silvia-de-marchis",
+    "name": "Silvia De Marchis",
     "institution": "Turin",
     "department": "Department of Life Sciences and Systems Biology (DBIOS)",
     "title": "Associate Professor",
@@ -696,7 +696,7 @@
     "lab_url": "https://dbiosen.campusnet.unito.it/do/gruppi.pl/Show?_id=0y3b",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0002-8096-7670",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/sdemarc.fotografia.jpg"
   },
   {
     "id": "turin-bio-kyle-graham-dexter",
@@ -713,7 +713,7 @@
     "lab_url": "",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0001-9232-5221",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/kdexter.fotografia.jpg"
   },
   {
     "id": "turin-bio-livio-favaro",
@@ -733,11 +733,11 @@
     "lab_url": "https://dbiosen.campusnet.unito.it/do/gruppi.pl/Show?_id=gfdu",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0002-8698-472X",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/lfavaro.fotografia.jpg"
   },
   {
-    "id": "turin-bio-longo-sergio-enrico-favero",
-    "name": "Longo Sergio Enrico Favero",
+    "id": "turin-bio-sergio-enrico-favero-longo",
+    "name": "Sergio Enrico Favero Longo",
     "institution": "Turin",
     "department": "Department of Life Sciences and Systems Biology (DBIOS)",
     "title": "Associate Professor",
@@ -753,7 +753,7 @@
     "lab_url": "https://dbiosen.campusnet.unito.it/do/gruppi.pl/Show?_id=6y33",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0001-7129-5975",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/sfavero.fotografia.jpg"
   },
   {
     "id": "turin-bio-valentina-fiorilli",
@@ -768,7 +768,7 @@
     "lab_url": "",
     "scholar_url": "",
     "orcid": "",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/vfiorill.fotografia.jpg"
   },
   {
     "id": "turin-bio-maria-pia-gallo",
@@ -788,7 +788,7 @@
     "lab_url": "https://dbiosen.campusnet.unito.it/do/gruppi.pl/Show?_id=23bi",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0002-0382-7607",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/mpgallo.fotografia.png"
   },
   {
     "id": "turin-bio-marco-gamba",
@@ -808,7 +808,7 @@
     "lab_url": "https://dbiosen.campusnet.unito.it/do/gruppi.pl/Show?_id=6i3a",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0001-9545-2242",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/mgamba.fotografia.jpg"
   },
   {
     "id": "turin-bio-elena-gazzano",
@@ -825,7 +825,7 @@
     "lab_url": "",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0003-0939-0562",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/egazzano.fotografia.jpg"
   },
   {
     "id": "turin-bio-tullio-genova",
@@ -842,7 +842,7 @@
     "lab_url": "",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0001-7824-8389",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/tgenova.fotografia.jpg"
   },
   {
     "id": "turin-bio-marco-giovannetti",
@@ -859,7 +859,7 @@
     "lab_url": "",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0003-4637-9880",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/magiovan.fotografia.jpeg"
   },
   {
     "id": "turin-bio-mariangela-girlanda",
@@ -879,7 +879,7 @@
     "lab_url": "https://dbiosen.campusnet.unito.it/do/gruppi.pl/Show?_id=6y33",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0003-0332-9103",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/mgirland.fotografia.jpg"
   },
   {
     "id": "turin-bio-marco-isaia",
@@ -898,7 +898,7 @@
     "lab_url": "https://dbiosen.campusnet.unito.it/do/gruppi.pl/Show?_id=bmcd",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0001-5434-2127",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/misaia.fotografia.jpg"
   },
   {
     "id": "turin-bio-anna-luganini",
@@ -918,7 +918,7 @@
     "lab_url": "https://dbiosen.campusnet.unito.it/do/gruppi.pl/Show?_id=h1dj",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0003-4256-5774",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/aluganin.fotografia.jpg"
   },
   {
     "id": "turin-bio-federico-luzzati",
@@ -938,7 +938,7 @@
     "lab_url": "https://dbiosen.campusnet.unito.it/do/gruppi.pl/Show?_id=0y3b",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0003-0648-9989",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/fluzzati.fotografia.jpg"
   },
   {
     "id": "turin-bio-elena-martino",
@@ -957,7 +957,7 @@
     "lab_url": "https://dbiosen.campusnet.unito.it/do/gruppi.pl/Show?_id=2bq7",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0003-3446-2994",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/emartino.fotografia.jpg"
   },
   {
     "id": "turin-bio-francesca-marucco",
@@ -974,7 +974,7 @@
     "lab_url": "",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0002-1390-6106",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/fmarucco.fotografia.png"
   },
   {
     "id": "turin-bio-roberto-mazzoli",
@@ -994,11 +994,11 @@
     "lab_url": "https://dbiosen.campusnet.unito.it/do/gruppi.pl/Show?_id=y4se",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0001-7674-8187",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/rmazzoli.fotografia.jpg"
   },
   {
-    "id": "turin-bio-cremasco-margherita-micheletti",
-    "name": "Cremasco Margherita Micheletti",
+    "id": "turin-bio-margherita-micheletti-cremasco",
+    "name": "Margherita Micheletti Cremasco",
     "institution": "Turin",
     "department": "Department of Life Sciences and Systems Biology (DBIOS)",
     "title": "Associate Professor",
@@ -1014,7 +1014,7 @@
     "lab_url": "https://dbiosen.campusnet.unito.it/do/gruppi.pl/Show?_id=5xwi",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0002-5948-7584",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/mmichele.fotografia.jpg"
   },
   {
     "id": "turin-bio-ivan-molineris",
@@ -1065,7 +1065,7 @@
     "lab_url": "https://dbiosen.campusnet.unito.it/do/gruppi.pl/Show?_id=5mce",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0001-8256-7980",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/mmucciar.fotografia.png"
   },
   {
     "id": "turin-bio-ivan-norscia",
@@ -1082,7 +1082,7 @@
     "lab_url": "",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0002-1618-7717",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/inorscia.fotografia.jpg"
   },
   {
     "id": "turin-bio-valeria-paola-prigione",
@@ -1099,7 +1099,7 @@
     "lab_url": "",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0002-9312-1420",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/vprigion.fotografia.jpg"
   },
   {
     "id": "turin-bio-valentina-proserpio",
@@ -1119,8 +1119,8 @@
     "photo_url": ""
   },
   {
-    "id": "turin-bio-di-fossalunga-alessandra-salvioli",
-    "name": "Di Fossalunga Alessandra Salvioli",
+    "id": "turin-bio-alessandra-salvioli-di-fossalunga",
+    "name": "Alessandra Salvioli Di Fossalunga",
     "institution": "Turin",
     "department": "Department of Life Sciences and Systems Biology (DBIOS)",
     "title": "Associate Professor",
@@ -1148,7 +1148,7 @@
     "lab_url": "",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0003-1014-8351",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/oskorokh.fotografia.jpg"
   },
   {
     "id": "turin-bio-irene-stefanini",
@@ -1167,7 +1167,7 @@
     "lab_url": "https://dbiosen.campusnet.unito.it/do/gruppi.pl/Show?_id=h1dj",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0002-5629-9174",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/istefani.fotografia.jpg"
   },
   {
     "id": "turin-bio-cristina-tuni",
@@ -1184,7 +1184,7 @@
     "lab_url": "",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0002-7190-1143",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/ctuni.fotografia.jpg"
   },
   {
     "id": "turin-bio-tiziana-ulian",
@@ -1201,7 +1201,7 @@
     "lab_url": "",
     "scholar_url": "",
     "orcid": "",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/tulian.fotografia.jpg"
   },
   {
     "id": "turin-bio-francesca-valetti",
@@ -1221,7 +1221,7 @@
     "lab_url": "https://dbiosen.campusnet.unito.it/do/gruppi.pl/Show?_id=uquo",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0002-8380-595X",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/fvaletti.fotografia.jpg"
   },
   {
     "id": "turin-bio-alfredo-vizzini",
@@ -1238,7 +1238,7 @@
     "lab_url": "",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0001-8390-6446",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/avizzini.fotografia.jpg"
   },
   {
     "id": "turin-bio-rosa-boano",
@@ -1298,7 +1298,7 @@
     "lab_url": "https://www.dbios.unito.it/do/gruppi.pl/Show?_id=crts",
     "scholar_url": "",
     "orcid": "",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/bmognett.fotografia.jpg"
   },
   {
     "id": "turin-bio-anna-perazzone",
@@ -1318,7 +1318,7 @@
     "lab_url": "https://dbiosen.campusnet.unito.it/do/gruppi.pl/Show?_id=p0ft",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0003-1044-1363",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/aperaz.fotografia.jpg"
   },
   {
     "id": "turin-bio-martino-adamo",
@@ -1335,7 +1335,7 @@
     "lab_url": "",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0001-7571-3505",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/madamo.fotografia.jpg"
   },
   {
     "id": "turin-bio-sara-bonzano",
@@ -1355,7 +1355,7 @@
     "lab_url": "https://dbiosen.campusnet.unito.it/do/gruppi.pl/Show?_id=0y3b",
     "scholar_url": "",
     "orcid": "",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/sbonzano.fotografia.jpg"
   },
   {
     "id": "turin-bio-livia-caizzi",
@@ -1372,7 +1372,7 @@
     "lab_url": "",
     "scholar_url": "",
     "orcid": "",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/lcaizzi.fotografia.jpg"
   },
   {
     "id": "turin-bio-andrea-lauria",
@@ -1389,7 +1389,7 @@
     "lab_url": "",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0003-4753-861X",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/anlauria.fotografia.jpg"
   },
   {
     "id": "turin-bio-alex-laini",
@@ -1404,7 +1404,7 @@
     "lab_url": "",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0002-3458-7538",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/alaini.fotografia.jpg"
   },
   {
     "id": "turin-bio-giuseppe-mannino",
@@ -1421,7 +1421,7 @@
     "lab_url": "",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0003-0047-978X",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/gmannino.fotografia.png"
   },
   {
     "id": "turin-bio-elena-piano",
@@ -1458,7 +1458,7 @@
     "lab_url": "",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0002-3084-0380",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/feruffin.fotografia.png"
   },
   {
     "id": "turin-bio-tiziano-bo",
@@ -1475,7 +1475,7 @@
     "lab_url": "",
     "scholar_url": "",
     "orcid": "https://orcid.org/0009-0000-4444-4912",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/tbo.fotografia.jpg"
   },
   {
     "id": "turin-bio-matteo-chialva",
@@ -1490,7 +1490,7 @@
     "lab_url": "",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0002-6996-6642",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/mchialva.fotografia.jpeg"
   },
   {
     "id": "turin-bio-danilo-correddu",
@@ -1524,7 +1524,7 @@
     "lab_url": "",
     "scholar_url": "",
     "orcid": "",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/loddi.fotografia.jpg"
   },
   {
     "id": "turin-bio-sara-petrillo",
@@ -1541,7 +1541,7 @@
     "lab_url": "",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0002-4349-726X",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/spetrill.fotografia.jpg"
   },
   {
     "id": "turin-bio-alexandru-ungureanu",
@@ -1556,7 +1556,7 @@
     "lab_url": "",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0002-8780-1737",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/aungurea.fotografia.png"
   },
   {
     "id": "turin-bio-daria-valente",
@@ -1573,6 +1573,6 @@
     "lab_url": "",
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0001-6086-5135",
-    "photo_url": ""
+    "photo_url": "https://www.campusnet.unito.it/docenti/att/davalent.fotografia.jpeg"
   }
 ]

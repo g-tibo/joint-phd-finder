@@ -102,6 +102,22 @@ def _extract_team_leaders(soup: BeautifulSoup) -> list[dict]:
     return leaders
 
 
+def _fetch_photo(profile_url: str) -> str:
+    """Fetch a leader's IBPS directory page and return their headshot URL.
+    Returns "" on any failure — photos are best-effort enrichment."""
+    try:
+        html = get(profile_url)
+    except Exception:
+        return ""
+    soup = BeautifulSoup(html, "html.parser")
+    for img in soup.find_all("img"):
+        src = img.get("src", "")
+        # IBPS serves headshots under /ressources/whoswho/<bucket>/...-pic.jpeg
+        if "/ressources/whoswho/" in src and src.lower().endswith((".jpeg", ".jpg", ".png")):
+            return urljoin(BASE, src)
+    return ""
+
+
 def _team_title(soup: BeautifulSoup, fallback: str) -> str:
     """First non-noise h1/h2 on the page — the team's display name."""
     noise = {
@@ -207,7 +223,7 @@ def scrape() -> list[Faculty]:
                     "lab_url": url,
                     "scholar_url": "",
                     "orcid": "",
-                    "photo_url": "",
+                    "photo_url": _fetch_photo(L["profile_url"]),
                 }
                 out.append(rec)
         except Exception as e:

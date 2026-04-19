@@ -118,6 +118,26 @@ def _parse_profile(name: str, url: str, role_en: str) -> Faculty:
     )
     row_text = row.get_text(" ", strip=True) if row else ""
 
+    # The profile page renders the name correctly as "First Last" in an h2,
+    # compound surnames intact ("Giovanna Di Nardo"). Prefer that over the
+    # index-page "Last First" form which we only split with fragile heuristics.
+    if row:
+        name_el = row.find(["h1", "h2", "h3"])
+        if name_el:
+            clean = clean_text(name_el.get_text(" ", strip=True))
+            if clean:
+                name = clean
+
+    # Photo — UniTO hosts each staff member's headshot at a predictable path
+    # keyed on their campusnet _id: /docenti/att/<id>.fotografia.<ext>
+    # The extension varies per record (png or jpg), so match on the stem.
+    photo = ""
+    for img in soup.find_all("img"):
+        src = img.get("src", "")
+        if "campusnet.unito.it/docenti/att/" in src and ".fotografia." in src:
+            photo = src
+            break
+
     ssd_name = ""
     m = re.search(
         r"SSD:\s*([A-Z0-9\-/]+)\s*-\s*([^O]{3,80}?)\s*(?:ORCID:|$)", row_text
@@ -181,7 +201,7 @@ def _parse_profile(name: str, url: str, role_en: str) -> Faculty:
         "lab_url": group_url if group_url else "",
         "scholar_url": "",
         "orcid": orcid,
-        "photo_url": "",
+        "photo_url": photo,
     }
 
 
