@@ -76,12 +76,16 @@ _RANKED_TITLE_RE = re.compile(
 
 # Titles that indicate a non-ranked / support / trainee position — drop
 # the record if present, even if a ranked keyword also appears.
+# "Flagship Pioneering" is the Cambridge MA biotech-VC firm; NTU profiles
+# sometimes list it as a secondary title for affiliated faculty who aren't
+# primary NTU supervisors.
 _EXCLUDED_TITLE_RE = re.compile(
     r"\b(?:lecturer|senior\s+lecturer|instructor|"
     r"research\s+fellow|postdoctoral|post[-\s]?doc|"
     r"research\s+associate|research\s+engineer|research\s+assistant|"
     r"teaching\s+assistant|teaching\s+fellow|"
     r"adjunct|visiting|honorary|emeritus|affiliated|"
+    r"flagship\s+pioneering|"
     r"graduate\s+student|phd\s+student|doctoral\s+student|intern)\b",
     re.I,
 )
