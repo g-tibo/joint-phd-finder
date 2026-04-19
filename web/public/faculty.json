@@ -22514,6 +22514,93 @@
     "partnership_type": "Degree"
   },
   {
+    "id": "tum-nat-alejandro-ibarra",
+    "name": "Alejandro Ibarra",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Physics",
+    "title": "Prof. Dr.",
+    "roles": [
+      "T30d Elementary Particle Physics"
+    ],
+    "research_areas": [
+      "T30d Elementary Particle Physics"
+    ],
+    "summary": "Prof. Ibarra’s (b. 1974) scientific research centers on theoretical elementary particle physics, in particular physics beyond the standard model, neutrino physics, super symmetry and astroparticle physics. He has worked on models of neutrino masses, rare leptonic decay, the indirect detection of dark matter and leptogenesis as a model for the origin of the universe’s matter/antimatter asymmetry. Prof. Ibarra studied Physics at Universidad Complutense de Madrid and obtained his doctorate at Universidad Autonoma de Madrid in 2000. He did postdoctoral research at Oxford University and CERN in Geneva. Prior to joining DESY, the particle research center in Hamburg, he held a Ramon y Cajal postdoc position at the Institute for Theoretical Physics (IFT) in Madrid. In 2008, he became professor of theoretical elementary particle physics at TUM.",
+    "profile_url": "https://www.professoren.tum.de/en/ibarra-alejandro",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=7354E0C422627F27",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-aleksey-min",
+    "name": "Aleksey Min",
+    "institution": "TUM",
+    "department": "TUM School of Computation, Information and Technology — Department of Mathematics",
+    "title": "Prof. Dr. rer. nat. habil.",
+    "roles": [
+      "Mathematical Finance"
+    ],
+    "research_areas": [
+      "Mathematical Finance"
+    ],
+    "summary": "Prof. Dr. Min's research focuses on asymptotic statistics, Bayesian statistics, multivariate time series, econometrics, quantification of uncertainties and statistical tests. Prof. Dr. Aleksey Min studied mathematics at Tashkent State University in Uzbekistan. In 2004, he received his Ph.D. from the Georg-August University in Göttingen. He then moved to the TUM, where the Faculty of Mathematics habilitated him in 2011. Aleksey Min was appointed as adjunct professor at the TUM in 2022. Curriculum Vitae",
+    "profile_url": "https://www.professoren.tum.de/en/min-aleksey",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=0A517AAF4B844F0E",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-alexander-holleitner",
+    "name": "Alexander Holleitner",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Physics",
+    "title": "Prof. Dr. rer. nat.",
+    "roles": [
+      "Experimentalphysik - Nanotechnologie und Nanomaterialien (Walter Schottky-Institut)"
+    ],
+    "research_areas": [
+      "Experimentalphysik - Nanotechnologie und Nanomaterialien",
+      "Walter Schottky-Institut"
+    ],
+    "summary": "Prof. Holleitner's (*1973) research area is topological and nanoscale quantum materials, nanofabrication as well as atomistic optoelectronics of two-dimensional materials and ultrafast on-chip THz electronics. Prof. Holleitner studied physics at the Ludwig-Maximilians-Universität (LMU) in Munich and the University of Nottingham (UK). He received his PhD in 2002 on the topic of coherent states in quantum dots in the group of Prof. Jörg Kotthaus at LMU. From 2003 to 2005, he was a postdoctoral fellow of the California Nanosystems Institute (CNSI) in the group of Prof. David Awschalom at the University of California, Santa Barbara (USA). Subsequently, Alexander Holleitner was junior professor for nanoscience at the Center for NanoScience (CeNS) at LMU. Since 2007, he is professor at TUM in the field of nanoscale optoelectronics. In 2020, he joined the directorship of the Walter Schottky Institute (WSI) and now heads the chair as well as the Center for Nanotechnology and Nanomaterials (ZNN) at TUM.",
+    "profile_url": "https://www.professoren.tum.de/en/holleitner-alexander",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=24E4B6A7222A3D43",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-aliaksandr-bandarenka",
+    "name": "Aliaksandr Bandarenka",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Physics",
+    "title": "Prof. Dr.",
+    "roles": [
+      "Physics of Energy Conversion and Storage"
+    ],
+    "research_areas": [
+      "Physics",
+      "Energy Conversion",
+      "Storage"
+    ],
+    "summary": "Professor Bandarenka conducts research in the area of the physics of energy conversion and storage. His main topics include the design and implementation of functional materials and a better understanding and characterization of electrified interfaces. The material design is based on a bottom-up approach using input from electrochemical surface science and starting from model surfaces. Professor Bandarenka attended Belarusian State University (BSU). He earned his undergraduate degree in chemistry in 2002 and his PhD in 2005 working under the supervision of Dr. G.A. Ragoisha. After completing his PhD he was a postdoctoral researcher at the University of Twente in the Netherlands. In this role he worked with Professor H.J.M. Bouwmeester and Professor B.A. Boukamp on the development of new proton conducting electrolytes. In 2008 he moved to the Technical University of Denmark where he worked with Professor I. Chorkendorff and Professor J. Norskov on electrocatalysis for energy conversion. In 2010 he became a group leader at the Center for Electrochemical Sciences (CES) at Ruhr University Bochum, Germany. Since 2014 he has been a W2 professor at TUM and was advanced to W3 Professor in ",
+    "profile_url": "https://www.professoren.tum.de/en/bandarenka-aliaksandr",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=B1EC8B72DF5CD198",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
     "id": "tum-nat-ana-benitez-mateos",
     "name": "Ana Benitez Mateos",
     "institution": "TUM",
@@ -22553,6 +22640,110 @@
     "scholar_url": "",
     "orcid": "",
     "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=5BCDFF4978BD048B",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-andreas-reiserer",
+    "name": "Andreas Reiserer",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Physics",
+    "title": "Prof. Dr. rer. nat. habil.",
+    "roles": [
+      "Quantum Networks"
+    ],
+    "research_areas": [
+      "Quantum Networks"
+    ],
+    "summary": "The research of Prof. Reiserer is focused on the development of quantum networks, in which individual quantum systems are connected and entangled by exchanging particles of light. In this context, the group of Prof. Reiserer investigates novel hardware platforms, in particular erbium dopants in silicon. This system has a unique promise for future applications, which originates from the combination of quantum technologies with established semiconductor technology. Prof. Reiserer (*1985) studied Physics at the University of Würzburg and the MPI of Biophysical Chemistry in Göttingen. He completed his PhD thesis \"A controlled phase gate between a single atom and an optical photon“ in 2014 at the MPI of Quantum Optics in Garching. As a Postdoc, he worked at the Kavli Institute of Nanoscience and the QuTech institute in Delft. Since 2016, he has led an independent research group at the MPI of Quantum Optics. In 2022, he was appointed as a professor of Quantum Networks at TU Munich.",
+    "profile_url": "https://www.professoren.tum.de/en/reiserer-andreas",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=49890CFBFBB5CE06",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-andreas-schulz",
+    "name": "Andreas Schulz",
+    "institution": "TUM",
+    "department": "TUM School of Computation, Information and Technology — Department of Mathematics",
+    "title": "Prof. Dr. rer. nat.",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.math.cit.tum.de/en/math/people/professors/schulz-andreas-s/",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=ABFA9B06147F16C6",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-andreas-weiler",
+    "name": "Andreas Weiler",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Physics",
+    "title": "Prof. Dr. rer. nat.",
+    "roles": [
+      "Theoretical Elementary Particle Physics"
+    ],
+    "research_areas": [
+      "Theoretical Elementary Particle Physics"
+    ],
+    "summary": "Andreas Weiler (b. 1975) works in the field of theoretical particle physics. His focus is on physics beyond the Standard Model, which tries to unravel the nature of dark matter or the dynamics of electro-weak symmetry breaking. The aim of his work is to develop plausible theories that address the problems of the Standard Model and to derive their experimental signatures which can, for instance, be tested at the Large Hadron Collider at CERN in Geneva. Weiler studied physics at Stuttgart University, Oregon State University and TUM, where he received his PhD 2007. After working as a post-doctoral researcher at Cornell University (NY) and as a fellow at the European Center for Particle Physics (CERN) in Geneva, in 2011 he became a permanent researcher at the German Electron Synchrotron (DESY) in Hamburg. In 2013 he returned to CERN as a staff member in the theory group. He joined the physics department at TUM in 2015.",
+    "profile_url": "https://www.professoren.tum.de/en/weiler-andreas",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=E154A43148FB5400",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-andreas-wiese",
+    "name": "Andreas Wiese",
+    "institution": "TUM",
+    "department": "TUM School of Computation, Information and Technology — Department of Mathematics",
+    "title": "Prof. Dr. rer. nat.",
+    "roles": [
+      "Discrete Mathematics, Optimization, and Convexity"
+    ],
+    "research_areas": [
+      "Discrete Mathematics",
+      "Optimization",
+      "Convexity"
+    ],
+    "summary": "Andreas Wiese works on combinatorial optimization problems. These are problems in which the best or a very good solution needs to be found among very many possible solutions, as quickly as possible with the help of a computer. The goal is to program the computer with a so-called algorithm in such a way that it finds the desired solution very fast. For example, if you use your smartphone to find the best way to some destination, then such an algoritihm is used, and it typically finds the best way for you in less than a second. Andreas Wiese studied mathematics at the TU Berlin where he also did his PhD in mathematics. He was a postdoc at the \"La Sapienza\" University in Rome and at the MPI for Informatics in Saarbrücken. He has also been a professor at the Universidad de Chile in Santiago and at the Vrije Universiteit Amsterdam. Finally, Andreas Wiese joined TUM in 2022.",
+    "profile_url": "https://www.professoren.tum.de/en/wiese-andreas",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=6CCF08900F9C78E9",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-angela-casini",
+    "name": "Angela Casini",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Chemistry",
+    "title": "Prof. Dr.",
+    "roles": [
+      "Medicinal and Bioinorganic Chemistry"
+    ],
+    "research_areas": [
+      "Medicinal",
+      "Bioinorganic Chemistry"
+    ],
+    "summary": "The research of Prof. Casini (*1973) spans the areas of inorganic, bioinorganic and medicinal chemistry. The study of the role of metal ions in biological systems and of the mechanisms of action of metal-based drugs are active topics of her research program. The design of the metal compounds targeted to selected biomolecules (proteins and nucleic acids) is optimized to exploit metal-templated reactions for bioorthogonal transformations in aqueous environment, eventually enabling catalysis in living systems. Furthermore, novel applications for metal compounds and supramolecular coordination complexes are explored in various domains of chemical biology, drug delivery and medicine. Professor Casini completed her PhD in Chemistry at the University of Florence (Italy) in 2004, and, afterwards, moved to EPFL (Switzerland) as senior scientist funded by the Swiss National Science Foundation. Between 2011-2015 she has been assistant professor at the University of Groningen (The Netherlands), holding a Rosalind Franklin Fellowship. Between 2015-2019, she was also professor at Cardiff University (UK), before taking up her current position as Chair of Medicinal and Bioinorganic Chemistry at TU",
+    "profile_url": "https://www.professoren.tum.de/en/casini-angela",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=8D3B848D5C75485D",
     "partner_university": "TUM",
     "partnership_type": "Supervision"
   },
@@ -22706,6 +22897,70 @@
     "partnership_type": "Supervision"
   },
   {
+    "id": "tum-nat-barbara-kraus",
+    "name": "Barbara Kraus",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Physics",
+    "title": "Prof. Dr. rer. nat. Mag.",
+    "roles": [
+      "Quantum algorithms and applications"
+    ],
+    "research_areas": [
+      "Quantum algorithms",
+      "applications"
+    ],
+    "summary": "A central problem in quantum physics is to understand which relevant tasks can be efficiently solved by a quantum computer. It is important to consider the limitations of quantum processors, such as errors that occur during computation. Intensive research is needed to solve this complex problem. Among other things, my research group is working on identifying new, feasible applications within quantum information processing and on the verification of quantum processors. Prof. Mag. Dr. Barbara Kraus studied physics and mathematics at the University of Innsbruck. After post-doctoral stays at the MPI for Quantum Optics, Garching and at the University of Geneva, she returned to the University of Innsbruck. Her research has been honored by the START Prize and the Ignaz L. Lieben Prize, among others. In 2010, she founded her research group. In 2013 she became associate professor and in 2020 professor at the University of Innsbruck. In 2023, she was appointed to the professorship of Quantum Algorithms and Applications at TUM. Curriculum Vitae",
+    "profile_url": "https://www.professoren.tum.de/en/kraus-barbara",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=BE2BA4F50FA6AC25",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-barbara-lechner",
+    "name": "Barbara Lechner",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Chemistry",
+    "title": "Prof. Dr.",
+    "roles": [
+      "Functional Nanomaterials"
+    ],
+    "research_areas": [
+      "Functional Nanomaterials"
+    ],
+    "summary": "The group of Barbara Lechner investigates the dynamic restructuring of functional nanomaterials under realistic conditions, e.g. model catalysts under reactive gas atmospheres. To this purpose, they place a scanning tunneling microscope with high temporal and spatial resolution directly into gas mixtures. By using small clusters with a precisely defined number of atoms, they investigate how the structure of metal particles and oxide supports changes under these conditions and influences the function of the material. Prof. Lechner studied Chemistry at the University of Innsbruck, Austria, where she obtained her M. Sc. degree in 2008. She pursued her Ph.D. studies in Physics at the University of Cambridge, UK. As a postdoc, she joined the group of Prof. Miquel Salmeron at the Lawrence Berkeley National Laboratory, CA, and in 2016, she became a group leader at the Chair of Physical Chemistry at the Technical University of Munich. In October 2020, Lechner was appointed Rudolf Mößbauer Professor at TUM, leading a research group in functional nanomaterials.",
+    "profile_url": "https://www.professoren.tum.de/en/lechner-barbara",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=7B158F046D866C25",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-barbara-wohlmuth",
+    "name": "Barbara Wohlmuth",
+    "institution": "TUM",
+    "department": "TUM School of Computation, Information and Technology — Department of Mathematics",
+    "title": "Prof. Dr. rer. nat.",
+    "roles": [
+      "Numerical Analysis"
+    ],
+    "research_areas": [
+      "Numerical Analysis"
+    ],
+    "summary": "The research of Professor Wohlmuth examines the numerical simulation of partial differential equations. Special areas of interest here are discretization techniques, multi-scale solvers, coupled multi-field problems and predictive modelling. Interdisciplinary cooperation with engineering experts is an important part of her work. Professor Wohlmuth studied mathematics at TUM and at Grenoble. She also received her doctorate from TUM (1995) and completed her postdoctoral teaching qualification at Augsburg. Various positions as visiting scientist or professor led her to the US, to France, Hong Kong and Norway. In 2001, she was appointed to her first chair position at the University of Stuttgart, followed by professorship positions at Darmstadt and Berlin. In 2010, Professor Wohlmuth joined the faculty of TUM. She serves on academic boards of highly renowned institutions in the US and Europe, and (co-)publishes different international journals. She has headed the International Graduate School of Science and Engineering at TUM since 2016 and forges new paths for training young scientists.",
+    "profile_url": "https://www.professoren.tum.de/en/wohlmuth-barbara",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=5EE13E0A2C5026D1",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
     "id": "tum-bio-bastian-blombach",
     "name": "Bastian Blombach",
     "institution": "TUM",
@@ -22723,6 +22978,23 @@
     "scholar_url": "",
     "orcid": "",
     "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/5/6/csm_prof-blombach-bastian_fa8967f61e.webp",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-bastian-markisch",
+    "name": "Bastian Märkisch",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Physics",
+    "title": "Prof. Dr. rer. nat.",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/pl/ui/$ctx/visitenkarte.show_vcard?$ctx=design=ca2;header=max;lang=de&pPersonenGruppe=3&pPersonenId=15E976072D4C5B09",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=15E976072D4C5B09",
     "partner_university": "TUM",
     "partnership_type": "Supervision"
   },
@@ -22791,6 +23063,44 @@
     "partnership_type": "Supervision"
   },
   {
+    "id": "tum-nat-bjorn-garbrecht",
+    "name": "Björn Garbrecht",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Physics",
+    "title": "Prof. Dr. rer. nat.",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/pl/ui/$ctx/visitenkarte.show_vcard?$ctx=design=ca2;header=max;lang=de&pPersonenGruppe=3&pPersonenId=5C7EE038AF1CFFAF",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=5C7EE038AF1CFFAF",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-boris-vexler",
+    "name": "Boris Vexler",
+    "institution": "TUM",
+    "department": "TUM School of Computation, Information and Technology — Department of Mathematics",
+    "title": "Prof. Dr. rer. nat.",
+    "roles": [
+      "Optimal Control"
+    ],
+    "research_areas": [
+      "Optimal Control"
+    ],
+    "summary": "Prof. Vexler’s (b. 1977) research area is the numerical analysis of problems described with partial differential equations (PDEs). The focus of this work is on developing and analyzing efficient numerical algorithms to solve optimization problems with PDEs. Prof. Vexler studied at Lomonosov University in Moscow and the University of Heidelberg. He obtained his doctorate at Heidelberg in 2004 and his lecturer qualification at the University of Graz in 2008. After completing his doctorate, he worked at the RICAM Institute of the Austrian Academy of Sciences in Linz and, in 2008, was appointed professor for control theory at TUM. After rejecting calls to the universities of Vienna and Düsseldorf, Prof. Vexler was appointed to the Chair of Optimal Control at TUM in 2013. He has served as speaker of the International Research Training Group IGDK 1754 since 2012 and since 2015, he has been dean of studies of the TUM Department of Mathematics. Curriculum Vitae",
+    "profile_url": "https://www.professoren.tum.de/en/vexler-boris",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=F1C45C8297BE5A0A",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
     "id": "tum-bio-brigitte-poppenberger",
     "name": "Brigitte Poppenberger",
     "institution": "TUM",
@@ -22851,6 +23161,27 @@
     "partnership_type": "Supervision"
   },
   {
+    "id": "tum-nat-caroline-lasser",
+    "name": "Caroline Lasser",
+    "institution": "TUM",
+    "department": "TUM School of Computation, Information and Technology — Department of Mathematics",
+    "title": "Prof. Dr.",
+    "roles": [
+      "Numerics for partial differential equations"
+    ],
+    "research_areas": [
+      "Numerics for partial differential equations"
+    ],
+    "summary": "Prof. Lasser (b. 1975) conducts research in the field of applied mathematics, focusing on numerical analysis and computational science. Her particular interest lies in Schrödinger equations, which describe molecular quantum processes from the atto- and femtosecond time scale. Prof. Lasser’s work ranges from rigorous mathematical analysis to algorithm design for the simulation of molecular quantum dynamics. After studying mathematics at Munich’s Ludwig Maximilian University, Prof. Lasser obtained her doctorate at TUM in 2004. From 2005 to 2010, she was junior research group leader and professor of applied mathematics at Freie Universität Berlin. She has spent lengthy periods doing research at New York University’s Courant Institute, the Mathematical Sciences Research Institute (MSRI) in Berkeley, USA, the University of Warwick, England and the Université Paris XII. Since 2010, she has held the position of professor of numerics for partial differential equations at TUM. Curriculum Vitae",
+    "profile_url": "https://www.professoren.tum.de/en/lasser-caroline",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=B23CDB6F32470320",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
     "id": "tum-nat-cathleen-zeymer",
     "name": "Cathleen Zeymer",
     "institution": "TUM",
@@ -22889,6 +23220,248 @@
     "scholar_url": "",
     "orcid": "",
     "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/5/5/csm_prof-schoen-chris-carolin_6b5869f475.webp",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-christian-back",
+    "name": "Christian Back",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Physics",
+    "title": "Prof. Dr. rer. nat.",
+    "roles": [
+      "Experimental Physics of Functional Spin Systems"
+    ],
+    "research_areas": [
+      "Experimental Physics",
+      "Functional Spin Systems"
+    ],
+    "summary": "Professor Back (b. 1966) works in the field of condensed matter physics. His research activity encompasses the high-quality fabrication of hybrid magnetic layered systems and the investigation of their dynamic magnetic properties on picosecond time scales. Nanostructured magnetic elements are investigated using magnetic microscopy methods with high temporal and spatial resolution. The spectrum is broadened by static and dynamic magneto-transport methods. Professor Back studied physics at the Technical University of Munich and at RWTH Aachen. He completed his doctoral research at ETH Zurich from 1992 to 1995. He then worked as a postdoctoral researcher, first at the Stanford Linear Accelerator Center (1995-1996) and then at IBM San Jose (1996-1997). From 1998 to 2001 he held a position as research assistant at ETH Zurich. In 2001 he accepted the offer of a position as Full Professor of experimental physics at the University of Regensburg. In 2017 he was appointed Full Professor of experimental physics at the Technical University of Munich, where he specializes in the field of functional spin systems. Professor Back was a member of the board of the German Research Foundation’s (DFG) ",
+    "profile_url": "https://www.professoren.tum.de/en/back-christian",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=E9521DE150D26044",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-christian-karpfinger",
+    "name": "Christian Karpfinger",
+    "institution": "TUM",
+    "department": "TUM School of Computation, Information and Technology — Department of Mathematics",
+    "title": "Prof. Dr. rer. nat.",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.math.cit.tum.de/algebra/karpfing/",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=B11EB0AF28FA1133",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-christian-kuhn",
+    "name": "Christian Kühn",
+    "institution": "TUM",
+    "department": "TUM School of Computation, Information and Technology — Department of Mathematics",
+    "title": "Prof. Dr.",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.math.cit.tum.de/en/math/people/professors/kuehn-christian/",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=D510DABE8741F0C3",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-christian-liedtke",
+    "name": "Christian Liedtke",
+    "institution": "TUM",
+    "department": "TUM School of Computation, Information and Technology — Department of Mathematics",
+    "title": "Prof. Dr. rer. nat.",
+    "roles": [
+      "Algebraic Geometry"
+    ],
+    "research_areas": [
+      "Algebraic Geometry"
+    ],
+    "summary": "The field of research of Professor Liedtke (b. 1976) is algebraic geometry situated at the nexus of classical, complex and arithmetic geometry. His research deals with the classification of algebraic surfaces (in particular K3 surfaces and surfaces of general type in positive characteristic), elliptic curves and fibrations, fundamental groups and the construction of rational curves. Professor Liedtke studied mathematics at the University of Göttingen and the University of Warwick from 1996 to 2001 and graduated in 2001 under the supervision of Professor Catanese. He subsequently performed his doctoral studies under the supervision of Professor Faltings at the Max Planck Institute (MPI) for Mathematics in Bonn. After obtaining his doctoral degree in 2004 he worked as a research assistant at the University of Düsseldorf and from 2009 to 2011 he conducted research at Stanford University as a recipient of a DFG-scholarship. After his habilitation (2011), he was a Research Associate at the University of Bonn; from 2013 until his appointment as Associate Professor in 2017, he was Tenure Track Assistant Professor at TUM. Prof. Liedtke has been a Full Professor at TUM since 2022. From 2018",
+    "profile_url": "https://www.professoren.tum.de/en/liedtke-christian",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=0F1EC6538E77675A",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-christian-pfleiderer",
+    "name": "Christian Pfleiderer",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Physics",
+    "title": "Prof. Dr.",
+    "roles": [
+      "Topology of Correlated Systems"
+    ],
+    "research_areas": [
+      "Topology",
+      "Correlated Systems"
+    ],
+    "summary": "Professor Pfleiderer (b. 1965) carries out research in the field of experimental solid state physics. The primary focus of his research is the systematic search for new material properties with unusual topological characteristics and strong electronic correlations in the areas of magnetism and superconductivity. His portfolio of experimental methods encompasses the single crystal growth of intermetallic compounds, the measurement of transport and volume properties under extreme conditions and a wide range of scattering methods. Professor Pfleiderer studied physics in Tübingen and Denver. He acquired his doctoral degree from the University of Cambridge which he attended between 1990 and 1994. Subsequently he worked as a postdoctoral researcher at the Atomic Energy and Alternative Energies Commission (CEA) in Grenoble (1994-1996) and headed a Helmholtz junior university research group in Karlsruhe. In 2004 he was appointed associate professor of magnetic materials and in 2014 full professor of topology of correlated systems at TUM. Pfleiderer was on the board of the Transregio 80 of the DFG and speaker of the associated Integrated Graduate School. He is speaker of the Priority Progra",
+    "profile_url": "https://www.professoren.tum.de/en/pfleiderer-christian",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=9F6EDFF8270D9811",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-christina-kuttler",
+    "name": "Christina Kuttler",
+    "institution": "TUM",
+    "department": "TUM School of Computation, Information and Technology — Department of Mathematics",
+    "title": "Prof. Dr. rer. nat.",
+    "roles": [
+      "Mathematics in Life Sciences"
+    ],
+    "research_areas": [
+      "Mathematics in Life Sciences"
+    ],
+    "summary": "The research interests of Prof. Kuttler (b. 1973) are in the field of biomathematics, especially deterministic mathematical models. One particular focus is on modeling bacterial communications. Here, she examines intracellular regulation mechanisms and diffusion processes. She aims to gain a better understanding of the underlying mechanisms and provide a quantitative description. Prof. Kuttler studied mathematics, physics and computer science at the University of Tübingen. She obtained her doctorate in 2000 and did postdoctoral research at that university’s Chair of Biomathematics. After that, she worked at the Institute of Biomathematics and Biometry at the Helmholtz-Zentrum in Munich, as part of the interdisciplinary research project on molecular interactions in the rhizosphere. In 2008, Prof. Kuttler became a professor at TUM. Curriculum Vitae",
+    "profile_url": "https://www.professoren.tum.de/en/kuttler-christina",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=0E7721100F59189F",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-christine-papadakis",
+    "name": "Christine Papadakis",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Physics",
+    "title": "Prof. Ph.D.",
+    "roles": [
+      "Soft Matter Physics"
+    ],
+    "research_areas": [
+      "Soft Matter Physics"
+    ],
+    "summary": "Prof. Papadakis (b. 1967) conducts research on experimental soft matter physics, with particular emphasis on polymers. Her research uses scattering methods with light, X-rays and neutrons to investigate polymers of complex architecture, responsive polymers, block copolymers and polymers for drug delivery. She conducts time-resolved scattering experiments during rapid changes of the environment to characterize the switching mechanisms. Neutron spectroscopy elucidates the underlying interactions with the solvent. After studying physics at the Universities of Mainz and Grenoble, she completed her doctorate in 1996 at the University of Roskilde, Denmark. Following a postdoctoral stay (1996-98) at Risø National Laboratory, Roskilde, Denmark, Prof. Papadakis earned her postdoctoral teaching qualification at the University of Leipzig (1998-2003). She has been a professor in the TUM Department of Physics since 2003. She has been a member of proposal committees at several large-scale facilities and, since April 2015, editor-in-chief at Colloid & Polymer Science , Springer Verlag. Curriculum Vitae",
+    "profile_url": "https://www.professoren.tum.de/en/papadakis-christine",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=080F6A7CED537791",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-christoph-knochenhauer",
+    "name": "Christoph Knochenhauer",
+    "institution": "TUM",
+    "department": "TUM School of Computation, Information and Technology — Department of Mathematics",
+    "title": "Prof. Dr. rer. nat.",
+    "roles": [
+      "Financial Mathematics"
+    ],
+    "research_areas": [
+      "Financial Mathematics"
+    ],
+    "summary": "Prof. Knochenhauer's field of research is the area of Stochastic Control with applications in Mathematical Finance with a particular focus on optimal investment problems for institutional and private investors. Further fields of research are Machine Learning methods in Finance and foundational research and numerical aspects of Partial Differential Equations using probabilistic representations. Prof. Knochenhauer obtained his Ph.D. in Mathematics in 2015 at the Technical University of Kaiserslautern and at Dublin City University. A postdoc phase at University of Trier was followed in 2019 by a Junior Professor position for Stochastics and Quantitative Mathematical Finance at the Technical University of Berlin. 2023 Prof. Knochenhauer was appointed to the professorship for Mathematical Finance at TUM. Curriculum Vitae",
+    "profile_url": "https://www.professoren.tum.de/en/knochenhauer-christoph",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=19F4F4257F9AF912",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-christopher-stein",
+    "name": "Christopher Stein",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Chemistry",
+    "title": "Prof. Dr.",
+    "roles": [
+      "Theoretical chemistry"
+    ],
+    "research_areas": [
+      "Theoretical chemistry"
+    ],
+    "summary": "Prof. Stein's (*1989) field of research is the understanding of (electro-)catalytic processes with the methodology of theoretical chemistry. To understand and optimize these processes, electronic structure models for exploratory and highly accurate calculations are developed in his group. Solvation and embedding models then allow an adequate description of the environment. A special focus lies on the identification of relevant catalyst structures by means of modern simulation methods. Prof. Stein studied chemistry at the Georg-August University Göttingen. He then began his PhD studies in theoretical chemistry under the supervision of Prof. Markus Reiher at ETH Zürich which he completed in 2017. After a postdoctoral appointment in the group of Prof. Martin Head-Gordon at UC Berkeley, he started his independent research group on “Computational Science of Interfaces” in theoretical physics at the University Duisburg-Essen in 2021. He was appointed Associate Professor for Theoretical Chemistry at TUM in 2022. Curriculum Vitae",
+    "profile_url": "https://www.professoren.tum.de/en/stein-christopher",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=46F19D9D58AB1FE9",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-claudia-czado",
+    "name": "Claudia Czado",
+    "institution": "TUM",
+    "department": "TUM School of Computation, Information and Technology — Department of Mathematics",
+    "title": "Prof. Ph.D.",
+    "roles": [
+      "Applied Mathematical Statistics"
+    ],
+    "research_areas": [
+      "Applied Mathematical Statistics"
+    ],
+    "summary": "The research activities of Prof. Czado (b. 1959) center on the field of statistics and data science. Her focus lies on modeling complex dependencies including regression effects and time/space structures using vine copula based models. See Vine Copula Models for more details and developments. These allow the construction of high dimensional multivariate distributions for data including different asymmetrical dependencies for each pair of variables. Computer-aided processes are developed/optimized for selection, estimation and adaptation to complex data structures. Applications can be found in finance and insurance as well as in engineering, earth and life sciences. A number of cooperation agreements with various international scientists and industry representatives are in place. In 2019 Prof. Czado has published a text book on analyzing dependent data with vine copulas. After studying in Göttingen, Prof. Czado received her doctorate from Cornell University in the field of Operations Research and Industrial Engineering in 1989. She then became assistant professor and, in 1995, associate professor at York University, Toronto. In 1998, she was appointed to a professorship position in ",
+    "profile_url": "https://www.professoren.tum.de/en/czado-claudia",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=97447CAF56F4780F",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-claudia-kluppelberg",
+    "name": "Claudia Klüppelberg",
+    "institution": "TUM",
+    "department": "TUM School of Computation, Information and Technology — Department of Mathematics",
+    "title": "Prof. Dr.",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.math.cit.tum.de/en/math/people/professors/claudia-klueppelberg/",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=1737777B45588E56",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-claudia-scheimbauer",
+    "name": "Claudia Scheimbauer",
+    "institution": "TUM",
+    "department": "TUM School of Computation, Information and Technology — Department of Mathematics",
+    "title": "Prof. Dr.",
+    "roles": [
+      "Topology"
+    ],
+    "research_areas": [
+      "Topology"
+    ],
+    "summary": "The research of Professor Scheimbauer (*1986) lies at the intersection of algebraic topology and mathematical physics. More precisely, her work concerns the study of algebraic structures appearing in field theories using methods from homotopy theory and the development of the required higher categorical framework. This has connections with and uses tools from derived algebraic geometry, representation theory, homological algebra, and the study of manifolds. After graduating in Technical Mathematics at TU Wien, Professor Scheimbauer pursued a PhD at ETH Zürich on the topic “Factorization Homology as a fully extended Topological Field Theory” (2014). After spending 3 months at the IHÉS as a visitor, she was a postdoctoral fellow at the Max Planck Institute of Mathematics in Bonn (2015-2017) and at the University of Oxford (2017-2018). In August 2018 Professor Scheimbauer started a Trond Mohn Foundation tenure-track position at the Norwegian University of Science and Technology in Trondheim. Since September 2019 she is assistant professor for topology at TUM.",
+    "profile_url": "https://www.professoren.tum.de/en/scheimbauer-claudia",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=F64940ABF0A3DE79",
     "partner_university": "TUM",
     "partnership_type": "Supervision"
   },
@@ -22952,6 +23525,71 @@
     "scholar_url": "",
     "orcid": "",
     "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/3/6/csm_prof-dawid-corinna_6ff6146e58.webp",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-daniel-matthes",
+    "name": "Daniel Matthes",
+    "institution": "TUM",
+    "department": "TUM School of Computation, Information and Technology — Department of Mathematics",
+    "title": "Prof. Dr. rer. nat.",
+    "roles": [
+      "Advanced Mathematics and Analytical Mechanics"
+    ],
+    "research_areas": [
+      "Advanced Mathematics",
+      "Analytical Mechanics"
+    ],
+    "summary": "The research of Prof. Matthes (b. 1975) explores the qualitative theory of partial differential equation solutions. Prof. Matthes studied mathematics at TU Berlin and completed his doctorate there in 2003. He did postdoctoral research at the University of Mainz, the University of Pavia in Italy and TU Vienna. He later returned to Mainz as a visiting professor. In 2010, he was appointed professor at TUM. Curriculum Vitae",
+    "profile_url": "https://www.professoren.tum.de/en/matthes-daniel",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=25BDDF58138DE46D",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-david-egger",
+    "name": "David Egger",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Physics",
+    "title": "Prof. Dr.",
+    "roles": [
+      "Theory of Functional Energy Materials"
+    ],
+    "research_areas": [
+      "Theory",
+      "Functional Energy Materials"
+    ],
+    "summary": "Prof. Egger (b. 1987) conducts research on atomistic theories of functional materials that drive energy devices such as solar cells. One goal of his work is the discovery of new energy materials which would, for example, allow for a more efficient conversion of sunlight into electricity. To this end, his group develops and applies various theoretical methods, such as electronic-structure and molecular-dynamics techniques. These are used for calculating the properties of molecules, solid-state materials as well as nanostructured interfaces. Prof. Egger received his doctorate in Physics from Graz University of Technology (Austria) in 2013. He continued his research work as a postdoctoral fellow at the Weizmann Institute of Science (Israel), from 2014-2017. Between 2017 and 2019, he was leading a research group at the University of Regensburg (Germany), supported by the Sofja-Kovalevskaja Award of the Humboldt Foundation. In June 2019, he was appointed Rudolf Mößbauer Professor at TUM. He was promoted to Associate Professor in June 2023. He is the Executive Director of the Atomistic Modeling Center.",
+    "profile_url": "https://www.professoren.tum.de/en/egger-david",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=EC277991A5B63A66",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-deniz-kus",
+    "name": "Deniz Kus",
+    "institution": "TUM",
+    "department": "TUM School of Computation, Information and Technology — Department of Mathematics",
+    "title": "Prof. Dr. rer. nat.",
+    "roles": [
+      "Representation Theory"
+    ],
+    "research_areas": [
+      "Representation Theory"
+    ],
+    "summary": "Prof. Kus' field of research lies in representation theory and its interaction with number theory, algebraic geometry, graph theory, and algebraic combinatorics. At the core of his research are, among other things, quantum groups of affine Kac-Moody algebras, the development of new quantizations and their structural analysis, their applications in mathematical physics, and the classification of regular subalgebras. Prof. Kus studied mathematics and physics at the University of Cologne, where he obtained his PhD in 2013. After postdoctoral positions at the University of Cologne, the University of Bonn, and the Centre de recherches mathématiques, as well as research stays in California, Montréal, Paris, and Providence, he became an assistant professor at Ruhr-University Bochum. In 2025, he was appointed to the professorship for representation theory at TUM.",
+    "profile_url": "https://www.professoren.tum.de/en/kus-deniz",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=6448174BF2B5D7D5",
     "partner_university": "TUM",
     "partnership_type": "Supervision"
   },
@@ -23021,23 +23659,125 @@
     "partnership_type": "Supervision"
   },
   {
-    "id": "tum-bio-donna-ankerst",
+    "id": "tum-nat-dominik-bucher",
+    "name": "Dominik Bucher",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Chemistry",
+    "title": "Prof. Dr. rer. nat.",
+    "roles": [
+      "Quantum Sensing"
+    ],
+    "research_areas": [
+      "Quantum Sensing"
+    ],
+    "summary": "Dr. Dominik Bucher (*1985) uses defects in diamond, known as NV centers, as quantum sensors for NMR spectroscopy in the nano- to micro-scale range. His research group works at the unique intersection of quantum sensing and chemistry, utilizing interdisciplinary methods from applied quantum physics, materials science, and biophysics. The goal of the research is to apply NMR spectroscopy at the smallest length scales, from nanoscience and surfaces to microfluidics and single-cell biology. Prof. Bucher studied Chemistry at TUM, where he earned his M.Sc. degree in 2010. He went on to complete his Ph.D. in Biophysics at LMU, where he utilized ultrafast spectroscopy to study UV-induced damage processes in DNA. With a growing interest in potential applications of quantum technology in Chemistry, he moved to Ronald Walsworth's group at Harvard for his postdoctoral work. In the spring of 2019, he started his independent career as a junior research group leader at TUM. In 2022, he was appointed as a Rudolf Mößbauer Professor. Curriculum Vitae",
+    "profile_url": "https://www.professoren.tum.de/en/bucher-dominik",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=741FD45EFF8CF2A3",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-donna-ankerst",
     "name": "Donna Ankerst",
     "institution": "TUM",
-    "department": "TUM School of Life Sciences — Life Science Systems",
-    "title": "Full Professor",
+    "department": "TUM School of Computation, Information and Technology — Department of Mathematics",
+    "title": "Prof. Ph.D.",
     "roles": [
       "Biostatistics"
     ],
     "research_areas": [
       "Biostatistics"
     ],
-    "summary": "Chair: Biostatistics.",
+    "summary": "Donna Ankerst performs statistical research in the life sciences, with a focus on clinical risk prediction tools based on multi-center clinical trials, observational studies and electronic health records. She created the most validated and internationally accessed online prostate cancer risk calculator and is currently developing deep learning algorithms for three-dimensional mammograms in collaboration with the TUM Rechts der Isar hospital. She works on models for climate change impacts on forest and health outcomes in Bavaria in cooperation with the TUM School of Life Sciences. After studying mathematics at the University of Texas (UT), Austin, and completing a doctorate in statistics at Carnegie Mellon University, Pittsburgh, Donna Ankerst worked as a postdoctoral researcher at Harvard University, Boston, and subsequently, at the Fred Hutchinson Cancer Research Center, Seattle. In addition to her position at the TUM, she currently holds a research professor appointment in the Department of Epidemiology and Biostatistics at the UT Health Sciences Center in San Antonio. Curriculum Vitae",
     "profile_url": "https://www.professoren.tum.de/en/ankerst-donna",
-    "lab_url": "https://www.math.cit.tum.de/en/math/people/professors/ankerst-donna/",
+    "lab_url": "",
     "scholar_url": "",
     "orcid": "",
-    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/5/6/csm_prof-ankerst-donna_4eca68484e.webp",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=6C4DA60D5E80F915",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-elisa-resconi",
+    "name": "Elisa Resconi",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Physics",
+    "title": "Prof. Dr.",
+    "roles": [
+      "Experimental Physics with Cosmic Particles"
+    ],
+    "research_areas": [
+      "Experimental Physics with Cosmic Particles"
+    ],
+    "summary": "Prof. Resconi's research lies at the crossroads of particle physics and astrophysics. Neutrinos, the most abundant matter particles of our universe, form the central focus of her work. Cosmic neutrinos, as new astrophysical messengers, open a new window onto the universe and the observation of its most energetic, hence violent, regions. They allow us to explore phenomena in cosmic accelerators and collapsing stars that would be otherwise inaccessible. Prof. Resconi studied at the Università degli Studi di Milano and Genova. After completing her dissertation on solar neutrinos at Laboratori Nazionali del Gran Sasso, she relocated to Germany on a Marie Curie Fellowship (DESY-Zeuthen). From 2005 to 2010, she headed an Emmy Noether junior research group based at the Max Planck Institute for Nuclear Physics in Heidelberg. In 2012, she was appointed to the Professorship for Experimental Physics with Cosmic Particles at TUM. In 2018, she was awarded a Liesel Beckmann Distinguished Professorship. Curriculum Vitae",
+    "profile_url": "https://www.professoren.tum.de/en/resconi-elisa",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=540A56D1A9CD48D8",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-elisabeth-ullmann",
+    "name": "Elisabeth Ullmann",
+    "institution": "TUM",
+    "department": "TUM School of Computation, Information and Technology — Department of Mathematics",
+    "title": "Prof. Dr. rer. nat.",
+    "roles": [
+      "Scientific Computing and Uncertainty Quantification"
+    ],
+    "research_areas": [
+      "Scientific Computing",
+      "Uncertainty Quantification"
+    ],
+    "summary": "Elisabeth Ullmann (b. 1979) conducts research on mathematical methods of uncertainty quantification using tools from numerical analysis, data science and computational science and engineering. The goal of her work is the design and analysis of efficient algorithms and estimators for partial differential equations with random coefficients. The current focus is on multilevel estimators, Bayesian inverse problems, and rare events. Ullmann studied Applied Mathematics at the TU Bergakademie Freiberg. She obtained her doctorate in 2008 in Freiberg and subsequently worked as a postdoctoral researcher in the DFG priority program “Extraction of quantifiable information from complex systems”. In 2009 she was a visiting research associate at the University of Maryland, College Park. From 2011 to 2014 she was a research associate at the University of Bath in England and subsequently at the University of Hamburg. In 2015 she joined TUM as Assistant Professor. Since 2021 she is Associate Professor for Scientific Computing and Uncertainty Quantification.",
+    "profile_url": "https://www.professoren.tum.de/en/ullmann-elisabeth",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=10FD9EFDE2A58069",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-ellen-fogh",
+    "name": "Ellen Fogh",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Physics",
+    "title": "Prof. Dr.",
+    "roles": [
+      "Quantum Magnetism"
+    ],
+    "research_areas": [
+      "Quantum Magnetism"
+    ],
+    "summary": "Prof. Fogh (*1989) works in the field of experimental condensed matter physics with particular focus on magnetism. Her expertise lies in using neutron scattering techniques in combination with magnetic fields and pressures to investigate how magnetic moments (spins) interact in a material. The collective behavior of such systems may result in intriguing quantum states and phenomena of fundamental interest but also with potential applications in quantum technology. The goal is to understand how these states are formed and how to tailor them. Prof. Fogh studied physics and nanotechnology at the Technical University of Denmark where she also continued with her doctoral studies (completed in 2019). Subsequently, she worked as a postdoctoral researcher at the École Polytechnique Fédérale de Lausanne in Switzerland (2019-2025). In 2025, Prof. Fogh was appointed to the professorship of Quantum Magnetism at TUM.",
+    "profile_url": "https://www.professoren.tum.de/en/fogh-ellen",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=4742913FFA588600",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-eric-sonnendrucker",
+    "name": "Eric Sonnendrücker",
+    "institution": "TUM",
+    "department": "TUM School of Computation, Information and Technology — Department of Mathematics",
+    "title": "Prof. Dr.",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.math.cit.tum.de/en/math/people/professors/sonnendruecker-eric/",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=E296BFDB42644DE0",
     "partner_university": "TUM",
     "partnership_type": "Supervision"
   },
@@ -23064,6 +23804,28 @@
     "partnership_type": "Supervision"
   },
   {
+    "id": "tum-nat-fabian-theis",
+    "name": "Fabian Theis",
+    "institution": "TUM",
+    "department": "TUM School of Computation, Information and Technology — Department of Mathematics",
+    "title": "Prof. Dr.",
+    "roles": [
+      "Mathematical Modelling of Biological Systems"
+    ],
+    "research_areas": [
+      "Mathematical Modelling",
+      "Biological Systems"
+    ],
+    "summary": "Fabian Theis (b. 1976) conducts research in the field of computational biology. The main focus of his work is the application of machine learning methods to biological questions, in particular as a means of modeling cell heterogeneities on the basis of single cell analyses and also of integrating “omics” data into systems medicine approaches. Professor Theis received PhD degrees in physics and computer science in 2002 and 2003 respectively. After working as a postdoc in Regensburg, Tokyo and Tallahassee, he took up a position as Bernstein Fellow at the Max Planck Institute for Dynamics and Self-Organization in Göttingen. He then joined the German Research Center for Environmental Health, Helmholtz Zentrum München, where he was a group leader at the Institute for Bioinformatics and Systems Biology for six years. In 2009 he was became an Associate Professor at the Chair of Applied Mathematics, TUM. Since 2013 he has been a Full Professor of biomathematics at TUM, where he holds the Chair of Mathematical Modeling of Biological Systems, and director of the Institute of Computational Biology at the Helmholtz Zentrum München.",
+    "profile_url": "https://www.professoren.tum.de/en/theis-fabian",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=89DCC1892A841638",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
     "id": "tum-bio-ferdinand-ludwig",
     "name": "Ferdinand Ludwig",
     "institution": "TUM",
@@ -23085,6 +23847,28 @@
     "partnership_type": "Supervision"
   },
   {
+    "id": "tum-nat-folkmar-bornemann",
+    "name": "Folkmar Bornemann",
+    "institution": "TUM",
+    "department": "TUM School of Computation, Information and Technology — Department of Mathematics",
+    "title": "Prof. Dr. rer. nat. habil.",
+    "roles": [
+      "Numerical Mathematics / Scientific Computing"
+    ],
+    "research_areas": [
+      "Numerical Mathematics",
+      "Scientific Computing"
+    ],
+    "summary": "Prof. Bornemann (b. 1967) conducts research on the numerical analysis of multiscale problems. In particular, he is interested in the interplay between efficient algorithms and the basic mathematical understanding of a problem. His methods and algorithms are used in medical technology, natural sciences and digital image processing. They are, however, also used for the computer-assisted solution of problems within mathematics itself. After studying mathematics at Freie Universität Berlin, he completed his doctorate there in 1991. In Berlin, he worked at the Konrad-Zuse-Zentrum (ZIB), initially as a research fellow helping to set up the \"Numerics and Modeling\" department, where he later took the position of scientific head. Prof. Bornemann spent a year as a visiting scientist at New York University (1996/1997). In 1998, he was appointed to the Chair of Scientific Computing at TUM. From 2001 to 2004, Prof. Bornemann served on the board of the German Mathematical Society. He was a member of the Mathematics Review Board of the German Research Foundation (DFG) from 2008 to 2011. From 2012 to 2018, he was appointed to the DFG selection board for Collaborative Research Centers. Prof. Bornem",
+    "profile_url": "https://www.professoren.tum.de/en/bornemann-folkmar",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=06490DF66EF3A436",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
     "id": "tum-bio-frank-johannes",
     "name": "Frank Johannes",
     "institution": "TUM",
@@ -23102,6 +23886,48 @@
     "scholar_url": "",
     "orcid": "",
     "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/d/3/csm_prof-johannes-frank_a4e77399fb.webp",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-frank-ortmann",
+    "name": "Frank Ortmann",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Chemistry",
+    "title": "Prof. Dr. rer. nat.",
+    "roles": [
+      "Theoretical Methods in Spectroscopy"
+    ],
+    "research_areas": [
+      "Theoretical Methods in Spectroscopy"
+    ],
+    "summary": "Prof. Ortmann's (*1980) field of research is the theoretical modelling of ground and excited states and their time dynamics. Here, quantum theoretical ab initio methods are developed for electron and spin transport as well as for optical spectroscopy. The main focus is on the description of excitonic effects and the electron-phonon interaction. Typical material systems range from small molecules, polymers and organic photovoltaic blends to crystals or novel 2D materials. Prof. Ortmann studied physics and received his doctorate with \"summa cum laude\" from the Friedrich Schiller University Jena in 2009. He then went to the CEA Grenoble as a postdoc, where he was awarded a Marie Curie Fellowship in 2010. In 2011, he moved to the ICN2 Barcelona and in 2013 to the TU Dresden. There he established an Emmy Noether Young Investigator Group from 2014 and was group leader at the Cluster of Excellence cfaed from 2017. In 2020, Prof. Ortmann was appointed to the professorship Theoretical Methods in Spectroscopy at TUM.",
+    "profile_url": "https://www.professoren.tum.de/en/ortmann-frank",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=F1FD722FB9E88F67",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-frank-pollmann",
+    "name": "Frank Pollmann",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Physics",
+    "title": "Prof. Dr. rer. nat.",
+    "roles": [
+      "Theoretical Solid State Physics"
+    ],
+    "research_areas": [
+      "Theoretical Solid State Physics"
+    ],
+    "summary": "Prof. Pollmann’s research focuses on a variety of problems in the field of condensed matter theory. His main focus lies on the study of collective phenomena which arise due to quantum mechanical effects in systems of correlated particles. Areas of research include the study of topological phases of matter, frustrated spin systems, and the dynamics of disordered systems. To gain deeper insights into the physics of these systems, he employs concepts from quantum information theory. These concepts have proven to be very useful in acquiring a more fundamental understanding of the structure of quantum many-body states and in designing efficient computer algorithms for numerical simulations of correlated quantum systems. Prof. Pollmann studied physics at TU Braunschweig and KTH Royal Institute of Technology in Stockholm. After completing his PhD at the Max Planck Institute for the Physics of Complex Systems (MPIPKS) in 2006, he worked as a postdoctoral researcher at the University of California, Berkeley. Starting from 2011 he headed a junior research group at MPIPKS. In 2016 he was appointed associate professor and in 2022 full professor at TUM. Curriculum Vitae",
+    "profile_url": "https://www.professoren.tum.de/en/pollmann-frank",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=7AB1EE3AE14BC196",
     "partner_university": "TUM",
     "partnership_type": "Supervision"
   },
@@ -23149,6 +23975,27 @@
     "partnership_type": "Supervision"
   },
   {
+    "id": "tum-nat-franz-pfeiffer",
+    "name": "Franz Pfeiffer",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Physics",
+    "title": "Prof. Dr.",
+    "roles": [
+      "Biomedical Physics"
+    ],
+    "research_areas": [
+      "Biomedical Physics"
+    ],
+    "summary": "Professor Pfeiffer (b. 1972) conducts research on biomedical X-ray physics. His focus is on new imaging methods for improved early diagnosis and detailed studies of illnesses such as cancer, lung diseases and osteoporosis. His scientific work extends from fundamentally oriented research with brilliant X-rays in large international research centers to applied research on new concepts in radiology. Professor Pfeiffers most important contribution to science is the invention of a novel method for X-ray phase-contrast imaging and its translation to pre-clinical and clinical applications, with a particularly high diagnostic benefit for lung diseases. Professor Pfeiffer studied physics at Munich’s Ludwig Maximilian University (1999) and was awarded doctorates by the Institut Laue-Langevin (France) and the University of Saarbrücken (2003). Following subsequent positions as a post-doc in Urbana-Champaign (USA) and as a member of scientific staff at the Paul Scherrer Institute (Switzerland, 2008), he assumed the position of assistant professor at École Polytechnique Fédérale in Lausanne (2008). He was appointed to the Chair of Biomedical Physics at TUM in 2009. In 2016, Professor Pfeiffer be",
+    "profile_url": "https://www.professoren.tum.de/en/pfeiffer-franz",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=FEB699DF4EA98B24",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
     "id": "tum-bio-friederike-ebner",
     "name": "Friederike Ebner",
     "institution": "TUM",
@@ -23192,6 +24039,44 @@
     "partnership_type": "Supervision"
   },
   {
+    "id": "tum-nat-fritz-kuhn",
+    "name": "Fritz Kühn",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Chemistry",
+    "title": "Prof. Dr. rer. nat.",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/pl/ui/$ctx/visitenkarte.show_vcard?$ctx=design=ca2;header=max;lang=de&pPersonenGruppe=3&pPersonenId=4D043C3F393B4547",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=4D043C3F393B4547",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-gero-friesecke",
+    "name": "Gero Friesecke",
+    "institution": "TUM",
+    "department": "TUM School of Computation, Information and Technology — Department of Mathematics",
+    "title": "Prof. Dr.",
+    "roles": [
+      "Global Analysis"
+    ],
+    "research_areas": [
+      "Global Analysis"
+    ],
+    "summary": "The research activities of Prof. Friesecke concern the electronic structure of atoms and molecules, calculation of variations, molecular dynamics, multiscale methods and nonlinear waves. He studied mathematics and physics at the University of Bonn and received his doctorate from Heriot-Watt University, Edinburgh (1990-1993). Afterwards, Prof. Friesecke did his postdoctoral studies at Carnegie Mellon University in Pittsburgh, the University of Freiburg and the Swiss Federal Institute of Technology in Zurich (1993-1997). He then worked as a lecturer at Oxford University and was appointed professor in 1998. In 2001, he moved to the University of Warwick in England. Since 2004, he has held the Chair of Global Analysis in TUM’s Department of Mathematics. Curriculum Vitae",
+    "profile_url": "https://www.professoren.tum.de/en/friesecke-gero",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=08CFBD84FF80FAF6",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
     "id": "tum-nat-gil-westmeyer",
     "name": "Gil Westmeyer",
     "institution": "TUM",
@@ -23209,6 +24094,48 @@
     "scholar_url": "",
     "orcid": "",
     "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=B28893C8CAB03A93",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-giulia-zanderighi",
+    "name": "Giulia Zanderighi",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Physics",
+    "title": "Prof. Dr.",
+    "roles": [
+      "Particle Physics"
+    ],
+    "research_areas": [
+      "Particle Physics"
+    ],
+    "summary": "Prof. Zanderighi is an internationally recognised expert in the field of collider phenomenology. This theoretical discipline investigates elementary particles and their fundamental interactions, using mathematical methods and calculations. These play a central role in particle physics: the greater the precision with wich theoretical physicists calculate the behaviour of elementary particles, the more information can be deduced from the data obtainable in accelerator experiments. Prof. Zanderighi was born 1974 in Milan. She studied physics at the University of Milan and earned her doctorate from the University in Pavia. She pursued her career as a postdoc at the IPPP in Durham and Fermilab in Batavia. 2005, she became a fellow in the theoretical department at CERN, followed by a position as a lecturer at the University of Oxford and Tutorial Fellow at Wadham College in 2007. 2010 she was a Professor of Physics at the University of Oxford. 2019 she became a director at the MPP and in 2021 she became TUM Professor. Curriculum Vitae",
+    "profile_url": "https://www.professoren.tum.de/en/zanderighi-giulia",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=A370FCC7B1BFB89F",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-gregor-kemper",
+    "name": "Gregor Kemper",
+    "institution": "TUM",
+    "department": "TUM School of Computation, Information and Technology — Department of Mathematics",
+    "title": "Prof. Dr. rer. nat. habil.",
+    "roles": [
+      "Algorithmic Algebra"
+    ],
+    "research_areas": [
+      "Algorithmic Algebra"
+    ],
+    "summary": "Prof. Kemper’s research centers on invariant theory, commutative algebra, algebraic geometry, group theory and representation theory. His particular interest lies in algorithmic aspects of invariant theory and their possible applications – in image processing for example. After studying mathematics in Karlsruhe and Heidelberg, he completed his doctorate (1994) and lecturer qualification (1999) under Prof. Matzat in Heidelberg. Since 2002, Prof. Kemper has been a full professor at TUM. He has worked at several institutions outside Germany, including Berkeley, Sydney, Singapore, Ann Arbor and Paris.",
+    "profile_url": "https://www.professoren.tum.de/en/kemper-gregor",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=DCBB2AF9D0C05648",
     "partner_university": "TUM",
     "partnership_type": "Supervision"
   },
@@ -23339,6 +24266,27 @@
     "partnership_type": "Supervision"
   },
   {
+    "id": "tum-nat-helge-stein",
+    "name": "Helge Stein",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Chemistry",
+    "title": "Prof. Dr.-Ing.",
+    "roles": [
+      "Digital Catalysis"
+    ],
+    "research_areas": [
+      "Digital Catalysis"
+    ],
+    "summary": "Prof. Stein (*1988) develops experimental and computer-aided methods for the accelerated discovery, characterization, and upscaling of new and improved materials in catalysis and for secondary batteries. Experimental data is collected using self-developed robots, planned and evaluated using algorithms and machine learning, and stored in a semantically searchable manner through data management. The goal is to establish a global decentralized material acceleration platform (MAP) ranging from discovery to production. Professor Stein studied physics at the Georg-August University of Göttingen from 2008 to 2013 and obtained his doctorate in 2017 in high-throughput methods in mechanical engineering with summa cum laude at the Ruhr University Bochum. From 2017 until taking up his tenure track professorship in applied electrochemistry at the Karlsruhe Institute of Technology in 2020, he conducted research at the California Institute of Technology (Caltech). In 2023, Professor Stein was appointed to the professorship of Digital Catalysis at TUM.",
+    "profile_url": "https://www.professoren.tum.de/en/stein-helge",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=FECEB9AF40CE5A14",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
     "id": "tum-nat-hendrik-dietz",
     "name": "Hendrik Dietz",
     "institution": "TUM",
@@ -23356,6 +24304,70 @@
     "scholar_url": "",
     "orcid": "",
     "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=E5DA656CFC7C6500",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-herbert-spohn",
+    "name": "Herbert Spohn",
+    "institution": "TUM",
+    "department": "TUM School of Computation, Information and Technology — Department of Mathematics",
+    "title": "Prof. Dr. rer. nat.",
+    "roles": [
+      "Applied Probability Theory/ Statistical Physics"
+    ],
+    "research_areas": [
+      "Applied Probability Theory",
+      "Statistical Physics"
+    ],
+    "summary": "Professor Spohn (b. 1946) conducts research on statistical physics, with a focus on dynamic processes. This includes the derivation of kinetic equations, the dynamics of open quantum systems, interactive stochastic particle systems, stochastic growth processes and boundary surface dynamics. Following his study of physics in Stuttgart and Munich, Prof. Spohn received his doctorate (1975) and lecturer qualification (1980) at Munich’s Ludwig Maximilian University (LMU). A Heisenberg grant enabled him to work at Rutgers University under J.L. Lebowitz and the Institut des Hautes Études Scientifiques (Paris). Following a professorship in solid-state physics at LMU (1982), he was appointed to a full professorship at TUM in 1998. He also holds a joint position in the physics department. Professor Spohn was an elected member of the review board of the German Research Foundation (DFG) and has served as President of the International Association of Mathematical Physics.",
+    "profile_url": "https://www.professoren.tum.de/en/spohn-herbert",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=7EAB99FBCF92EAC1",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-hubert-gasteiger",
+    "name": "Hubert Gasteiger",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Chemistry",
+    "title": "Prof. Dr.",
+    "roles": [
+      "Technical electrochemistry"
+    ],
+    "research_areas": [
+      "Technical electrochemistry"
+    ],
+    "summary": "Professor Gasteiger develops materials and electrodes for lithium-ion batteries as well as for PEM fuel cells and electrolyzers. To unravel aging mechanisms, he utilizes numerous ex situ and in situ/operando diagnostics. He has published 232 refereed articles (h-index 82, 36300 citations; see siehe publons.com ), 15 book chapters, and 38 patents/patent applications. In 2019 and 2020, he was listed as „Highly Cited Researcher“ by the Web of Science (based on articles published 2008-2018 and 2009-2019). He received his PhD in Chemical Engineering from UC Berkeley in 1993. After 9 years of academic research on electrocatalysis and gas-phase catalysis at UC Berkeley, the Lawrence Berkeley National Laboratory, and at Ulm University, he worked for 10 years at General Motors/Opel in the US. There, from 1998-2007, he led the fuel cell stack materials development for hydrogen-powered fuel cell vehicles. In 2007, he joined Acta S.p.A. (Italy) as Director of Catalyst Technology, developing catalysts and electrodes for alkaline fuel cells and electrolyzers. In 2009, he was Visiting Professor at the Massachusetts Institute of Technology (MIT), working on lithium-air batteries. Since 2010, he ha",
+    "profile_url": "https://www.professoren.tum.de/en/gasteiger-hubert",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=4FD1CA015ED9D0AA",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-ian-sharp",
+    "name": "Ian Sharp",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Physics",
+    "title": "Prof. Dr.",
+    "roles": [
+      "Experimental Semiconductor Physics"
+    ],
+    "research_areas": [
+      "Experimental Semiconductor Physics"
+    ],
+    "summary": "Prof. Sharp investigates advanced semiconductors, nanostructures, and interfaces for applications in renewable energy conversion, with emphases on solar photovoltaics and artificial photosynthesis. His particular interests include explorations of the fundamentals of electronic structure and charge carrier dynamics in new and emerging semiconductors, the coupling of chemical transformations and physical properties of materials in complex environments, and new concepts in energy conversion via controlled synthesis of heterostructures and nanosystems. Prof. Sharp (b. 1979) received a PhD from UC Berkeley, after which he became a research associate at the Walter Schottky Institute of TUM, first as an Alexander von Humboldt Fellow and later as a Fellow of the TUM Institute for Advanced Study. In 2011, he moved to the Lawrence Berkeley National Laboratory (USA) as a Staff Scientist, working primarily at the Joint Center for Artificial Photosynthesis. In 2017, Prof. Sharp was appointed to the Chair for Experimental Semiconductor Physics at TUM.",
+    "profile_url": "https://www.professoren.tum.de/en/sharp-ian",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=1EF1671E0C6FB245",
     "partner_university": "TUM",
     "partnership_type": "Supervision"
   },
@@ -23381,6 +24393,49 @@
     "partnership_type": "Supervision"
   },
   {
+    "id": "tum-nat-jennifer-rupp",
+    "name": "Jennifer Rupp",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Chemistry",
+    "title": "Prof. Dr.",
+    "roles": [
+      "Solid-State Electrolytes"
+    ],
+    "research_areas": [
+      "Solid-State Electrolytes"
+    ],
+    "summary": "Prof. Rupp FRSC (* 1980) earned her PhD degree at ETH Zurich Switzerland and was affiliated as a visiting and senior scientist at MIT (2012-2011) and the National Institute of Materials Science (NIMS) in Tsukuba, Japan (2011). She was a non-tenure track Assistant Professor at ETH Zurich (2012-2016), where she held two prestigious externally funded career grants, namely an ERC Starting Grant (SNSF) and Swiss National Science Foundation (SNF) professorship. In 2017, she joined as faculty MIT, where she was promoted from Assistant to Associate Professor the Department of Materials Science and Engineering and Department of Electrical Engineering and Computer Science (MIT). Recently, she joined TU Munich in the Department of Chemistry as a faculty member as well as TUM International Energy Research as CTO. Since June 2023 is Prof. Rupp a Full Professor at TUM.",
+    "profile_url": "https://www.professoren.tum.de/en/rupp-jennifer",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=A2B5E09CA5D0B72B",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-jennifer-strunk",
+    "name": "Jennifer Strunk",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Chemistry",
+    "title": "Prof. Dr. rer. nat. habil.",
+    "roles": [
+      "Industrial chemistry and heterogeneous catalysis"
+    ],
+    "research_areas": [
+      "Industrial chemistry",
+      "heterogeneous catalysis"
+    ],
+    "summary": "Prof. Strunk (*1980) conducts research in the fields of heterogeneous catalysis and photocatalysis. The goal is the activation of small stable molecules, such as the recycling of the greenhouse gas carbon dioxide into chemical production and the activation of nitrogen for the synthesis of basic chemicals. In particular, the focus is on understanding the light- and heat-driven physical and chemical elementary steps to enable scaling up from the laboratory to industry. Prof. Strunk received her diploma (2004) and PhD degree (2008) in Industrial Chemistry from the Ruhr-University Bochum. After a postdoctoral stay at UC Berkeley (2008-2010), she became junior research group leader at Ruhr-University (2010-2014). She was independent group leader at the MPI for Chemical Energy Conversion (2014-2016), and W2 professor at Leibniz Institute for Catalysis at the University of Rostock (2017-2023). In 2023, Prof. Strunk was appointed to the W3 professorship “Industrial Chemistry and Heterogeneous Catalysis” at TUM.",
+    "profile_url": "https://www.professoren.tum.de/en/strunk-jennifer",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=2B26B60D59CC3848",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
     "id": "tum-nat-job-boekhoven",
     "name": "Job Boekhoven",
     "institution": "TUM",
@@ -23398,6 +24453,63 @@
     "scholar_url": "",
     "orcid": "",
     "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=6A70D99E8CBCF436",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-johann-hartl",
+    "name": "Johann Hartl",
+    "institution": "TUM",
+    "department": "TUM School of Computation, Information and Technology — Department of Mathematics",
+    "title": "Prof. Dr. rer. nat. habil.",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.math.cit.tum.de/en/math/people/professors/hartl-johann/",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=B423490FE7A9DA16",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-johanna-eichhorn",
+    "name": "Johanna Eichhorn",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Physics",
+    "title": "Prof. Dr. rer. nat.",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/pl/ui/$ctx/visitenkarte.show_vcard?$ctx=design=ca2;header=max;lang=de&pPersonenGruppe=3&pPersonenId=15DE92F21B7E399B",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=15DE92F21B7E399B",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-johannes-barth",
+    "name": "Johannes Barth",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Physics",
+    "title": "Prof. Dr. rer. nat.",
+    "roles": [
+      "Molecular Nanoscience & Chemical Physics of Interfaces"
+    ],
+    "research_areas": [
+      "Molecular Nanoscience",
+      "Chemical Physics",
+      "Interfaces"
+    ],
+    "summary": "The research activities of Prof. Barth (b. 1962) center on the fundamental understanding of phenomena at boundary surfaces and the design of functional molecular nanostructures. His work focuses on the control of complex molecules and highly-organized supramolecular architectures at the atomic scale. After studying physics at Munich’s Ludwig Maximilian University (LMU), Prof. Barth received his doctorate in physical chemistry under Prof. G. Ertl at the Fritz Haber Institute of the Max Planck Society in Berlin (1992). Following that, he became an IBM Postdoctoral Fellow at the IBM Almaden Research Center in San Jose, USA. He spent over a decade continuing his work at the École Polytechnique Fédérale de Lausanne, Switzerland. It was there that he received his postdoctoral lecture qualification in 1999. Prior to his appointment as a full professor at TUM in 2006, he researched and taught at the Canada Research Chair at the University of British Columbia in Vancouver. He is currently an adjunct professor at that university.",
+    "profile_url": "https://www.professoren.tum.de/en/barth-johannes",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=00779720DA3F9067",
     "partner_university": "TUM",
     "partnership_type": "Supervision"
   },
@@ -23423,6 +24535,29 @@
     "partnership_type": "Supervision"
   },
   {
+    "id": "tum-nat-johannes-knolle",
+    "name": "Johannes Knolle",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Physics",
+    "title": "Prof. Dr. rer. nat.",
+    "roles": [
+      "Theory of Quantum Matter and Nanophysics"
+    ],
+    "research_areas": [
+      "Theory",
+      "Quantum Matter",
+      "Nanophysics"
+    ],
+    "summary": "Professor Knolle’s area of expertise is in condensed matter systems in regimes in which the laws of quantum mechanics are important. In condensed matter physics, complex behaviour arises from the interaction of a large number of basic degrees of freedom. The objective of his research is to uncover the richness of this fascinating behaviour, and to understand the universal principles that organize the physical world. Knolle’s research is focused on the search for unconventional quantum phases in correlated materials, which does not only lead to a deeper understanding of the fundamental principles driving these phases but has also practical relevance for future quantum technology. Professor Knolle studied Physics at the Technical University Dresden and Boston University. He completed his PhD at the Max Planck Institute for the Physics of Complex Systems in 2014. After a postdoctoral position at the University of Cambridge he joined Imperial College London as a Lecturer in 2017. In 2019, he was appointed to an Associate Professorship at TUM.",
+    "profile_url": "https://www.professoren.tum.de/en/knolle-johannes",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=F5495C37663FF8FA",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
     "id": "tum-bio-johannes-kollmann",
     "name": "Johannes Kollmann",
     "institution": "TUM",
@@ -23440,6 +24575,23 @@
     "scholar_url": "",
     "orcid": "",
     "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/7/2/csm_prof-kollmann-johannes_a7bf5cc486.webp",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-johannes-muller",
+    "name": "Johannes Müller",
+    "institution": "TUM",
+    "department": "TUM School of Computation, Information and Technology — Department of Mathematics",
+    "title": "Prof. Dr.",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.math.cit.tum.de/en/math/people/professors/mueller-johannes/",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=9CB1354F33A33774",
     "partner_university": "TUM",
     "partnership_type": "Supervision"
   },
@@ -23462,6 +24614,71 @@
     "scholar_url": "",
     "orcid": "",
     "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/6/d/csm_prof-sauer-johannes_92984182e4.webp",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-johannes-zimmer",
+    "name": "Johannes Zimmer",
+    "institution": "TUM",
+    "department": "TUM School of Computation, Information and Technology — Department of Mathematics",
+    "title": "Prof. Dr. rer. nat.",
+    "roles": [
+      "Analysis and Modeling"
+    ],
+    "research_areas": [
+      "Analysis",
+      "Modeling"
+    ],
+    "summary": "Chair: Analysis and Modeling.",
+    "profile_url": "https://www.professoren.tum.de/en/zimmer-johannes",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=44E8CEC761DD4C15",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-jonathan-finley",
+    "name": "Jonathan Finley",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Physics",
+    "title": "Prof. Ph.D.",
+    "roles": [
+      "Semiconductor Nanostructures and Quantum Systems"
+    ],
+    "research_areas": [
+      "Semiconductor Nanostructures",
+      "Quantum Systems"
+    ],
+    "summary": "The focus of Professor Finley’s research is investigating coherent and quantum physical phenomena in nanostructured materials and components based on semiconducting and metallic systems. His group uses laser spectroscopy to study and verify quantum mechanical, optical and quantum optical phenomena in nanostructured solid-state materials of this sort. Such hybrid systems, consisting of semiconductors and nanophotonic materials, are the starting point for future applications in information processing, energy storage and solar power. Professor Finley (b. 1972) completed his study of physics at the University of Manchester (UK) (1989-1993) and was awarded a doctorate at the University of Sheffield (UK) (1993-1997). This was followed by a Royal Society Fellowship at the Walter Schottky Institute of TUM. He has held the positions of University Research Fellow at the University of Sheffield (UK) (1999-2000) and Visiting Fellow at the Max Planck Institute for Quantum Optics (2002-2003). Professor Finley has been Director of the Nanostructure Photonics Group from 2003 to 2013. Since 2013, he has held the chair of Semiconductor Quantum Nanosystems.",
+    "profile_url": "https://www.professoren.tum.de/en/finley-jonathan",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=9832CBDEEA2BD568",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-julia-herzen",
+    "name": "Julia Herzen",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Physics",
+    "title": "Prof. Dr. rer. nat.",
+    "roles": [
+      "Biomedical Imaging"
+    ],
+    "research_areas": [
+      "Biomedical Imaging"
+    ],
+    "summary": "Professor Herzen (*1980) conducts research on biomedical imaging. The main focus of her research is the development of new methods in X-ray computed tomography based on spectral detection and X-ray phase contrast for medicine and biology. She uses both, highly-brilliant synchrotron radiation and standard polychromatic X-ray tubes for her research. Besides the improvement of image quality, another major objective of Herzen’s work is quantitative imaging – a procedure which allows for extracting element-specific measures from X-ray images. Professor Herzen studied physics at the University of Hamburg (2006) and obtained her doctorate – which included a research stay at the Paul Scherrer Institute (Switzerland, 2008) – from the Helmholtz-Zentrum Geesthacht in 2010. She then worked as a post-doctoral researcher at TUM (2010 & 2014) and at the synchrotron source PETRA III (Hamburg, 2012) and held a position as interim professor at TU Dortmund (2015) before being appointed as Assistant Professor for Biomedical Imaging Physics at TUM in 2018. Curriculum Vitae",
+    "profile_url": "https://www.professoren.tum.de/en/herzen-julia",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=27BA1ABC3EA84F6E",
     "partner_university": "TUM",
     "partnership_type": "Supervision"
   },
@@ -23552,6 +24769,23 @@
     "partnership_type": "Supervision"
   },
   {
+    "id": "tum-nat-jurgen-hauer",
+    "name": "Jürgen Hauer",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Chemistry",
+    "title": "Prof. Dr. rer. nat.",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/pl/ui/$ctx/visitenkarte.show_vcard?$ctx=design=ca2;header=max;lang=de&pPersonenGruppe=3&pPersonenId=9B8B33F74DBBFD22",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=9B8B33F74DBBFD22",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
     "id": "tum-bio-jurgen-peter-geist",
     "name": "Jürgen Peter Geist",
     "institution": "TUM",
@@ -23569,6 +24803,57 @@
     "scholar_url": "",
     "orcid": "",
     "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/c/7/csm_prof-geist-juergen_ad927fc42c.webp",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-jurgen-richter-gebert",
+    "name": "Jürgen Richter-Gebert",
+    "institution": "TUM",
+    "department": "TUM School of Computation, Information and Technology — Department of Mathematics",
+    "title": "Prof. Dr. rer. nat.",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.math.cit.tum.de/en/math/people/professors/richter-gebert-juergen/",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=F4B96B6065145B40",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-jurgen-scheurle",
+    "name": "Jürgen Scheurle",
+    "institution": "TUM",
+    "department": "TUM School of Computation, Information and Technology — Department of Mathematics",
+    "title": "Prof. Dr.",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.math.cit.tum.de/en/math/people/professors/scheurle-juergen/",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=109D17FA905BE556",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-kai-hinrichsen",
+    "name": "Kai Hinrichsen",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Chemistry",
+    "title": "Prof. Dr.-Ing.",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/pl/ui/$ctx/visitenkarte.show_vcard?$ctx=design=ca2;header=max;lang=de&pPersonenGruppe=3&pPersonenId=C71773AC7DC946F1",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=C71773AC7DC946F1",
     "partner_university": "TUM",
     "partnership_type": "Supervision"
   },
@@ -23637,6 +24922,40 @@
     "partnership_type": "Supervision"
   },
   {
+    "id": "tum-nat-karl-heinz-hoffmann",
+    "name": "Karl-Heinz Hoffmann",
+    "institution": "TUM",
+    "department": "TUM School of Computation, Information and Technology — Department of Mathematics",
+    "title": "Prof. Dr. rer. nat. Dr. h.c. mult.",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.math.cit.tum.de/en/math/people/professors/hoffmann-karl-heinz/",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=C07545034FEC8182",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-karoline-schaffner",
+    "name": "Karoline Schäffner",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Physics",
+    "title": "Prof. Dr. rer. nat.",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/pl/ui/$ctx/visitenkarte.show_vcard?$ctx=design=ca2;header=max;lang=de&pPersonenGruppe=3&pPersonenId=59A14B967DF1151C",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=59A14B967DF1151C",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
     "id": "tum-bio-karsten-kohler",
     "name": "Karsten Köhler",
     "institution": "TUM",
@@ -23656,6 +24975,27 @@
     "scholar_url": "",
     "orcid": "",
     "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/5/9/csm_prof-koehler-karsten_74be5388b3.webp",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-katharina-krischer",
+    "name": "Katharina Krischer",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Physics",
+    "title": "Prof. Dr. rer. nat. habil.",
+    "roles": [
+      "Nonequilibrium Chemical Physics"
+    ],
+    "research_areas": [
+      "Nonequilibrium Chemical Physics"
+    ],
+    "summary": "The research activities of Prof. Krischer cover self-organization in physical and physicochemical systems as well as electrocatalysis. She focuses in particular on efficient photoelectrochemical and electrocatalytic energy conversion and universal mechanisms of structure formation processes in nonequilibrium systems. After studying at Freie Universität Berlin and Munich’s Ludwig Maximilian University, Prof. Krischer was a research associate at the Fritz Haber Institute in Berlin (Prof. Ertl). After completing her doctorate, she did postdoctoral research for one year at Princeton University, USA. She then returned to the Fritz Haber Institute to do her lecturer qualification. Since 2002, she has been professor of technical physics at TUM. Prof. Krischer is a Fellow (Class of 2018) of the International Society of Electrochemistry (ISE). During 2023-2024 she served as President of the ISE; she served as President Elect in 2021-2022, and serves as immediate Past President (2025-2026). Since 2021 she has been a member of the Scientific Advisory Board of the Weierstrass Institute for Applied Analysis and Stochastics, Berlin, and serves on the Editorial Advisory Boards of Chaos (AIP Publi",
+    "profile_url": "https://www.professoren.tum.de/en/krischer-katharina",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=D656280C9A38279C",
     "partner_university": "TUM",
     "partnership_type": "Supervision"
   },
@@ -23699,6 +25039,50 @@
     "scholar_url": "",
     "orcid": "",
     "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/e/3/csm_prof-huelsbergen-kurt-juergen_b33b001284.webp",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-laura-classen",
+    "name": "Laura Classen",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Physics",
+    "title": "Prof. Dr. rer. nat.",
+    "roles": [
+      "Theory of Correlated Quantum Materials"
+    ],
+    "research_areas": [
+      "Theory",
+      "Correlated Quantum Materials"
+    ],
+    "summary": "Prof. Classen performs research in the field of condensed matter physics. She investigates correlated quantum materials with methods of quantum field theory. In these materials the collective behaviour of interacting electrons leads to fascinating states of matter which can serve as a basis for applications in quantum technology. The goal of Prof. Classen’s research is to understand the mechanisms behind the formation of the different states, and to work out characteristic properties. Prof. Classen studied physics at RWTH Aachen university and obtained her PhD at University of Heidelberg in 2016. She worked as a postdoc and Feodor-Lynen Fellow at Brookhaven National Laboratory and University of Minnesota in the US between 2017 and 2020 before she joined the faculty at Brookhaven National Laboratory as Assistant Scientist in 2020. She is an independent research group leader at the Max Planck Institute for Solid State research since 2021 and since 2023 professor at TUM.",
+    "profile_url": "https://www.professoren.tum.de/en/classen-laura",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=D1F6F9E4F4CCB3A4",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-laura-fabbietti",
+    "name": "Laura Fabbietti",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Physics",
+    "title": "Prof. Dr. rer. nat.",
+    "roles": [
+      "Dense and Strange Hadronic Matter"
+    ],
+    "research_areas": [
+      "Dense",
+      "Strange Hadronic Matter"
+    ],
+    "summary": "Chair: Dense and Strange Hadronic Matter.",
+    "profile_url": "https://www.professoren.tum.de/en/fabbietti-laura",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=B96B219D9371ED40",
     "partner_university": "TUM",
     "partnership_type": "Supervision"
   },
@@ -23748,6 +25132,48 @@
     "partnership_type": "Supervision"
   },
   {
+    "id": "tum-nat-lorenz-panny",
+    "name": "Lorenz Panny",
+    "institution": "TUM",
+    "department": "TUM School of Computation, Information and Technology — Department of Mathematics",
+    "title": "Prof. Dr.",
+    "roles": [
+      "Cryptography"
+    ],
+    "research_areas": [
+      "Cryptography"
+    ],
+    "summary": "All things cryptography, with a focus on number theory and algebraic geometry, public-key cryptanalysis, and fast algorithms. More generally, anything related to computer (in)security. Undergraduate degrees in mathematics and computer science from TUM. Doctorate in cryptology at TU Eindhoven (NL) under the supervision of Tanja Lange and Daniel J. Bernstein. Postdoc at Academia Sinica in Taipei (TW) with Bo-Yin Yang. Now back at TUM with an assistant professorship for cryptography.",
+    "profile_url": "https://www.professoren.tum.de/en/panny-lorenz",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=4FEFAAAEC350E08B",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-lorenzo-tancredi",
+    "name": "Lorenzo Tancredi",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Physics",
+    "title": "Prof. Dr.sc.nat.",
+    "roles": [
+      "Theoretical Particle Physics"
+    ],
+    "research_areas": [
+      "Theoretical Particle Physics"
+    ],
+    "summary": "Prof. Tancredi's (*1986) field of research lies at the interface between new mathematical methods in Quantum Field Theory and the phenomenology of high-energy particle physics. He studies the mathematical structures that are hidden behind Scattering Amplitudes and Feynman diagrams, with the goal of developing new methods for investigating the Standard Model of particle physics. This will help us understand the properties of the Higgs boson and possibly pave the way to discover signs of new physics. Prof. Tancredi studied Physics at the University of Bologna and obtained his Doctoral degree at the University of Zurich in 2014. After that, he held Postdoctoral fellowships at the Karlsruhe Institute of Technology (KIT) and at the Theory Department of CERN, in Geneva. In 2019 he was awarded a Royal Society University Research Fellowship at the University of Oxford and in 2020 he received an ERC Starting Grant. In September 2021, Prof Tancredi was appointed to the Assistant Professorship for Theoretical Particle Physics at TUM.",
+    "profile_url": "https://www.professoren.tum.de/en/tancredi-lorenzo",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=6EE3B8BB059FA9E3",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
     "id": "tum-bio-luisa-menapace",
     "name": "Luisa Menapace",
     "institution": "TUM",
@@ -23765,6 +25191,48 @@
     "scholar_url": "",
     "orcid": "",
     "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/b/2/csm_prof-menapace-luisa_44ce5a513e.webp",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-lukas-heinrich",
+    "name": "Lukas Heinrich",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Physics",
+    "title": "Prof. Dr.",
+    "roles": [
+      "Data Science in Physics"
+    ],
+    "research_areas": [
+      "Data Science in Physics"
+    ],
+    "summary": "Chair: Data Science in Physics.",
+    "profile_url": "https://www.professoren.tum.de/en/heinrich-lukas",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=F7A499425BBC8111",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-lukas-hintermann",
+    "name": "Lukas Hintermann",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Chemistry",
+    "title": "Prof. Dr. rer. nat.",
+    "roles": [
+      "Organic Chemistry"
+    ],
+    "research_areas": [
+      "Organic Chemistry"
+    ],
+    "summary": "The research of Prof. Hintermann (b. 1972) focuses on the development of highly active and selective catalysts for organic synthesis. Such catalysts can be used both in basic molecular research and in industrial production. The aim is to achieve sustainable and efficient chemical synthesis to provide new materials using minimal of resources. Prof. Hintermann studied chemistry at the Swiss Federal Institute of Technology Zurich. He obtained his doctorate at the university’s Laboratory for Inorganic Chemistry (2000). Following a period as a JSPS fellow at Tokyo Institute of Technology (2001/2), he moved to RWTH Aachen. There, he headed up an Emmy Noether junior research group funded by the German Research Foundation (DFG) (lecturer qualification in 2008). In fall 2009, he was appointed associate professor at TUM. Curriculum Vitae",
+    "profile_url": "https://www.professoren.tum.de/en/hintermann-lukas",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=0BBAAB8AA7AF209D",
     "partner_university": "TUM",
     "partnership_type": "Supervision"
   },
@@ -23790,6 +25258,46 @@
     "partnership_type": "Supervision"
   },
   {
+    "id": "tum-nat-marc-georg-willinger",
+    "name": "Marc-Georg Willinger",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Chemistry",
+    "title": "Prof. Dr. rer. nat.",
+    "roles": [
+      "Elektronenmikroskopie mit Forschungsschwerpunkt Energiematerialien"
+    ],
+    "research_areas": [],
+    "summary": "Chair: Elektronenmikroskopie mit Forschungsschwerpunkt Energiematerialien.",
+    "profile_url": "https://www.professoren.tum.de/en/willinger-marc-georg",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=B0F1FD4996C1A9EA",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-marco-cicalese",
+    "name": "Marco Cicalese",
+    "institution": "TUM",
+    "department": "TUM School of Computation, Information and Technology — Department of Mathematics",
+    "title": "Prof. Dr.",
+    "roles": [
+      "Mathematical Continuum Mechanics"
+    ],
+    "research_areas": [
+      "Mathematical Continuum Mechanics"
+    ],
+    "summary": "The research interests of professor Cicalese (b. 1975) lie in the area of calculus of variations and its applications. Professor Cicalese studied physics at the University of Naples where he obtained a PhD in applied mathematics in 2004. He subsequently held a research post at the International School for Advanced Studies in Trieste. In 2005 he assumed a tenured assistant professor position with research interests in the area of mathematical analysis at the University of Naples. He has been a professor at TUM since April 2012. Curriculum Vitae",
+    "profile_url": "https://www.professoren.tum.de/en/cicalese-marco",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=C4D82285EAA77A01",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
     "id": "tum-nat-marcus-conrad",
     "name": "Marcus Conrad",
     "institution": "TUM",
@@ -23803,6 +25311,23 @@
     "scholar_url": "",
     "orcid": "",
     "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=98DE42E4F60D5996",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-marie-christine-duker",
+    "name": "Marie-Christine Düker",
+    "institution": "TUM",
+    "department": "TUM School of Computation, Information and Technology — Department of Mathematics",
+    "title": "Prof. Dr. rer. nat.",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.math.cit.tum.de/en/math/people/professors/dueker-marie/",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.math.cit.tum.de/_assets/32ebf5255105e66824f82cb2d7e14490/Icons/person.svg",
     "partner_university": "TUM",
     "partnership_type": "Supervision"
   },
@@ -23824,6 +25349,71 @@
     "scholar_url": "",
     "orcid": "",
     "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/f/6/csm_prof-henkel-marius_d323c9938e.webp",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-martin-beneke",
+    "name": "Martin Beneke",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Physics",
+    "title": "Prof. Dr.",
+    "roles": [
+      "Theoretical Elementary Particle Physics"
+    ],
+    "research_areas": [
+      "Theoretical Elementary Particle Physics"
+    ],
+    "summary": "Professor Beneke's (b. 1966) research area is the theory of elementary particles and fundamental forces. He develops quantum field theoretical methods to compute high-energy scattering reactions and particle decay, and to determine the fundamental parameters of the standard model of particle physics and its extensions. In addition, Professor Beneke is also interested in astrophysics and cosmology, in particular the nature of dark matter, matter-antimatter asymmetry and the polarization of the cosmic microwave background. Martin Beneke studied physics and mathematics at the universities of Konstanz, Cambridge and Heidelberg. He conducted his PhD research on the large-order behavior of perturbative expansion in quantum field theories at the Max Planck Institute for Physics and received his PhD from TUM in 1993. After working as a postdoctoral researcher at the University of Michigan, Ann Arbor, and the Stanford Linear Accelerator Center, in 1996 he moved to the European Center for Particle Physics, CERN. In 1999 he accepted an appointment at RWTH Aachen where he directed the Institute of Theoretical Particle Physics and Cosmology. He has been teaching and conducting research at TUM s",
+    "profile_url": "https://www.professoren.tum.de/en/beneke-martin",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.nat.tum.de/_assets/32ebf5255105e66824f82cb2d7e14490/Icons/person.svg",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-martin-brokate",
+    "name": "Martin Brokate",
+    "institution": "TUM",
+    "department": "TUM School of Computation, Information and Technology — Department of Mathematics",
+    "title": "Prof. Dr. rer. nat. habil.",
+    "roles": [
+      "Numerical Mathematics and Control Theory"
+    ],
+    "research_areas": [
+      "Numerical Mathematics",
+      "Control Theory"
+    ],
+    "summary": "Prof. Brokate’s interests lie in applied analysis, control theory and numerical analysis. His main focus is on the mathematical analysis of rate-independent evolutions and the connected hysteresis operators. Prof. Brokate (b. 1953) studied mathematics at Freie Universität Berlin and received his doctorate there in 1980. After that, he spent periods at universities in Augsburg, Kaiserslautern and Kiel before arriving at TUM. In 1999, he was appointed to the Chair of Numerical Analysis and Control Theory. From 2001 to 2004, he was spokesman of Special Research Area 438 “Mathematische Modellierung, Simulation und Verifikation in materialorientierten Prozessen und intelligenten Systemen” (mathematical modeling, simulation and verification in material-oriented processes and intelligent systems). Between 2003 and 2006, he was Dean of the Department of Mathematics. He was a member of the TUM Senate and the University Council between 2007 and 2010.",
+    "profile_url": "https://www.professoren.tum.de/en/brokate-martin",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=52D73ADCC3C9F868",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-martin-elsner",
+    "name": "Martin Elsner",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Chemistry",
+    "title": "Prof. Dr.",
+    "roles": [
+      "Analytical Chemistry and Water Chemistry"
+    ],
+    "research_areas": [
+      "Analytical Chemistry",
+      "Water Chemistry"
+    ],
+    "summary": "Professor Elsner (b. 1972) develops analytical methods to investigate the fate of chemicals and microorganisms in complex systems. Besides laser analysis, particle analysis, and bio-analytics, research at the Institute of Hydrochemistry is focused on compound-specific isotope analysis to measure isotope effects at natural abundance. Through innovative analytical methods, the Institute contributes to improvements in the management of chemicals in the environment, helps to establish the self-purification potential of natural systems and helps to optimize turnover in technical systems. Professor Elsner studied chemistry at the University of Freiburg and at ETH Zürich, where he earned his doctorate in environmental sciences in 2003. After postdoctoral research stays at EAWAG and at the University of Toronto, he became leader of a research unit at the Helmholtz Zentrum München, Institute of Groundwater Ecology (2006-17) and completed his lecturer qualification in Analytical Chemistry and Environmental Chemistry at the University of Tübingen in 2011. In 2017 Professor Elsner was appointed to the Chair of Analytical Chemistry and Water Chemistry and was made director of the Institute of H",
+    "profile_url": "https://www.professoren.tum.de/en/elsner-martin",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=0B14F7D8B8B22E79",
     "partner_university": "TUM",
     "partnership_type": "Supervision"
   },
@@ -23891,6 +25481,48 @@
     "partnership_type": "Supervision"
   },
   {
+    "id": "tum-nat-massimo-fornasier",
+    "name": "Massimo Fornasier",
+    "institution": "TUM",
+    "department": "TUM School of Computation, Information and Technology — Department of Mathematics",
+    "title": "Prof. Dr.",
+    "roles": [
+      "Applied Numerical Analysis"
+    ],
+    "research_areas": [
+      "Applied Numerical Analysis"
+    ],
+    "summary": "The research of Massimo Fornasier embraces a broad spectrum of problems in mathematical modeling, analysis and numerical analysis. Fornasier is particularly interested in the concept of compression as appearing in different forms in data analysis, image and signal processing, and in the adaptive numerical solutions of partial differential equations or high-dimensional optimization problems. Fornasier received his doctoral degree in computational mathematics in 2003 from the University of Padua, Italy. After spending from 2003 to 2006 as a postdoctoral research fellow at the University of Vienna and University of Rome La Sapienza, he joined the Johann Radon Institute for Computational and Applied Mathematics (RICAM) of the Austrian Academy of Sciences where he served as a senior research scientist until March 2011. He was an associate researcher from 2006 to 2007 for the Program in Applied and Computational Mathematics of Princeton University, USA. In 2011 Fornasier was appointed Chair of Applied Numerical Analysis at TUM. He is a member of VQR, a panel responsible for the evaluation of the quality of research in Italy. He is also a member of the editorial boards of Networks and Het",
+    "profile_url": "https://www.professoren.tum.de/en/fornasier-massimo",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=5DDABFD83703825F",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-mathias-drton",
+    "name": "Mathias Drton",
+    "institution": "TUM",
+    "department": "TUM School of Computation, Information and Technology — Department of Mathematics",
+    "title": "Prof. Ph.D.",
+    "roles": [
+      "Mathematical Statistics"
+    ],
+    "research_areas": [
+      "Mathematical Statistics"
+    ],
+    "summary": "Mathias Drton (*1975) works on methods and theory in the field of statistics. His main interest is the analysis of complex multivariate data. The main focus lies on graphical models, which capture fine causal relationships and find manifold applications in modern data-driven science. The aim of the research is, amongst others, to clarify by means of algebraic and probability theory under which circumstances data allow conclusions about causal relationships and to develop efficient methods for their estimation. After studying in Augsburg, Mathias Drton received his doctorate in statistics in 2004 from the University of Washington, Seattle. He then worked as a postdoctoral fellow at the University of California, Berkeley. From 2005 to 2012 he was Assistant, Associate and Full Professor at the University of Chicago. In 2012 he became Professor of Statistics at the University of Washington. He spent the year 2018/19 at the University of Copenhagen. Since 2019 Mathias Drton is Professor of Mathematical Statistics at the TUM.",
+    "profile_url": "https://www.professoren.tum.de/en/drton-mathias",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=ADAF8D183918658D",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
     "id": "tum-bio-mathias-wilhelm",
     "name": "Mathias Wilhelm",
     "institution": "TUM",
@@ -23908,6 +25540,27 @@
     "scholar_url": "",
     "orcid": "",
     "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/3/7/csm_prof-wilhelm-mathias_8cc4fad75f.webp",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-matthew-tredwell",
+    "name": "Matthew Tredwell",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Chemistry",
+    "title": "Prof. Dr.",
+    "roles": [
+      "Pharmaceutical Radiochemistry"
+    ],
+    "research_areas": [
+      "Pharmaceutical Radiochemistry"
+    ],
+    "summary": "Professor Tredwell studied Chemistry at the University Oxford, where he earned his doctorate in organic chemistry in 2007 before completing postdoctoral research at both the University of Cambridge and the University of Oxford. He established his independent research group at the Max-Planck-Institute für Kohlenforschung in 2015. In 2019, Professor Tredwell joined Cardiff University, appointed jointly between the Schools of Chemistry and Medicine. Since 2026, he is Professor of Pharmaceutical Radiochemistry at TUM. Prof. Tredwell’s (*1981) research spans the fields of chemical synthesis, radiochemistry, and the development of targeted radiopharmaceuticals for imaging and therapy. He has developed innovative methods and reagents for the 18 F-fluorination of small molecules and biomolecules, enabling the efficient production of positron emission tomography (PET) radiotracers, particularly for neuroimaging. These methods have been widely adopted for both research and clinical studies.",
+    "profile_url": "https://www.professoren.tum.de/en/tredwell-matthew",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=19EAD29C13896D13",
     "partner_university": "TUM",
     "partnership_type": "Supervision"
   },
@@ -23950,6 +25603,45 @@
     "partnership_type": "Supervision"
   },
   {
+    "id": "tum-nat-matthias-scherer",
+    "name": "Matthias Scherer",
+    "institution": "TUM",
+    "department": "TUM School of Computation, Information and Technology — Department of Mathematics",
+    "title": "Prof. Dr. rer. nat.",
+    "roles": [
+      "Risk and Insurance"
+    ],
+    "research_areas": [
+      "Risk",
+      "Insurance"
+    ],
+    "summary": "Prof. Scherer’s (b. 1979) research area is actuarial science, mathematical finance, probability, and statistics. His work aims at the valuation of financial products and the quantification of their risks. He is well known for the modelling of dependency structures, the construction of simulation algorithms for copulas, and the analysis of credit portfolios. Scherer is a member of the board of the “Deutsche Gesellschaft für Versicherungs- und Finanzmathematik”, speaker of the graduate school ISAM, and serves different scientific journals. He supports the exchange between academia and practice in various activities. Prof. Scherer studied business mathematics at the University of Ulm and obtained his Master of Science in mathematics at Syracuse University (USA). He went on to do his doctorate in structural credit-risk models at the University of Ulm (2007). Since 2010, he has been professor of “Mathematical Finance” at TUM, and since 2019 professor for “Risk and Insurance”. Curriculum Vitae",
+    "profile_url": "https://www.professoren.tum.de/en/scherer-matthias",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=825F6CBFDD7DAD5D",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-max-hulsey",
+    "name": "Max Hülsey",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Chemistry",
+    "title": "Prof. Ph.D.",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/pl/ui/$ctx/visitenkarte.show_vcard?$ctx=design=ca2;header=max;lang=de&pPersonenGruppe=3&pPersonenId=576A3C02C843472A",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=576A3C02C843472A",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
     "id": "tum-bio-melanie-schirmer",
     "name": "Melanie Schirmer",
     "institution": "TUM",
@@ -23988,6 +25680,48 @@
     "scholar_url": "",
     "orcid": "",
     "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=CFA45B024996ADDF",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-michael-knap",
+    "name": "Michael Knap",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Physics",
+    "title": "Prof. Dr. techn.",
+    "roles": [
+      "Collective Quantum Dynamics"
+    ],
+    "research_areas": [
+      "Collective Quantum Dynamics"
+    ],
+    "summary": "Michael Knap is working in the field of condensed matter theory. His research is driven by the quest for unconventional quantum phases of matter in strongly correlated many-body systems, both in and out of thermal equilibrium. Interactions and correlations in condensed matter systems often manifest in striking and novel properties. These properties emerge from collective behavior of the quantum particles. To understand the role of interactions between such quantum particles, Michael develops novel numerical approaches based on quantum information theory, utilizes artificial intelligence and machine learning, and develops algorithms for quantum computers. Michael studied physics at Graz University of Technology, Austria. After obtaining his PhD in 2012, he held a postdoctoral fellowship at Harvard University, USA. In 2015 Michael was awarded a Rudolf Mößbauer Tenure Track Assistant Professorship at the Technical University of Munich and was promoted to an Associate Professorship in 2021.",
+    "profile_url": "https://www.professoren.tum.de/en/knap-michael",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=6C028179C2157E97",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-michael-marc-wolf",
+    "name": "Michael Marc Wolf",
+    "institution": "TUM",
+    "department": "TUM School of Computation, Information and Technology — Department of Mathematics",
+    "title": "Prof. Dr.",
+    "roles": [
+      "Mathematical Physics"
+    ],
+    "research_areas": [
+      "Mathematical Physics"
+    ],
+    "summary": "The research area of Professor Wolf (b. 1974) is mathematical physics with a strong focus on quantum information theory. Professor Wolf studied physics at LMU Munich and at Heidelberg University. After completing his first degree in experimental physics (1999), he earned his doctoral degree in mathematical physics at TU Braunschweig (2003). He then worked at the Max Planck Institute of Quantum Optics. In 2008 he was appointed Ole Roemer professor at the Niels Bohr Institute in Copen­hagen. In 2011 Professor Wolf was appointed to the Chair of Mathematical Physics at TUM. Curriculum Vitae",
+    "profile_url": "https://www.professoren.tum.de/en/wolf-michael",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=D653EACBAD211875",
     "partner_university": "TUM",
     "partnership_type": "Supervision"
   },
@@ -24051,6 +25785,27 @@
     "scholar_url": "",
     "orcid": "",
     "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/8/7/csm_prof-schloter-michael_936bc95d00.webp",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-michael-ulbrich",
+    "name": "Michael Ulbrich",
+    "institution": "TUM",
+    "department": "TUM School of Computation, Information and Technology — Department of Mathematics",
+    "title": "Prof. Dr. rer. nat.",
+    "roles": [
+      "Mathematical Optimization"
+    ],
+    "research_areas": [
+      "Mathematical Optimization"
+    ],
+    "summary": "The research of Prof. Ulbrich centers on nonlinear optimization and optimal control. He is particularly interested in the development and analysis of efficient algorithms for solving challenging large-scale nonlinear optimization problems. His research is often related to applications, e.g., in the context of shape optimization and control of fluid flows, parameter identification, or the analysis of human motion. Prof. Ulbrich is a PI in the DFG/FWF International Research Training Group IGDK 1754 and in the DFG Priority Program SPP 1962. He is an Associate Editor of several leading journals. After studying mathematics, Prof. Ulbrich received his doctorate (1996) and his Habilitation (2002) at TUM. Funded by the DFG, he conducted research at Rice University, Houston, USA, in 1996/97 and 1999/2000. In 2002, he became a Full Professor at the University of Hamburg. Since 2006, Prof. Ulbrich has been a Full Professor at TUM, holding the Chair of Mathematical Optimization. From 2007 to 2010, he was Dean of Academic Affairs and 2012-2015 Vice Dean of the Department of Mathematics. Curriculum Vitae",
+    "profile_url": "https://www.professoren.tum.de/en/ulbrich-michael",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=8F2ABA81BA28C8FB",
     "partner_university": "TUM",
     "partnership_type": "Supervision"
   },
@@ -24119,6 +25874,27 @@
     "partnership_type": "Supervision"
   },
   {
+    "id": "tum-nat-murad-alim",
+    "name": "Murad Alim",
+    "institution": "TUM",
+    "department": "TUM School of Computation, Information and Technology — Department of Mathematics",
+    "title": "Prof. Dr. rer. nat.",
+    "roles": [
+      "Quantum Geometry"
+    ],
+    "research_areas": [
+      "Quantum Geometry"
+    ],
+    "summary": "Prof. Alim's (*1981) field of research is the area of quantum geometry, where mathematical structures are developed which describe problems of quantization of physical systems and their dualities using methods from complex algebraic geometry, representation theory and number theory. He is particularly interested in studying the interplay of perturbative and non-perturbative physical structures using resurgence techniques in the context of topological string theory, mirror symmetry and BPS structures of supersymmetric theories. Prof. Alim studied mathematics and physics in Karlsruhe, the ENS in Paris as well as at the LMU where he obtained his PhD in mathematical physics in 2009. He was a postdoc at the Hausdorff Center for Mathematics in Bonn, then in the physics and mathematics departments at Harvard before moving back to Germany to lead an Emmy Noether group in Hamburg. He became an associate professor for mathematical physics at Heriot-Watt University in Edinburgh in 2024 and was appointed to the professorship for quantum geometry at TUM in 2025. Curriculum Vitae",
+    "profile_url": "https://www.professoren.tum.de/en/alim-murad",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=CF3D1761767C4ACD",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
     "id": "tum-bio-mutez-ali-ahmed",
     "name": "Mutez Ali Ahmed",
     "institution": "TUM",
@@ -24161,6 +25937,27 @@
     "partnership_type": "Supervision"
   },
   {
+    "id": "tum-nat-nina-gantert",
+    "name": "Nina Gantert",
+    "institution": "TUM",
+    "department": "TUM School of Computation, Information and Technology — Department of Mathematics",
+    "title": "Prof. Dr. rer. nat. habil.",
+    "roles": [
+      "Probability Theory"
+    ],
+    "research_areas": [
+      "Probability Theory"
+    ],
+    "summary": "Nina Gantert's field is probability theory, in particular, stochastic processes, large deviations and random media. She investigates random walks in random environments which serve as a model for transport in disordered media. She is also interested in applications of probability theory in physics and biology. After studying at ETH Zürich, Nina Gantert earned her PhD from Bonn university in 1991. Her dissertation \"Some large deviations of Brownian motion\" was supervised by Hans Föllmer. After post-doctoral research in Haifa and Paris, she got her habilitation degree from Technical University of Berlin in 2000. Then she held faculty positions at the Karlsruhe Institute of Technology and at the University of Münster before moving to TUM in 2011.",
+    "profile_url": "https://www.professoren.tum.de/en/gantert-nina",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=9B13085FBF42B5E5",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
     "id": "tum-bio-nina-henriette-uhlenhaut",
     "name": "Nina Henriette Uhlenhaut",
     "institution": "TUM",
@@ -24182,6 +25979,67 @@
     "partnership_type": "Supervision"
   },
   {
+    "id": "tum-nat-noam-berger-steiger",
+    "name": "Noam Berger Steiger",
+    "institution": "TUM",
+    "department": "TUM School of Computation, Information and Technology — Department of Mathematics",
+    "title": "Prof. Dr.",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.math.cit.tum.de/en/math/people/professors/berger-noam/",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=6654E01A41F49CD0",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-nora-brambilla",
+    "name": "Nora Brambilla",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Physics",
+    "title": "Prof. Dr.",
+    "roles": [
+      "Theoretical Particle and Nuclear Physics"
+    ],
+    "research_areas": [
+      "Theoretical Particle",
+      "Nuclear Physics"
+    ],
+    "summary": "Nora Brambilla conducts research in the field of theoretical particle physics and nuclear physics in order to achieve a better understanding of the dynamics of the strong interaction. In this context, strongly coupled gauge theories play a central role, not only in order to understand the confinement of quarks and gluons in hadrons but also for the study of quark-gluon-plasmas in heavy-ion experiments. Brambilla received her doctoral degree at the University of Milan (1993) and acquired her postdoctoral teaching qualification at the University of Vienna (1999). Before she was recruited to the Chair of Theoretical Particle Physics in 2008 she worked at Jefferson Laboratory, USA (1996), at Philips Research Laboratories in Aachen (2001) and as an assistant professor at the University of Milan (2002-2008). She is a founding member of the International Quarkonium Working Group (2002), the Quark Confinement lecture series and the Hadron Spectrum (1994), as well as a member of the Theory Advisory Committee of the Panda Experiment and of GSI-Darmstadt (since 2009).",
+    "profile_url": "https://www.professoren.tum.de/en/brambilla-nora",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=7C9D460BE7FB1F45",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-oliver-junge",
+    "name": "Oliver Junge",
+    "institution": "TUM",
+    "department": "TUM School of Computation, Information and Technology — Department of Mathematics",
+    "title": "Prof. Dr. rer. nat.",
+    "roles": [
+      "Numerics of Complex Systems"
+    ],
+    "research_areas": [
+      "Numerics",
+      "Complex Systems"
+    ],
+    "summary": "Professor Junge (b. 1968) conducts research on numerical mathematics and scientific calculation. He is particularly interested in the development, analysis, implementation and application of conceptually innovative numerical methods for challenging problems in fields such as molecular dynamics, astrodynamics, systems theory and image processing. After studying mathematics and informatics at the universities of Darmstadt, Bordeaux, Hamburg and Bayreuth, Professor Jung received his doctorate at Paderborn in 1999. His research work took him to Georgia Institute of Technology (USA) (2000 – 2001) and California Institute of Technology (2004). After a period as an assistant professor at Paderborn (2003), he was appointed associate professor of numerics of complex systems at TUM in 2005. He declined the offer of an appointment to the Chair of Systems Theory at the University of Stuttgart (2009). Curriculum Vitae",
+    "profile_url": "https://www.professoren.tum.de/en/junge-oliver",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=94DB643B84B98A96",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
     "id": "tum-bio-patrick-bienert",
     "name": "Patrick Bienert",
     "institution": "TUM",
@@ -24199,6 +26057,27 @@
     "scholar_url": "",
     "orcid": "",
     "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/4/9/csm_prof-bienert-patrick_71019abe0e.webp",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-patrick-rinke",
+    "name": "Patrick Rinke",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Physics",
+    "title": "Prof. Dr.",
+    "roles": [
+      "AI-based Material Science"
+    ],
+    "research_areas": [
+      "AI-based Material Science"
+    ],
+    "summary": "Chair: AI-based Material Science.",
+    "profile_url": "https://www.professoren.tum.de/en/rinke-patrick",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=CF92121E884F210E",
     "partner_university": "TUM",
     "partnership_type": "Supervision"
   },
@@ -24246,6 +26125,105 @@
     "partnership_type": "Supervision"
   },
   {
+    "id": "tum-nat-peter-fierlinger",
+    "name": "Peter Fierlinger",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Physics",
+    "title": "Prof. Dr.sc.nat.",
+    "roles": [
+      "Experimentalphysik (E66) - Precision Measurement at Extreme Conditions"
+    ],
+    "research_areas": [
+      "Experimentalphysik",
+      "E66",
+      "- Precision Measurement at Extreme Conditions"
+    ],
+    "summary": "The research of Prof. Fierlinger (*1978) deals with precision measurements in fundamental and applied physics. Focuses of his work are experiments to understand the matter-antimatter asymmetry in the Universe, using ultra-cold neutrons and hyperpolarized noble gases. The techniques required to generate small magnetic fields and magnetic field probes based on quantum effects are also applied, e.g. for the measurement of fetal magnetic fields and the measurement of brain currents. Prof. Fierlinger did his undergraduate studies in Vienna (2002) with extended stays at the Institute Laue-Langevon in Grenoble. After his PhD in Zürich (2005) he went to Stanford University, from where he came to TU Munich (2008). Prof. Fierlinger led a Junior Research Group at the Cluster of Excellence ‘Origin and Structure of the Universe’. He is chair for ‘Precision Measurements at Extreme Conditions’, as well as founder of Fierlinger Magnetics GmbH among others.",
+    "profile_url": "https://www.professoren.tum.de/en/fierlinger-peter",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=A7E5976141D8AC6D",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-peter-gritzmann",
+    "name": "Peter Gritzmann",
+    "institution": "TUM",
+    "department": "TUM School of Computation, Information and Technology — Department of Mathematics",
+    "title": "Prof. Dr.",
+    "roles": [
+      "Geometry II"
+    ],
+    "research_areas": [
+      "Geometry II"
+    ],
+    "summary": "Professor Gritzmann (b. 1954) conducts research on discrete mathematics, applied geometry and optimization. After studying mathematics (with a minor in economic sciences) at the University of Dortmund, Professor Gritzmann was awarded a doctorate in 1980 at the University of Siegen. He completed his lecturer qualification there in 1984. Prior to his appointment as full professor of applied geometry and discrete mathematics at TUM in 1997, he held professorships and chairs at various universities in Germany and other countries – ultimately the Chair of Discrete Mathematics at the University of Trier. Long-term visiting professorships took him to the University of Washington (Seattle, USA), the Institute for Mathematics and its Applications at the University of Minnesota (Minneapolis, USA) and Université Paris VII. He was Vice President for Academic and Student Affairs from 2008 until 2011. He is active as a member of numerous committees and associations, in particular as former President of the Association of German Mathematicians and Chair of the Feodor Lynen Selection Committee of the Alexander von Humboldt Foundation.",
+    "profile_url": "https://www.professoren.tum.de/en/gritzmann-peter",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=BFC95B914515A2CE",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-peter-muller-buschbaum",
+    "name": "Peter Müller-Buschbaum",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Physics",
+    "title": "Prof. Dr. rer. nat.",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/pl/ui/$ctx/visitenkarte.show_vcard?$ctx=design=ca2;header=max;lang=de&pPersonenGruppe=3&pPersonenId=32D5AABC15BC68AE",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=32D5AABC15BC68AE",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-peter-rabl",
+    "name": "Peter Rabl",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Physics",
+    "title": "Prof. Dr.",
+    "roles": [
+      "Applied Quantum Theory"
+    ],
+    "research_areas": [
+      "Applied Quantum Theory"
+    ],
+    "summary": "Peter Rabl conducts research in theoretical quantum physics and quantum optics, focusing on the control of coherent quantum systems in solid-state physics, in particular superconducting circuits, nanomechanical resonators, and spin qubits. One goal of this research is to develop new protocols and technologies that can be used for applications in quantum information processing and quantum simulation. He is also working on analytical and numerical methods for simulating light-matter interactions in nanophotonic structures and in the regime of ultrastrong couplings. Peter Rabl studied Physics at the University of Innsbruck. After receiving his PhD in 2006, he conducted research as an ITAMP Postdoctoral Fellow at Harvard University and as a Senior Scientist at the Institute of Quantum Optics and Quantum Information of the Austrian Academy of Sciences. In 2011, he was awarded the START Prize and shortly thereafter moved to the Vienna University of Technology as an Assistant Professor. There he was appointed University Professor in 2021.",
+    "profile_url": "https://www.professoren.tum.de/en/rabl-peter",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=39501426E4CFA9E5",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-rainer-callies",
+    "name": "Rainer Callies",
+    "institution": "TUM",
+    "department": "TUM School of Computation, Information and Technology — Department of Mathematics",
+    "title": "Prof. Dr. rer. nat. habil.",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.math.cit.tum.de/en/math/people/professors/callies-rainer/",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.math.cit.tum.de/_assets/32ebf5255105e66824f82cb2d7e14490/Icons/person.svg",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
     "id": "tum-bio-ralph-huckelhoven",
     "name": "Ralph Hückelhoven",
     "institution": "TUM",
@@ -24289,6 +26267,84 @@
     "partnership_type": "Supervision"
   },
   {
+    "id": "tum-nat-reinhard-kienberger",
+    "name": "Reinhard Kienberger",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Physics",
+    "title": "Prof. Dr. techn.",
+    "roles": [
+      "Laser and X-ray Physics"
+    ],
+    "research_areas": [
+      "Laser",
+      "X-ray Physics"
+    ],
+    "summary": "The research area of professor Kienberger (b. 1971) is attosecond physics. Together with his team, he uses high-energy ultra-short laser pulses to create the shortest light pulses ever made. These are as short as 80 attoseconds. An attosecond is 10 -18 of a second. In orders of magnitude the difference between an attosecond and a second is the same as the difference between a second and the age of the universe. With these short pulses the electronic processes in atoms, molecules and solid matter can be time-resolved. These findings show promise and are likely to lead to advances in molecular electronics, biophysics, photovoltaics and nanosystems. Kienberger studied and completed his doctorate (2002) at TU Vienna, where he carried out the first measurement of attosecond pulses, for which his supervisor Ferenc Krausz was awarded the Nobel Prize in 2023. A scholarship awarded by the Austrian Academy of Sciences (ÖAW) enabled him to work as a postdoctoral researcher at the Stanford Linear Accelerator Laboratory, USA (2004). Since 2006, he has led a research group at the Max Planck Institute for Quantum Optics in Garching, from 2014 to 2019 as a Max Planck Fellow. In the context of the ",
+    "profile_url": "https://www.professoren.tum.de/en/kienberger-reinhard",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=A76D6EAE690F470C",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-robert-konig",
+    "name": "Robert König",
+    "institution": "TUM",
+    "department": "TUM School of Computation, Information and Technology — Department of Mathematics",
+    "title": "Prof. Dr.",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.math.cit.tum.de/en/math/people/professors/koenig-robert/",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=800CCB34B4CB33E0",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-robert-mayer",
+    "name": "Robert Mayer",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Chemistry",
+    "title": "Prof. Dr. rer. nat.",
+    "roles": [
+      "Physical-organic Chemistry of Catalysis"
+    ],
+    "research_areas": [
+      "Physical-organic Chemistry",
+      "Catalysis"
+    ],
+    "summary": "The group led by Prof. Mayer conducts research at the interface of physical organic chemistry and catalysis research. By combining high-throughput experimentation, computational chemistry, and data science, the team aims to develop quantitative models that predict chemical reactivity in catalytic reactions and rationalize the underlying mechanisms. These insights accelerate research in organic chemistry and advance the rational exploration of complex systems chemistry. Prof. Mayer (b. 1994) studied Chemistry and Biochemistry at Ludwig-Maximilians-Universität in Munich, where he obtained a PhD in Physical Organic Chemistry in 2020. In 2021, he joined the Université de Strasbourg (France) as a postdoctoral researcher, where he conducted research in the field of mechanistic organic and prebiotic chemistry. In January 2024, he started his independent career as a junior research group leader at TUM. In December 2025, he was appointed as a Rudolf Mößbauer Tenure Track Professor. Curriculum Vitae",
+    "profile_url": "https://www.professoren.tum.de/en/mayer-robert",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=EC0315899226DE76",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-roland-fischer",
+    "name": "Roland Fischer",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Chemistry",
+    "title": "Prof. Dr.",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/pl/ui/$ctx/visitenkarte.show_vcard?$ctx=design=ca2;header=max;lang=de&pPersonenGruppe=3&pPersonenId=156EB7AAF8FAE7B2",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=156EB7AAF8FAE7B2",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
     "id": "tum-bio-romana-gerner",
     "name": "Romana Gerner",
     "institution": "TUM",
@@ -24306,6 +26362,48 @@
     "scholar_url": "",
     "orcid": "",
     "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/c/5/csm_prof-gerner-romana_94341b4321.webp",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-rudi-zagst",
+    "name": "Rudi Zagst",
+    "institution": "TUM",
+    "department": "TUM School of Computation, Information and Technology — Department of Mathematics",
+    "title": "Prof. Dr.",
+    "roles": [
+      "Mathematical Finance"
+    ],
+    "research_areas": [
+      "Mathematical Finance"
+    ],
+    "summary": "Chair: Mathematical Finance.",
+    "profile_url": "https://www.professoren.tum.de/en/zagst-rudi",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=0FF2F4780BE44FD6",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-rupert-lasser",
+    "name": "Rupert Lasser",
+    "institution": "TUM",
+    "department": "TUM School of Computation, Information and Technology — Department of Mathematics",
+    "title": "Prof. Dr.",
+    "roles": [
+      "Applied Mathematics"
+    ],
+    "research_areas": [
+      "Applied Mathematics"
+    ],
+    "summary": "Chair: Applied Mathematics.",
+    "profile_url": "https://www.professoren.tum.de/en/lasser-rupert",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=0FF2813445B85E44",
     "partner_university": "TUM",
     "partnership_type": "Supervision"
   },
@@ -24353,6 +26451,23 @@
     "partnership_type": "Supervision"
   },
   {
+    "id": "tum-nat-sebastian-gunther",
+    "name": "Sebastian Günther",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Chemistry",
+    "title": "Prof. Dr.",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/pl/ui/$ctx/visitenkarte.show_vcard?$ctx=design=ca2;header=max;lang=de&pPersonenGruppe=3&pPersonenId=F42F82935CFE4C99",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=F42F82935CFE4C99",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
     "id": "tum-bio-senthold-asseng",
     "name": "Senthold Asseng",
     "institution": "TUM",
@@ -24370,6 +26485,191 @@
     "scholar_url": "",
     "orcid": "",
     "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/0/1/csm_prof-asseng-senthold_d8694787f0.webp",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-sherry-suyu",
+    "name": "Sherry Suyu",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Physics",
+    "title": "Prof. Dr.",
+    "roles": [
+      "Observational Cosmology"
+    ],
+    "research_areas": [
+      "Observational Cosmology"
+    ],
+    "summary": "Prof. Suyu is measuring the expansion rate of our Universe, probing the nature of dark energy, studying the formation/evolution of galaxies and their dark matter halos, and observing supernovae through gravitational lensing. She has led the H0LiCOW program ( www.h0licow.org ) that measured the distances to six gravitational lenses, establishing strong lensing as one of the best cosmological probes. She is also leading the HOLISMOKES program ( www.holismokes.org ) to study cosmology and supernova progenitors with lensed supernovae. Prof. Suyu completed her PhD in 2008 at the California Institute of Technology. She then worked at the University of Bonn, University of California Santa Barbara and Stanford University as a postdoc and at the Academia Sinica Institute of Astronomy and Astrophysics as a faculty member. In 2016, she became a Research Group Leader at the Max Planck Institute for Astrophysics (MPA) and an Assistant Professor at TUM, as part of the Max Planck@TUM program. Professor Suyu is now an Associate Professor at TUM, and a Max Planck Fellow at MPA.",
+    "profile_url": "https://www.professoren.tum.de/en/suyu-sherry",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=D0CF6FAB38DFEBD6",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-shigeyoshi-inoue",
+    "name": "Shigeyoshi Inoue",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Chemistry",
+    "title": "Prof. Dr.",
+    "roles": [
+      "Silicon Chemistry"
+    ],
+    "research_areas": [
+      "Silicon Chemistry"
+    ],
+    "summary": "Professor Shigeyoshi Inoue’s research interests focus on the synthesis, characterization, and reactivity of main-group compounds featuring unusual structures and distinctive electronic properties. His work aims to uncover new concepts and applications in bond activation, catalysis, and materials science, with a particular emphasis on earth-abundant elements such as silicon and aluminium. Professor Inoue studied chemistry at the University of Tsukuba, Japan, where he completed his doctoral studies under the supervision of Professor Akira Sekiguchi and obtained his PhD in 2008. Following postdoctoral research as an Alexander von Humboldt Fellow and a JSPS Postdoctoral Fellow with Professor Matthias Drieß at Technische Universität Berlin, he established his independent research group there in 2010 through the Sofja Kovalevskaja Program. In 2015, he joined the TUM, where he currently holds the Chair of Silicon Chemistry. Curriculum Vitae",
+    "profile_url": "https://www.professoren.tum.de/en/inoue-shigeyoshi",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=6D4F93DD406AEB52",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-silke-rolles",
+    "name": "Silke Rolles",
+    "institution": "TUM",
+    "department": "TUM School of Computation, Information and Technology — Department of Mathematics",
+    "title": "Prof. Dr.",
+    "roles": [
+      "Probability Theory"
+    ],
+    "research_areas": [
+      "Probability Theory"
+    ],
+    "summary": "Professor Rolles (b. 1972) carries out research in the field of probability theory. She is especially interested in processes in random media, interactive particle systems and statistical mechanics. After studying mathematics at Saarland University, she conducted research at EURANDOM in Eindhoven (Netherlands) and received her doctorate in 2002 at the University of Amsterdam. She acquired her postdoctoral teaching qualification (habilitation) in Bielefeld in 2005. Her scientific career has taken her to the University of California in Los Angeles, the Technical University of Eindhoven and the University of Zurich. Curriculum Vitae",
+    "profile_url": "https://www.professoren.tum.de/en/rolles-silke",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=9C4E2144041FAB5D",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-simone-warzel",
+    "name": "Simone Warzel",
+    "institution": "TUM",
+    "department": "TUM School of Computation, Information and Technology — Department of Mathematics",
+    "title": "Prof. Dr.",
+    "roles": [
+      "Mathematical Quantum Physics"
+    ],
+    "research_areas": [
+      "Mathematical Quantum Physics"
+    ],
+    "summary": "Professor Warzel’s research area is mathematical physics. Simone Warzel (b. 1973) studied physics and mathematics at the University of Erlangen-Nürnberg (Germany) and Cambridge University (UK). After receiving her doctorate from Erlangen University, she went to Princeton (USA), first as a postdoctoral researcher and then as an assistant professor. She has held a faculty appointment in the Mathematics Center of TUM since 2008. Professor Warzel is the German representative on the C18 commission (Mathematical Physics) of the International Union of Pure and Applied Physics (IUPAP) and a member of the executive committee of the International Association of Mathematical Physics (IAMP). Curriculum Vitae",
+    "profile_url": "https://www.professoren.tum.de/en/warzel-simone",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=E9E3C0F8B86E163E",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-stefan-filipp",
+    "name": "Stefan Filipp",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Physics",
+    "title": "Prof. Dr. techn.",
+    "roles": [
+      "Technical Physics"
+    ],
+    "research_areas": [
+      "Technical Physics"
+    ],
+    "summary": "Prof. Filipp studierte Physik an der Univsität Uppsala und der TU Wien, wo er 2006 seine Promotion zu geometrischen Phasen abschloss. Er forschte als Postdoc an der ETH Zürich an experimenteller Quanteninformationsverarbeitung mit supraleitenden Schaltkreisen bevor er ab 2014 als Wissenschaftler bei IBM Research, USA, Quantenprozessoren entwickelte. Später wechselte er ans Forschungslabor der IBM in Zürich, wo er ab 2018 das Quantencomputing-Team leitete. Seit Mai 2020 ist Prof. Filipp an der TU München und Direktor am Walther-Meißner-Institut. Prof. Filipp studied physics at the University Uppsala and the Vienna University of Technology, where he completed his PhD on geometric phases in 2006. He continued his research at ETH Zurich on experimental quantum information processing with superconducting circuits before joining IBM Research, U.S., in 2014 to develop quantum processors. He then moved to the IBM Research Laboratory in Zurich, where he led the quantum computing team from 2018. Since May 2020, Stefan Filipp is professor at TUM and director at the Walther Meissner Institute. Curriculum Vitae",
+    "profile_url": "https://www.professoren.tum.de/en/filipp-stefan",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=037CDDFB23758EFA",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-stefan-schonert",
+    "name": "Stefan Schönert",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Physics",
+    "title": "Prof. Dr. rer. nat.",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/pl/ui/$ctx/visitenkarte.show_vcard?$ctx=design=ca2;header=max;lang=de&pPersonenGruppe=3&pPersonenId=DF9100124F2A73BD",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=DF9100124F2A73BD",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-stefan-weltge",
+    "name": "Stefan Weltge",
+    "institution": "TUM",
+    "department": "TUM School of Computation, Information and Technology — Department of Mathematics",
+    "title": "Prof. Dr. rer. nat.",
+    "roles": [
+      "Discrete Mathematics"
+    ],
+    "research_areas": [
+      "Discrete Mathematics"
+    ],
+    "summary": "Prof. Weltge (b. 1986) works on theoretical questions in discrete mathematics that concern the foundations of mathematical optimization. His research interests include combinatorial optimization, linear & integer programming, and polyhedral combinatorics. Prof. Weltge studied Mathematics with a minor in Computer Science at the Otto von Guericke University Magdeburg and completed his studies there with distinction in 2012. After research visits in Tartu (Estonia) and Padua (Italy), he completed his Ph.D. in Magdeburg in 2016. He worked as a postdoctoral researcher at the Institute for Operations Research, ETH Zurich, from 2016 to 2018 and has been at TUM since 2018. Curriculum Vitae",
+    "profile_url": "https://www.professoren.tum.de/en/weltge-stefan",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=1D83FF14C6BDE5D3",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-steffen-glaser",
+    "name": "Steffen Glaser",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Chemistry",
+    "title": "Prof. Dr.",
+    "roles": [
+      "Organic Chemistry"
+    ],
+    "research_areas": [
+      "Organic Chemistry"
+    ],
+    "summary": "Prof. Glaser (*1958) conducts research on the development of novel theories and methods in nuclear magnetic resonance (NMR) experiments, focusing, in particular, on the optimal control of spin systems with applications in structural biology, medical imaging and quantum information processing. After studying physics in Heidelberg, he conducted his doctoral research at the Max-Planck-Institute for Medical Research, earning his doctorate from the University of Heidelberg in 1987. Following a research stay at the University of Washington, Seattle, he completed his post-doctoral teaching qualification at the University of Frankfurt/Main (1993). He was appointed to his professorship at TUM in 1999. Since 2005, he has served as speaker for international doctoral programs of the Elite Network of Bavaria (QCCC: Quantum Computing, Communication, and Control, 2005-2013 and ExQM: Exploring Quantum Matter, 2014-2022), which include research groups at TUM, LMU, Max Planck Institute of Quantum Optics and the Bavarian Academy of Sciences and Humanities. Curriculum Vitae",
+    "profile_url": "https://www.professoren.tum.de/en/glaser-steffen",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=8F487B27CF1B3AB1",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-stephan-paul",
+    "name": "Stephan Paul",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Physics",
+    "title": "Prof. Dr.",
+    "roles": [
+      "Physics I"
+    ],
+    "research_areas": [
+      "Physics I"
+    ],
+    "summary": "Professor Paul's research areas are hadron physics and particle physics with neutrons. At TUM he teaches particle and nuclear physics, optics and quantum physics as well as data analysis, among other things. Professor Paul (*1957) studied physics at the University of Bonn and received his doctorate from the University of Heidelberg. He did research at the Max Planck Institute for Nuclear Physics in Heidelberg and was a research fellow at CERN, where he is still active as a visiting scientist. In addition to CERN, he also works at the Japanese research centre KEK, the MLZ in Garching and the ILL in Grenoble. From 2006 to 2018 he coordinated the Cluster of Excellence \"Origin and Structure of the Universe\" at the TUM, since 2019 he is the co-coordinator of the Cluster of Excellence ORIGINS.",
+    "profile_url": "https://www.professoren.tum.de/en/paul-stephan",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=ADBC45D4E9184BC1",
     "partner_university": "TUM",
     "partnership_type": "Supervision"
   },
@@ -24438,6 +26738,27 @@
     "partnership_type": "Supervision"
   },
   {
+    "id": "tum-nat-suvrit-sra",
+    "name": "Suvrit Sra",
+    "institution": "TUM",
+    "department": "TUM School of Computation, Information and Technology — Department of Mathematics",
+    "title": "Prof. Dr.",
+    "roles": [
+      "Resource Aware Machine Learning"
+    ],
+    "research_areas": [
+      "Resource Aware Machine Learning"
+    ],
+    "summary": "Chair: Resource Aware Machine Learning.",
+    "profile_url": "https://www.professoren.tum.de/en/sra-suvrit",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.math.cit.tum.de/_assets/32ebf5255105e66824f82cb2d7e14490/Icons/person.svg",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
     "id": "tum-bio-soren-schobel-rutschmann",
     "name": "Sören Schöbel-Rutschmann",
     "institution": "TUM",
@@ -24482,6 +26803,23 @@
     "partnership_type": "Supervision"
   },
   {
+    "id": "tum-nat-thomas-bruck",
+    "name": "Thomas Brück",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Chemistry",
+    "title": "Prof. Ph.D.",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/pl/ui/$ctx/visitenkarte.show_vcard?$ctx=design=ca2;header=max;lang=de&pPersonenGruppe=3&pPersonenId=97693D953A7E1156",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=97693D953A7E1156",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
     "id": "tum-bio-thomas-f-hofmann",
     "name": "Thomas F. Hofmann",
     "institution": "TUM",
@@ -24500,6 +26838,23 @@
     "scholar_url": "",
     "orcid": "",
     "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/c/0/csm_prof-hofmann-thomas_825d85e696.webp",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-thomas-fassler",
+    "name": "Thomas Fässler",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Chemistry",
+    "title": "Prof. Dr.",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/pl/ui/$ctx/visitenkarte.show_vcard?$ctx=design=ca2;header=max;lang=de&pPersonenGruppe=3&pPersonenId=D8F5D71C072A0908",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=D8F5D71C072A0908",
     "partner_university": "TUM",
     "partnership_type": "Supervision"
   },
@@ -24542,6 +26897,61 @@
     "partnership_type": "Supervision"
   },
   {
+    "id": "tum-nat-thorsten-bach",
+    "name": "Thorsten Bach",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Chemistry",
+    "title": "Prof. Dr. rer. nat.",
+    "roles": [
+      "Organic Chemistry 1"
+    ],
+    "research_areas": [
+      "Organic Chemistry 1"
+    ],
+    "summary": "The research of Prof. Bach (b. 1965) is focused on organic synthesis chemistry, in particular stereoselective transformations. He has developed new methods using, among others, photochemical processes, the research into and use of new catalytic reactions (C-H activation, oxidation catalysis, Lewis acid catalysis) and the total synthesis of complex natural products (including GE 2270 A, meloscine, podophyllotoxin, punctaporonin C). After studying chemistry at the University of Heidelberg and the University of Southern California, he received his doctorate in 1991 at the University of Marburg. After a postdoctoral stay at Harvard University (with D.A. Evans), he commenced his lecturing qualification at the University of Münster (1992-1996). He subsequently took up a teaching and research role at the University of Marburg (1997-2000) before moving to TUM in 2000. Since 2006, he has been an elected member of the German Academy of Sciences (Leopoldina) and he became a member of the Bavarian Academy of Sciences in 2009. Curriculum Vitae",
+    "profile_url": "https://www.professoren.tum.de/en/bach-thorsten",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=3FB7A78656A1A7A2",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-tim-nikolai-hoffmann",
+    "name": "Tim Nikolai Hoffmann",
+    "institution": "TUM",
+    "department": "TUM School of Computation, Information and Technology — Department of Mathematics",
+    "title": "Prof. Dr. rer. nat. habil.",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.math.cit.tum.de/en/math/people/professors/hoffmann-tim/",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=227C93C6FC3D4825",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-tim-roith",
+    "name": "Tim Roith",
+    "institution": "TUM",
+    "department": "TUM School of Computation, Information and Technology — Department of Mathematics",
+    "title": "Prof. Dr. rer. nat.",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/pl/ui/$ctx/visitenkarte.show_vcard?$ctx=design=ca2;header=max;lang=de&pPersonenGruppe=3&pPersonenId=DB0D4E7C32EE1BB1",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=DB0D4E7C32EE1BB1",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
     "id": "tum-bio-timo-oksanen",
     "name": "Timo Oksanen",
     "institution": "TUM",
@@ -24559,6 +26969,44 @@
     "scholar_url": "",
     "orcid": "",
     "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/2/6/csm_prof-oksanen-timo_addfbaeb87.webp",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-tom-nilges",
+    "name": "Tom Nilges",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Chemistry",
+    "title": "Prof. Dr.",
+    "roles": [
+      "Synthese und Charakterisierung innovativer Materialien"
+    ],
+    "research_areas": [
+      "Synthese und Charakterisierung innovativer Materialien"
+    ],
+    "summary": "Professor Nilges (b. 1971) conducts research into the synthesis and characterization of innovative inorganic materials. The focus of his research is predominantly on solid state chemistry and associated analytical methods such as X-ray diffraction, conductivity analysis and phase transformation analysis. In addition to the traditional Rietveld analysis on powders, he also conducts anharmonic structure refinement on single-crystals. Professor Nilges’ work group explores new cathode materials and ion-conductors for battery technology, thermoelectrics and poly-anion compounds of phosphorus and tellurium. The group’s main objective is to identify and optimize new materials which can be used to produce and use energy effectively. Professor Nilges studied chemistry at the University of Siegen and the University of Aberdeen, Scotland, and completed his PhD at the University of Siegen in 2001. He then worked as a research associate at the universities of Regensburg and Münster, where he acted inter alia as subproject manager within the university’s Priority Research Program 458 (Ionic Motion in Materials with Disordered Structures: From Elementary Steps to Macroscopic Transport). In 2007, ",
+    "profile_url": "https://www.professoren.tum.de/en/nilges-tom",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=2F65B20319F27B63",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-torben-gadt",
+    "name": "Torben Gädt",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Chemistry",
+    "title": "Prof. Dr. rer. nat.",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/pl/ui/$ctx/visitenkarte.show_vcard?$ctx=design=ca2;header=max;lang=de&pPersonenGruppe=3&pPersonenId=E547868A9BCD0E29",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=E547868A9BCD0E29",
     "partner_university": "TUM",
     "partnership_type": "Supervision"
   },
@@ -24585,6 +27033,28 @@
     "partnership_type": "Supervision"
   },
   {
+    "id": "tum-nat-ulrich-bauer",
+    "name": "Ulrich Bauer",
+    "institution": "TUM",
+    "department": "TUM School of Computation, Information and Technology — Department of Mathematics",
+    "title": "Prof. Dr. rer. nat.",
+    "roles": [
+      "Applied Topology and Geometry"
+    ],
+    "research_areas": [
+      "Applied Topology",
+      "Geometry"
+    ],
+    "summary": "Professor Bauer works in the field of applied and computational topology. He focuses on questions regarding the connectivity of data on multiple scales. This is global information, concerning the data as a whole, and inaccessible by traditional methods of data analysis. In addition to investigating the theoretical foundations of these methods, he also develops leading computational methods for the analysis of large-scale data sets. After graduating in computer science at TUM, Ulrich Bauer worked at Freie Universität Berlin and Georg-August-Universität Göttingen, where he obtained a doctoral degree with distinction in mathematics for his thesis on \"Persistence in Discrete Morse Theory\". He then joined the Institute of Science and Technology Austria as a postdoctoral researcher, where he worked on topological data analysis. In 2014, he joined TUM, establishing the research group for Applied and Computational Topology. Professor Bauer is a member of the executive board of the collaborative research center Discretization in Geometry and Dynamics and the advisory board of the Centre for Topological Data Analysis . Curriculum Vitae",
+    "profile_url": "https://www.professoren.tum.de/en/bauer-ulrich",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=96F97DF2BA138989",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
     "id": "tum-nat-ulrich-gerland",
     "name": "Ulrich Gerland",
     "institution": "TUM",
@@ -24607,6 +27077,23 @@
     "partnership_type": "Supervision"
   },
   {
+    "id": "tum-nat-ulrich-kaspar-heiz",
+    "name": "Ulrich Kaspar Heiz",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Chemistry",
+    "title": "Prof. Dr. phil. nat.",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/pl/ui/$ctx/visitenkarte.show_vcard?$ctx=design=ca2;header=max;lang=de&pPersonenGruppe=3&pPersonenId=0C9EF0BE64CC3761",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=0C9EF0BE64CC3761",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
     "id": "tum-bio-ute-weisz",
     "name": "Ute Weisz",
     "institution": "TUM",
@@ -24625,6 +27112,27 @@
     "scholar_url": "",
     "orcid": "",
     "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/8/c/csm_prof-weisz-ute_37a935f4e3.webp",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-violetta-weger",
+    "name": "Violetta Weger",
+    "institution": "TUM",
+    "department": "TUM School of Computation, Information and Technology — Department of Mathematics",
+    "title": "Prof. Dr.sc.nat.",
+    "roles": [
+      "Applied Algebra"
+    ],
+    "research_areas": [
+      "Applied Algebra"
+    ],
+    "summary": "Prof. Weger's research is in code-based cryptography. This intersection of coding theory and cryptography constitutes one of the most important candidates for post-quantum cryptography, i.e. cryptographic systems that are resistant to attacks from quantum computers. Prof. Weger works on the construction and security analysis of such systems and researches new mathematical objects that can be used for these purposes. Prof. Weger studied mathematics at the University of Zurich and obtained her Ph.D. in 2020 under the supervision of Prof. Rosenthal. From 2021 to 2022, Prof. Weger was a postdoctoral researcher at UCD, Ireland and at TU Munich with a Swiss National Science Foundation Fellowship. From 2022 to 2024, Prof. Weger was a Marie-Curie Fellow at TU Munich and at TU Eindhoven, the Netherlands. Since August 2024, Prof. Weger has been a Rudolf Mößbauer Tenure Track Assistant Professor at TUM and a Fellow of TUM IAS. Curriculum Vitae",
+    "profile_url": "https://www.professoren.tum.de/en/weger-violetta",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=7FCBE583E0B303D2",
     "partner_university": "TUM",
     "partnership_type": "Supervision"
   },
@@ -24669,6 +27177,23 @@
     "scholar_url": "",
     "orcid": "",
     "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/e/9/csm_prof-schwab-wilfried_c6214cd049.webp",
+    "partner_university": "TUM",
+    "partnership_type": "Supervision"
+  },
+  {
+    "id": "tum-nat-wilhelm-auwarter",
+    "name": "Wilhelm Auwärter",
+    "institution": "TUM",
+    "department": "TUM School of Natural Sciences — Department of Physics",
+    "title": "Prof. Dr.sc.nat.",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/pl/ui/$ctx/visitenkarte.show_vcard?$ctx=design=ca2;header=max;lang=de&pPersonenGruppe=3&pPersonenId=9D4C188D691B2CED",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://campus.tum.de/tumonline/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=9D4C188D691B2CED",
     "partner_university": "TUM",
     "partnership_type": "Supervision"
   },

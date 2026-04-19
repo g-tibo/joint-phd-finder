@@ -30,7 +30,7 @@ SOURCES = [
     ("ntu_all.json", "NTU", None),
     ("sorbonne_bio.json", "Sorbonne", "Degree"),
     ("tum_bio.json", "TUM", "Supervision"),
-    ("tum_nat_bio.json", "TUM", "Supervision"),
+    ("tum_nat_cit.json", "TUM", "Supervision"),
     ("turin_bio.json", "Turin", "Supervision"),
 ]
 
