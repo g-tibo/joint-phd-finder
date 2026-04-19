@@ -1,0 +1,1570 @@
+[
+  {
+    "id": "tum-bio-kay-schneitz",
+    "name": "Kay Schneitz",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Molecular Life Sciences",
+    "title": "Full Professor",
+    "roles": [
+      "Plant Developmental Biology"
+    ],
+    "research_areas": [
+      "Plant Developmental Biology"
+    ],
+    "summary": "Chair: Plant Developmental Biology.",
+    "profile_url": "https://www.professoren.tum.de/en/schneitz-kay-heinrich",
+    "lab_url": "https://www.mls.ls.tum.de/plantdev/home/",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/0/2/csm_prof-schneitz-kay_bcef6fe55e.webp"
+  },
+  {
+    "id": "tum-bio-dirk-haller",
+    "name": "Dirk Haller",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Molecular Life Sciences",
+    "title": "Full Professor",
+    "roles": [
+      "Nutrition and Immunology"
+    ],
+    "research_areas": [
+      "Nutrition",
+      "Immunology"
+    ],
+    "summary": "Chair: Nutrition and Immunology.",
+    "profile_url": "https://www.professoren.tum.de/en/haller-dirk",
+    "lab_url": "https://www.mls.ls.tum.de/en/nutrim",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/1/e/csm_prof-haller-dirk_2367cde2dc.webp"
+  },
+  {
+    "id": "tum-bio-li-deng",
+    "name": "Li Deng",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Molecular Life Sciences",
+    "title": "Full Professor",
+    "roles": [
+      "Prevention of Microbial Diseases"
+    ],
+    "research_areas": [
+      "Prevention",
+      "Microbial Diseases"
+    ],
+    "summary": "Chair: Prevention of Microbial Diseases.",
+    "profile_url": "https://www.professoren.tum.de/en/deng-li",
+    "lab_url": "https://www.mls.ls.tum.de/en/pmd",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/9/d/csm_prof-deng-li_3c181cd4a5.webp"
+  },
+  {
+    "id": "tum-bio-julijana-gjorgjieva",
+    "name": "Julijana Gjorgjieva",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Molecular Life Sciences",
+    "title": "Full Professor",
+    "roles": [
+      "Computational Neuroscience"
+    ],
+    "research_areas": [
+      "Computational Neuroscience"
+    ],
+    "summary": "Chair: Computational Neuroscience.",
+    "profile_url": "https://www.professoren.tum.de/en/gjorgjieva-julijana",
+    "lab_url": "https://www.mls.ls.tum.de/compneuro",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/2/3/csm_prof-gjorgjieva-julijana_967b9fa766.webp"
+  },
+  {
+    "id": "tum-bio-bernhard-kuster",
+    "name": "Bernhard Küster",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Molecular Life Sciences",
+    "title": "Full Professor",
+    "roles": [
+      "Proteomics and Bioanalytics"
+    ],
+    "research_areas": [
+      "Proteomics",
+      "Bioanalytics"
+    ],
+    "summary": "Chair: Proteomics and Bioanalytics.",
+    "profile_url": "https://www.professoren.tum.de/en/kuester-bernhard",
+    "lab_url": "https://www.mls.ls.tum.de/proteomics",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/3/7/csm_prof-kuester-bernhard_2e57287c5f.webp"
+  },
+  {
+    "id": "tum-bio-melanie-schirmer",
+    "name": "Melanie Schirmer",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Molecular Life Sciences",
+    "title": "Full Professor",
+    "roles": [
+      "Translational Microbiome Data Integration"
+    ],
+    "research_areas": [
+      "Translational Microbiome Data Integration"
+    ],
+    "summary": "Chair: Translational Microbiome Data Integration.",
+    "profile_url": "https://www.professoren.tum.de/en/schirmer-melanie",
+    "lab_url": "https://www.mls.ls.tum.de/en/mdi/home/",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/1/4/csm_prof-schirmer-melanie_d53aced6f3.webp"
+  },
+  {
+    "id": "tum-bio-nina-henriette-uhlenhaut",
+    "name": "Nina Henriette Uhlenhaut",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Molecular Life Sciences",
+    "title": "Full Professor",
+    "roles": [
+      "Metabolic Programming"
+    ],
+    "research_areas": [
+      "Metabolic Programming"
+    ],
+    "summary": "Chair: Metabolic Programming.",
+    "profile_url": "https://www.professoren.tum.de/en/uhlenhaut-henriette",
+    "lab_url": "https://www.metabolism.ls.tum.de",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/1/e/csm_prof-uhlenhaut-nina-henriette_ac268b1479.webp"
+  },
+  {
+    "id": "tum-bio-mathias-wilhelm",
+    "name": "Mathias Wilhelm",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Molecular Life Sciences",
+    "title": "Full Professor",
+    "roles": [
+      "Computational Mass Spectrometry"
+    ],
+    "research_areas": [
+      "Computational Mass Spectrometry"
+    ],
+    "summary": "Chair: Computational Mass Spectrometry.",
+    "profile_url": "https://www.professoren.tum.de/en/wilhelm-mathias",
+    "lab_url": "https://www.mls.ls.tum.de/en/compms",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/3/7/csm_prof-wilhelm-mathias_8cc4fad75f.webp"
+  },
+  {
+    "id": "tum-bio-dietmar-zehn",
+    "name": "Dietmar Zehn",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Molecular Life Sciences",
+    "title": "Full Professor",
+    "roles": [
+      "Animal Physiology and Immunology"
+    ],
+    "research_areas": [
+      "Animal Physiology",
+      "Immunology"
+    ],
+    "summary": "Chair: Animal Physiology and Immunology.",
+    "profile_url": "https://www.professoren.tum.de/en/zehn-dietmar",
+    "lab_url": "https://www.physio.wzw.tum.de/en/home/",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/6/5/csm_prof-zehn-dietmar_1ae77b2501.webp"
+  },
+  {
+    "id": "tum-bio-mutez-ali-ahmed",
+    "name": "Mutez Ali Ahmed",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Molecular Life Sciences",
+    "title": "Full Professor",
+    "roles": [
+      "Root-Soil Interaction"
+    ],
+    "research_areas": [
+      "Root-Soil Interaction"
+    ],
+    "summary": "Chair: Root-Soil Interaction.",
+    "profile_url": "https://www.professoren.tum.de/en/ahmed-mutez",
+    "lab_url": "https://www.mls.ls.tum.de/rsi/startseite/",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/6/f/csm_prof-ahmed-mutez-ali_06355c5e46.webp"
+  },
+  {
+    "id": "tum-bio-patrick-bienert",
+    "name": "Patrick Bienert",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Molecular Life Sciences",
+    "title": "Full Professor",
+    "roles": [
+      "Crop Physiology"
+    ],
+    "research_areas": [
+      "Crop Physiology"
+    ],
+    "summary": "Chair: Crop Physiology.",
+    "profile_url": "https://www.professoren.tum.de/en/bienert-gerd-patrick",
+    "lab_url": "https://www.mls.ls.tum.de/en/cropphys",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/4/9/csm_prof-bienert-patrick_71019abe0e.webp"
+  },
+  {
+    "id": "tum-bio-bastian-blombach",
+    "name": "Bastian Blombach",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Molecular Life Sciences",
+    "title": "Full Professor",
+    "roles": [
+      "Microbial Biotechnology"
+    ],
+    "research_areas": [
+      "Microbial Biotechnology"
+    ],
+    "summary": "Chair: Microbial Biotechnology.",
+    "profile_url": "https://www.professoren.tum.de/en/blombach-bastian",
+    "lab_url": "https://mib.cs.tum.de/?lang=en",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/5/6/csm_prof-blombach-bastian_fa8967f61e.webp"
+  },
+  {
+    "id": "tum-bio-johannes-buchner",
+    "name": "Johannes Buchner",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Molecular Life Sciences",
+    "title": "Full Professor",
+    "roles": [
+      "Biotechnology"
+    ],
+    "research_areas": [
+      "Biotechnology"
+    ],
+    "summary": "Chair: Biotechnology.",
+    "profile_url": "https://www.professoren.tum.de/en/buchner-johannes",
+    "lab_url": "https://www.department.ch.tum.de/en/biotech/home/",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/0/0/csm_prof-buchner-johannes_848eb3c4e4.webp"
+  },
+  {
+    "id": "tum-bio-corinna-dawid",
+    "name": "Corinna Dawid",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Molecular Life Sciences",
+    "title": "Full Professor",
+    "roles": [
+      "Chemosensory food systems"
+    ],
+    "research_areas": [
+      "Chemosensory food systems"
+    ],
+    "summary": "Chair: Chemosensory food systems.",
+    "profile_url": "https://www.professoren.tum.de/en/dawid-corinna",
+    "lab_url": "https://www.mls.ls.tum.de/en/cls/home/",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/3/6/csm_prof-dawid-corinna_6ff6146e58.webp"
+  },
+  {
+    "id": "tum-bio-antonella-di-pizio",
+    "name": "Antonella Di Pizio",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Molecular Life Sciences",
+    "title": "Full Professor",
+    "roles": [
+      "Chemoinformatics and Protein Modelling"
+    ],
+    "research_areas": [
+      "Chemoinformatics",
+      "Protein Modelling"
+    ],
+    "summary": "Chair: Chemoinformatics and Protein Modelling.",
+    "profile_url": "https://www.professoren.tum.de/en/di-pizio-antonella",
+    "lab_url": "https://www.mls.ls.tum.de/cpm/startseite/",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/0/0/csm_prof-di-pizio-antonella_d94f2d7534.webp"
+  },
+  {
+    "id": "tum-bio-friederike-ebner",
+    "name": "Friederike Ebner",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Molecular Life Sciences",
+    "title": "Full Professor",
+    "roles": [
+      "Infection Pathogenesis"
+    ],
+    "research_areas": [
+      "Infection Pathogenesis"
+    ],
+    "summary": "Chair: Infection Pathogenesis.",
+    "profile_url": "https://www.professoren.tum.de/en/ebner-friederike",
+    "lab_url": "https://www.mls.ls.tum.de/en/ipat/research/",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/6/6/csm_prof-ebner-friederike_7b5eae0d99.webp"
+  },
+  {
+    "id": "tum-bio-dimitri-frischmann",
+    "name": "Dimitri Frischmann",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Molecular Life Sciences",
+    "title": "Full Professor",
+    "roles": [
+      "Bioinformatics"
+    ],
+    "research_areas": [
+      "Bioinformatics"
+    ],
+    "summary": "Chair: Bioinformatics.",
+    "profile_url": "https://www.professoren.tum.de/en/frischman-dimitrij",
+    "lab_url": "https://www.mls.ls.tum.de/en/bioinf",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/c/0/csm_prof-frischmann-dimitri_d305fde44f.webp"
+  },
+  {
+    "id": "tum-bio-romana-gerner",
+    "name": "Romana Gerner",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Molecular Life Sciences",
+    "title": "Full Professor",
+    "roles": [
+      "Clinical Microbiome"
+    ],
+    "research_areas": [
+      "Clinical Microbiome"
+    ],
+    "summary": "Chair: Clinical Microbiome.",
+    "profile_url": "https://www.professoren.tum.de/en/gerner-romana",
+    "lab_url": "https://www.mls.ls.tum.de/en/cmb/translate-to-english-startseite/",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/c/5/csm_prof-gerner-romana_94341b4321.webp"
+  },
+  {
+    "id": "tum-bio-thomas-f-hofmann",
+    "name": "Thomas F. Hofmann",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Molecular Life Sciences",
+    "title": "Full Professor",
+    "roles": [
+      "Food Chemistry and Molecular Sensory Science"
+    ],
+    "research_areas": [
+      "Food Chemistry",
+      "Molecular Sensory Science"
+    ],
+    "summary": "Chair: Food Chemistry and Molecular Sensory Science.",
+    "profile_url": "https://www.professoren.tum.de/en/hofmann-thomas",
+    "lab_url": "https://www.molekulare-sensorik.de/index.php?id=2&L=1",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/c/0/csm_prof-hofmann-thomas_825d85e696.webp"
+  },
+  {
+    "id": "tum-bio-martin-hrabe-de-angelis",
+    "name": "Martin Hrabé de Angelis",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Molecular Life Sciences",
+    "title": "Full Professor",
+    "roles": [
+      "Experimental Genetics"
+    ],
+    "research_areas": [
+      "Experimental Genetics"
+    ],
+    "summary": "Chair: Experimental Genetics.",
+    "profile_url": "https://www.professoren.tum.de/en/hrabe-de-angelis-martin",
+    "lab_url": "https://www.helmholtz-muenchen.de/ieg/",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/8/5/csm_prof-hrabe-de-angelis_b5b97ed9ce.webp"
+  },
+  {
+    "id": "tum-bio-ralph-huckelhoven",
+    "name": "Ralph Hückelhoven",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Molecular Life Sciences",
+    "title": "Full Professor",
+    "roles": [
+      "Phytopathology"
+    ],
+    "research_areas": [
+      "Phytopathology"
+    ],
+    "summary": "Chair: Phytopathology.",
+    "profile_url": "https://www.professoren.tum.de/en/hueckelhoven-ralph",
+    "lab_url": "https://www.mls.ls.tum.de/en/pp",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/8/3/csm_prof-hueckelhoven-ralph_d12d768a00.webp"
+  },
+  {
+    "id": "tum-bio-frank-johannes",
+    "name": "Frank Johannes",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Molecular Life Sciences",
+    "title": "Full Professor",
+    "roles": [
+      "Plant Epigenomics"
+    ],
+    "research_areas": [
+      "Plant Epigenomics"
+    ],
+    "summary": "Chair: Plant Epigenomics.",
+    "profile_url": "https://www.professoren.tum.de/en/johannes-frank",
+    "lab_url": "https://www.epi.wzw.tum.de/de.html",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/d/3/csm_prof-johannes-frank_a4e77399fb.webp"
+  },
+  {
+    "id": "tum-bio-aphrodite-kapurniotu",
+    "name": "Aphrodite Kapurniotu",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Molecular Life Sciences",
+    "title": "Full Professor",
+    "roles": [
+      "Peptide Biochemistry"
+    ],
+    "research_areas": [
+      "Peptide Biochemistry"
+    ],
+    "summary": "Chair: Peptide Biochemistry.",
+    "profile_url": "https://www.professoren.tum.de/en/kapurniotu-aphrodite",
+    "lab_url": "https://www.mls.ls.tum.de/pbch",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/f/4/csm_prof-kapurniotu-aphrodite_730ad2f178.webp"
+  },
+  {
+    "id": "tum-bio-martin-klingenspor",
+    "name": "Martin Klingenspor",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Molecular Life Sciences",
+    "title": "Full Professor",
+    "roles": [
+      "Molecular Nutritional Medicine"
+    ],
+    "research_areas": [
+      "Molecular Nutritional Medicine"
+    ],
+    "summary": "Chair: Molecular Nutritional Medicine.",
+    "profile_url": "https://www.professoren.tum.de/en/klingenspor-martin",
+    "lab_url": "https://www.mls.ls.tum.de/en/mnm",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/2/5/csm_prof-klingenspor-martin_886184ebef.webp"
+  },
+  {
+    "id": "tum-bio-percy-a-knolle",
+    "name": "Percy A. Knolle",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Molecular Life Sciences",
+    "title": "Full Professor",
+    "roles": [
+      "Molecular Immunology"
+    ],
+    "research_areas": [
+      "Molecular Immunology"
+    ],
+    "summary": "Chair: Molecular Immunology.",
+    "profile_url": "https://www.professoren.tum.de/en/knolle-percy-a",
+    "lab_url": "http://www.imi-muenchen.de/",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/9/5/csm_prof-knolle-percy_bf25774fee.webp"
+  },
+  {
+    "id": "tum-bio-karsten-kohler",
+    "name": "Karsten Köhler",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Molecular Life Sciences",
+    "title": "Full Professor",
+    "roles": [
+      "Exercise, Nutrition and Health"
+    ],
+    "research_areas": [
+      "Exercise",
+      "Nutrition",
+      "Health"
+    ],
+    "summary": "Chair: Exercise, Nutrition and Health.",
+    "profile_url": "https://www.professoren.tum.de/koehler-karsten",
+    "lab_url": "https://www.sg.tum.de/exercisenutrition/startseite/",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/5/9/csm_prof-koehler-karsten_74be5388b3.webp"
+  },
+  {
+    "id": "tum-bio-harald-luksch",
+    "name": "Harald Luksch",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Molecular Life Sciences",
+    "title": "Full Professor",
+    "roles": [
+      "Zoology"
+    ],
+    "research_areas": [
+      "Zoology"
+    ],
+    "summary": "Chair: Zoology.",
+    "profile_url": "https://www.professoren.tum.de/en/luksch-harald",
+    "lab_url": "https://www.mls.ls.tum.de/en/zoologie/startseite/",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/c/2/csm_prof-luksch-harald_6636540a98.webp"
+  },
+  {
+    "id": "tum-bio-brigitte-poppenberger",
+    "name": "Brigitte Poppenberger",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Molecular Life Sciences",
+    "title": "Full Professor",
+    "roles": [
+      "Biotechnology of horticultural crops"
+    ],
+    "research_areas": [
+      "Biotechnology",
+      "horticultural crops"
+    ],
+    "summary": "Chair: Biotechnology of horticultural crops.",
+    "profile_url": "https://www.professoren.tum.de/en/poppenberger-brigitte",
+    "lab_url": "https://www.mls.ls.tum.de/en/bgk",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/f/f/csm_prof-poppenberger-brigitte_1b8d1f1fac.webp"
+  },
+  {
+    "id": "tum-bio-burkhard-rost",
+    "name": "Burkhard Rost",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Molecular Life Sciences",
+    "title": "Full Professor",
+    "roles": [
+      "Bioinformatics"
+    ],
+    "research_areas": [
+      "Bioinformatics"
+    ],
+    "summary": "Chair: Bioinformatics.",
+    "profile_url": "https://www.professoren.tum.de/en/rost-burkhard",
+    "lab_url": "https://www.cs.cit.tum.de/en/bio/home/",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/b/3/csm_prof-rost-burkhard_aa33213213.webp"
+  },
+  {
+    "id": "tum-bio-chris-carolin-schon",
+    "name": "Chris-Carolin Schön",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Molecular Life Sciences",
+    "title": "Full Professor",
+    "roles": [
+      "Plant Breeding"
+    ],
+    "research_areas": [
+      "Plant Breeding"
+    ],
+    "summary": "Chair: Plant Breeding.",
+    "profile_url": "https://www.professoren.tum.de/en/schoen-chris-carolin",
+    "lab_url": "https://www.mls.ls.tum.de/en/plantbreeding",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/5/5/csm_prof-schoen-chris-carolin_6b5869f475.webp"
+  },
+  {
+    "id": "tum-bio-claus-schwechheimer",
+    "name": "Claus Schwechheimer",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Molecular Life Sciences",
+    "title": "Full Professor",
+    "roles": [
+      "Plant Systems Biology"
+    ],
+    "research_areas": [
+      "Plant Systems Biology"
+    ],
+    "summary": "Chair: Plant Systems Biology.",
+    "profile_url": "https://www.professoren.tum.de/en/schwechheimer-claus",
+    "lab_url": "https://www.mls.ls.tum.de/en/plasysbio/home/",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/d/1/csm_prof-schwechheimer-claus_c94acbe0e0.webp"
+  },
+  {
+    "id": "tum-bio-benjamin-schusser",
+    "name": "Benjamin Schusser",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Molecular Life Sciences",
+    "title": "Full Professor",
+    "roles": [
+      "Reproductive Biotechnology"
+    ],
+    "research_areas": [
+      "Reproductive Biotechnology"
+    ],
+    "summary": "Chair: Reproductive Biotechnology.",
+    "profile_url": "https://www.professoren.tum.de/en/schusser-benjamin",
+    "lab_url": "https://www.mls.ls.tum.de/en/btr",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/a/d/csm_prof-schusser-benjamin_0ae9eaadcf.webp"
+  },
+  {
+    "id": "tum-bio-wilfried-schwab",
+    "name": "Wilfried Schwab",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Molecular Life Sciences",
+    "title": "Full Professor",
+    "roles": [
+      "Biotechnology of Natural Products"
+    ],
+    "research_areas": [
+      "Biotechnology",
+      "Natural Products"
+    ],
+    "summary": "Chair: Biotechnology of Natural Products.",
+    "profile_url": "https://www.professoren.tum.de/en/schwab-wilfried",
+    "lab_url": "https://www.mls.ls.tum.de/en/bina",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/e/9/csm_prof-schwab-wilfried_c6214cd049.webp"
+  },
+  {
+    "id": "tum-bio-arne-skerra",
+    "name": "Arne Skerra",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Molecular Life Sciences",
+    "title": "Full Professor",
+    "roles": [
+      "Biological Chemistry"
+    ],
+    "research_areas": [
+      "Biological Chemistry"
+    ],
+    "summary": "Chair: Biological Chemistry.",
+    "profile_url": "https://www.professoren.tum.de/en/skerra-arne",
+    "lab_url": "https://www.mls.ls.tum.de/bc",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/7/a/csm_prof-skerra-arne_64dcbc9910.webp"
+  },
+  {
+    "id": "tum-bio-julia-steinhoff-wagner",
+    "name": "Julia Steinhoff-Wagner",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Molecular Life Sciences",
+    "title": "Full Professor",
+    "roles": [
+      "Animal Nutrition and Metabolism"
+    ],
+    "research_areas": [
+      "Animal Nutrition",
+      "Metabolism"
+    ],
+    "summary": "Chair: Animal Nutrition and Metabolism.",
+    "profile_url": "https://www.professoren.tum.de/en/steinhoff-wagner-julia",
+    "lab_url": "https://www.mls.ls.tum.de/anm",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/8/b/csm_prof-steinhoff-wagner_1177de7f8f.webp"
+  },
+  {
+    "id": "tum-bio-fabian-j-theis",
+    "name": "Fabian J. Theis",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Molecular Life Sciences",
+    "title": "Full Professor",
+    "roles": [
+      "Mathematical Modelling of Biological Systems"
+    ],
+    "research_areas": [
+      "Mathematical Modelling",
+      "Biological Systems"
+    ],
+    "summary": "Chair: Mathematical Modelling of Biological Systems.",
+    "profile_url": "https://www.professoren.tum.de/en/theis-fabian",
+    "lab_url": "https://www.math.cit.tum.de/en/biomath/",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/4/0/csm_prof-theis-fabian_8683fccf72.webp"
+  },
+  {
+    "id": "tum-bio-heiko-witt",
+    "name": "Heiko Witt",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Molecular Life Sciences",
+    "title": "Full Professor",
+    "roles": [
+      "Paediatric Nutritional Medicine"
+    ],
+    "research_areas": [
+      "Paediatric Nutritional Medicine"
+    ],
+    "summary": "Chair: Paediatric Nutritional Medicine.",
+    "profile_url": "https://www.professoren.tum.de/en/witt-heiko",
+    "lab_url": "https://www.pem.wzw.tum.de/en/home/",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/9/6/csm_prof-witt-heiko_91f6eb57c3.webp"
+  },
+  {
+    "id": "tum-bio-anja-rammig",
+    "name": "Anja Rammig",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Life Science Systems",
+    "title": "Full Professor",
+    "roles": [
+      "Land Surface-Atmosphere Interactions"
+    ],
+    "research_areas": [
+      "Land Surface-Atmosphere Interactions"
+    ],
+    "summary": "Chair: Land Surface-Atmosphere Interactions.",
+    "profile_url": "https://www.professoren.tum.de/en/rammig-anja",
+    "lab_url": "https://www.lss.ls.tum.de/en/lsai/home-1/",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/4/3/csm_prof-rammig-anja_26e4bc2574.webp"
+  },
+  {
+    "id": "tum-bio-rupert-seidl",
+    "name": "Rupert Seidl",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Life Science Systems",
+    "title": "Full Professor",
+    "roles": [
+      "Ecosystem dynamics and Forest management in Mountain landscapes"
+    ],
+    "research_areas": [
+      "Ecosystem dynamics",
+      "Forest management in Mountain landscapes"
+    ],
+    "summary": "Chair: Ecosystem dynamics and Forest management in Mountain landscapes.",
+    "profile_url": "https://www.professoren.tum.de/en/seidl-rupert",
+    "lab_url": "https://www.lss.ls.tum.de/en/edfm/start/",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/8/0/csm_prof-seidl-rupert_84e7abb65e.webp"
+  },
+  {
+    "id": "tum-bio-donna-ankerst",
+    "name": "Donna Ankerst",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Life Science Systems",
+    "title": "Full Professor",
+    "roles": [
+      "Biostatistics"
+    ],
+    "research_areas": [
+      "Biostatistics"
+    ],
+    "summary": "Chair: Biostatistics.",
+    "profile_url": "https://www.professoren.tum.de/en/ankerst-donna",
+    "lab_url": "https://www.math.cit.tum.de/en/math/people/professors/ankerst-donna/",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/5/6/csm_prof-ankerst-donna_4eca68484e.webp"
+  },
+  {
+    "id": "tum-bio-peter-annighofer",
+    "name": "Peter Annighöfer",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Life Science Systems",
+    "title": "Full Professor",
+    "roles": [
+      "Forest and Agroforest Systems"
+    ],
+    "research_areas": [
+      "Forest",
+      "Agroforest Systems"
+    ],
+    "summary": "Chair: Forest and Agroforest Systems.",
+    "profile_url": "https://www.professoren.tum.de/en/annighoefer-peter",
+    "lab_url": "https://www.lss.ls.tum.de/en/fafsys/home/",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/9/6/csm_prof-annighoefer-peter_072111417b.webp"
+  },
+  {
+    "id": "tum-bio-frank-martin-belz",
+    "name": "Frank-Martin Belz",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Life Science Systems",
+    "title": "Full Professor",
+    "roles": [
+      "Corporate Sustainability Brewery and Food Industry"
+    ],
+    "research_areas": [
+      "Corporate Sustainability Brewery",
+      "Food Industry"
+    ],
+    "summary": "Chair: Corporate Sustainability Brewery and Food Industry.",
+    "profile_url": "https://www.professoren.tum.de/en/professors/belz-frank-martin",
+    "lab_url": "https://www.ie.mgt.tum.de/en/sustainability/home/",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/b/d/csm_prof-belz-frank-martin_6fc3a1662c.webp"
+  },
+  {
+    "id": "tum-bio-jorg-e-drewes",
+    "name": "Jörg E. Drewes",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Life Science Systems",
+    "title": "Full Professor",
+    "roles": [
+      "Urban Water Systems Engineering"
+    ],
+    "research_areas": [
+      "Urban Water Systems Engineering"
+    ],
+    "summary": "Chair: Urban Water Systems Engineering.",
+    "profile_url": "https://www.professoren.tum.de/en/drewes-joerg",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/0/a/csm_prof-drewes-joerg_e181fc9735.webp"
+  },
+  {
+    "id": "tum-bio-monika-egerer",
+    "name": "Monika Egerer",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Life Science Systems",
+    "title": "Full Professor",
+    "roles": [
+      "Urban Productive Ecosystems"
+    ],
+    "research_areas": [
+      "Urban Productive Ecosystems"
+    ],
+    "summary": "Chair: Urban Productive Ecosystems.",
+    "profile_url": "https://www.professoren.tum.de/en/egerer-monika",
+    "lab_url": "https://www.lss.ls.tum.de/en/upe/home/",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/7/8/csm_prof-egerer-monika_bc6fdb944c.webp"
+  },
+  {
+    "id": "tum-bio-jurgen-peter-geist",
+    "name": "Jürgen Peter Geist",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Life Science Systems",
+    "title": "Full Professor",
+    "roles": [
+      "Aquatic Systems Biology"
+    ],
+    "research_areas": [
+      "Aquatic Systems Biology"
+    ],
+    "summary": "Chair: Aquatic Systems Biology.",
+    "profile_url": "https://www.professoren.tum.de/en/geist-juergen",
+    "lab_url": "https://www.lss.ls.tum.de/en/aquasys/welcome/",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/c/7/csm_prof-geist-juergen_ad927fc42c.webp"
+  },
+  {
+    "id": "tum-bio-axel-gottlein",
+    "name": "Axel Göttlein",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Life Science Systems",
+    "title": "Full Professor",
+    "roles": [
+      "Forest Nutrition and Water Resources"
+    ],
+    "research_areas": [
+      "Forest Nutrition",
+      "Water Resources"
+    ],
+    "summary": "Chair: Forest Nutrition and Water Resources.",
+    "profile_url": "https://www.professoren.tum.de/en/goettlein-axel",
+    "lab_url": "https://webarchiv.it.ls.tum.de/waern.wzw.tum.de/en/startseite/index.html",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/e/a/csm_prof-placeholder-person_b9b6a1e873.webp"
+  },
+  {
+    "id": "tum-bio-kurt-jurgen-hulsbergen",
+    "name": "Kurt-Jürgen Hülsbergen",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Life Science Systems",
+    "title": "Full Professor",
+    "roles": [
+      "Organic Agriculture and Agronomy"
+    ],
+    "research_areas": [
+      "Organic Agriculture",
+      "Agronomy"
+    ],
+    "summary": "Chair: Organic Agriculture and Agronomy.",
+    "profile_url": "https://www.professoren.tum.de/en/huelsbergen-kurt-juergen",
+    "lab_url": "https://www.oekolandbau.wzw.tum.de/en/home/",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/e/3/csm_prof-huelsbergen-kurt-juergen_b33b001284.webp"
+  },
+  {
+    "id": "tum-bio-regine-keller",
+    "name": "Regine Keller",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Life Science Systems",
+    "title": "Full Professor",
+    "roles": [
+      "Landscape Architecture and Public Space"
+    ],
+    "research_areas": [
+      "Landscape Architecture",
+      "Public Space"
+    ],
+    "summary": "Chair: Landscape Architecture and Public Space.",
+    "profile_url": "https://www.professoren.tum.de/en/keller-regine",
+    "lab_url": "https://www.lao.ar.tum.de/en/news/",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/5/f/csm_prof-keller-regine_bc8d6da7cf.webp"
+  },
+  {
+    "id": "tum-bio-thomas-knoke",
+    "name": "Thomas Knoke",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Life Science Systems",
+    "title": "Full Professor",
+    "roles": [
+      "Forest Management"
+    ],
+    "research_areas": [
+      "Forest Management"
+    ],
+    "summary": "Chair: Forest Management.",
+    "profile_url": "https://www.professoren.tum.de/en/knoke-thomas",
+    "lab_url": "https://www.lss.ls.tum.de/en/ifm/start/",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/7/8/csm_prof-knoke-thomas_e3f7a2a0d0.webp"
+  },
+  {
+    "id": "tum-bio-johannes-kollmann",
+    "name": "Johannes Kollmann",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Life Science Systems",
+    "title": "Full Professor",
+    "roles": [
+      "Restoration Ecology"
+    ],
+    "research_areas": [
+      "Restoration Ecology"
+    ],
+    "summary": "Chair: Restoration Ecology.",
+    "profile_url": "https://www.professoren.tum.de/en/kollmann-johannes",
+    "lab_url": "https://www.lss.ls.tum.de/en/roek/home/",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/7/2/csm_prof-kollmann-johannes_a7bf5cc486.webp"
+  },
+  {
+    "id": "tum-bio-sara-diana-leonhardt",
+    "name": "Sara Diana Leonhardt",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Life Science Systems",
+    "title": "Full Professor",
+    "roles": [
+      "Plant-Insect-Interactions"
+    ],
+    "research_areas": [
+      "Plant-Insect-Interactions"
+    ],
+    "summary": "Chair: Plant-Insect-Interactions.",
+    "profile_url": "https://www.professoren.tum.de/en/leonhardt-sara-diana",
+    "lab_url": "https://www.lss.ls.tum.de/pii/home/",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/d/b/csm_prof-leonhardt-sara_c26ced5dce.webp"
+  },
+  {
+    "id": "tum-bio-ferdinand-ludwig",
+    "name": "Ferdinand Ludwig",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Life Science Systems",
+    "title": "Full Professor",
+    "roles": [
+      "Green Technologies in Landscape Architecture"
+    ],
+    "research_areas": [
+      "Green Technologies in Landscape Architecture"
+    ],
+    "summary": "Chair: Green Technologies in Landscape Architecture.",
+    "profile_url": "https://www.professoren.tum.de/ludwig-ferdinand",
+    "lab_url": "https://www.arc.ed.tum.de/gtla/aktuelles/",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/2/2/csm_prof-ludwig-ferdinand_db597a77f1.webp"
+  },
+  {
+    "id": "tum-bio-luisa-menapace",
+    "name": "Luisa Menapace",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Life Science Systems",
+    "title": "Full Professor",
+    "roles": [
+      "Governance in International Agribusiness"
+    ],
+    "research_areas": [
+      "Governance in International Agribusiness"
+    ],
+    "summary": "Chair: Governance in International Agribusiness.",
+    "profile_url": "https://www.professoren.tum.de/en/menapace-luisa",
+    "lab_url": "https://www.ep.mgt.tum.de/en/gia/home/",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/b/2/csm_prof-menapace-luisa_44ce5a513e.webp"
+  },
+  {
+    "id": "tum-bio-annette-menzel",
+    "name": "Annette Menzel",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Life Science Systems",
+    "title": "Full Professor",
+    "roles": [
+      "Ecoclimatology"
+    ],
+    "research_areas": [
+      "Ecoclimatology"
+    ],
+    "summary": "Chair: Ecoclimatology.",
+    "profile_url": "https://www.professoren.tum.de/en/menzel-annette",
+    "lab_url": "https://www.lss.ls.tum.de/en/ecoclim/home/",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/6/3/csm_prof-menzel-annette_4c62f57bcc.webp"
+  },
+  {
+    "id": "tum-bio-stephan-pauleit",
+    "name": "Stephan Pauleit",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Life Science Systems",
+    "title": "Full Professor",
+    "roles": [
+      "Strategic Landscape Planning and Management"
+    ],
+    "research_areas": [
+      "Strategic Landscape Planning",
+      "Management"
+    ],
+    "summary": "Chair: Strategic Landscape Planning and Management.",
+    "profile_url": "https://www.professoren.tum.de/en/pauleit-stephan",
+    "lab_url": "https://www.lss.ls.tum.de/en/lapl/home-news/",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/b/9/csm_prof-pauleit-stephan_5838ef9c0d.webp"
+  },
+  {
+    "id": "tum-bio-jutta-roosen",
+    "name": "Jutta Roosen",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Life Science Systems",
+    "title": "Full Professor",
+    "roles": [
+      "Marketing and Consumer Research"
+    ],
+    "research_areas": [
+      "Marketing",
+      "Consumer Research"
+    ],
+    "summary": "Chair: Marketing and Consumer Research.",
+    "profile_url": "https://www.professoren.tum.de/en/roosen-jutta",
+    "lab_url": "https://www.professors.wi.tum.de/en/mcr/home/",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/6/4/csm_prof-roosen-jutta_5ab052ec8e.webp"
+  },
+  {
+    "id": "tum-bio-johannes-sauer",
+    "name": "Johannes Sauer",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Life Science Systems",
+    "title": "Full Professor",
+    "roles": [
+      "Agricultural Production and Resource Economics"
+    ],
+    "research_areas": [
+      "Agricultural Production",
+      "Resource Economics"
+    ],
+    "summary": "Chair: Agricultural Production and Resource Economics.",
+    "profile_url": "https://www.professoren.tum.de/en/sauer-johannes",
+    "lab_url": "https://www.ep.mgt.tum.de/en/pur/home/",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/6/d/csm_prof-sauer-johannes_92984182e4.webp"
+  },
+  {
+    "id": "tum-bio-hanno-schafer",
+    "name": "Hanno Schäfer",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Life Science Systems",
+    "title": "Full Professor",
+    "roles": [
+      "Plant Biodiversity Research"
+    ],
+    "research_areas": [
+      "Plant Biodiversity Research"
+    ],
+    "summary": "Chair: Plant Biodiversity Research.",
+    "profile_url": "https://www.professoren.tum.de/en/schaefer-hanno",
+    "lab_url": "https://www.lss.ls.tum.de/en/biodiv/home/",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/e/0/csm_prof-schaefer-hanno_f1dba6c1fe.webp"
+  },
+  {
+    "id": "tum-bio-michael-schloter",
+    "name": "Michael Schloter",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Life Science Systems",
+    "title": "Full Professor",
+    "roles": [
+      "Environmental Microbiology"
+    ],
+    "research_areas": [
+      "Environmental Microbiology"
+    ],
+    "summary": "Chair: Environmental Microbiology.",
+    "profile_url": "https://www.professoren.tum.de/en/schloter-michael",
+    "lab_url": "https://www.helmholtz-munich.de/en/comi/pi/michael-schloter",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/8/7/csm_prof-schloter-michael_936bc95d00.webp"
+  },
+  {
+    "id": "tum-bio-hans-peter-schmid",
+    "name": "Hans Peter Schmid",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Life Science Systems",
+    "title": "Full Professor",
+    "roles": [
+      "Atmospheric Environmental Research"
+    ],
+    "research_areas": [
+      "Atmospheric Environmental Research"
+    ],
+    "summary": "Chair: Atmospheric Environmental Research.",
+    "profile_url": "https://www.professoren.tum.de/en/schmid-hans-peter",
+    "lab_url": "https://www.imk-ifu.kit.edu/english/index.php",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/4/2/csm_prof-schmid-hans-peter_ead05c7f42.webp"
+  },
+  {
+    "id": "tum-bio-soren-schobel-rutschmann",
+    "name": "Sören Schöbel-Rutschmann",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Life Science Systems",
+    "title": "Full Professor",
+    "roles": [
+      "Landscape Architecture and Regional Open Space"
+    ],
+    "research_areas": [
+      "Landscape Architecture",
+      "Regional Open Space"
+    ],
+    "summary": "Chair: Landscape Architecture and Regional Open Space.",
+    "profile_url": "https://www.professoren.tum.de/en/schoebel-rutschmann-soeren",
+    "lab_url": "https://www.ar.tum.de/en/lareg/lareg/",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/b/a/csm_prof-schoebel-rutschmann-soeren_67e1b472c5.webp"
+  },
+  {
+    "id": "tum-bio-aurelien-tellier",
+    "name": "Aurélien Tellier",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Life Science Systems",
+    "title": "Full Professor",
+    "roles": [
+      "Population Genetics"
+    ],
+    "research_areas": [
+      "Population Genetics"
+    ],
+    "summary": "Chair: Population Genetics.",
+    "profile_url": "https://www.professoren.tum.de/en/tellier-aurelien",
+    "lab_url": "https://www.lss.ls.tum.de/popgen/home/",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/a/1/csm_prof-tellier-aurelin_bc3c1db321.webp"
+  },
+  {
+    "id": "tum-bio-mgt",
+    "name": "MGT",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Life Science Systems",
+    "title": "Full Professor",
+    "roles": [
+      "Environmental Economics"
+    ],
+    "research_areas": [
+      "Environmental Economics"
+    ],
+    "summary": "Chair: Environmental Economics.",
+    "profile_url": "https://www.mgt.tum.de/",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/e/6/csm_prof-tonke-sebastian_241fce2f70.webp"
+  },
+  {
+    "id": "tum-bio-udo-weilacher",
+    "name": "Udo Weilacher",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Life Science Systems",
+    "title": "Full Professor",
+    "roles": [
+      "Landscape Architecture and Transformation"
+    ],
+    "research_areas": [
+      "Landscape Architecture",
+      "Transformation"
+    ],
+    "summary": "Chair: Landscape Architecture and Transformation.",
+    "profile_url": "https://www.professoren.tum.de/en/weilacher-udo",
+    "lab_url": "https://www.lai.ar.tum.de/en/the-chair/",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/a/8/csm_prof-weilacher-udo_519d5ed6a1.webp"
+  },
+  {
+    "id": "tum-bio-wolfgang-wilhelm-weisser",
+    "name": "Wolfgang Wilhelm Weisser",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Life Science Systems",
+    "title": "Full Professor",
+    "roles": [
+      "Terrestrial Ecology"
+    ],
+    "research_areas": [
+      "Terrestrial Ecology"
+    ],
+    "summary": "Chair: Terrestrial Ecology.",
+    "profile_url": "https://www.professoren.tum.de/en/weisser-wolfgang",
+    "lab_url": "https://www.lss.ls.tum.de/en/toek/home/",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/c/5/csm_prof-weisser-wolfgang_afba96ff5b.webp"
+  },
+  {
+    "id": "tum-bio-mohsen-zare",
+    "name": "Mohsen Zare",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Life Science Systems",
+    "title": "Full Professor",
+    "roles": [
+      "Soil Biophysics and Environmental Systems"
+    ],
+    "research_areas": [
+      "Soil Biophysics",
+      "Environmental Systems"
+    ],
+    "summary": "Chair: Soil Biophysics and Environmental Systems.",
+    "profile_url": "https://www.professoren.tum.de/en/zare-mohsen",
+    "lab_url": "https://www.lss.ls.tum.de/sbe/get-to-know-us/",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/0/d/csm_prof-zare-mohsen_410d7c098f.webp"
+  },
+  {
+    "id": "tum-bio-michael-rychlik",
+    "name": "Michael Rychlik",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Life Science Engineering",
+    "title": "Full Professor",
+    "roles": [
+      "Analytical Food Chemistry"
+    ],
+    "research_areas": [
+      "Analytical Food Chemistry"
+    ],
+    "summary": "Chair: Analytical Food Chemistry.",
+    "profile_url": "https://www.professoren.tum.de/en/rychlik-michael",
+    "lab_url": "https://www.lse.ls.tum.de/en/alchem/startseite/",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/c/a/csm_prof-rychlik-michael_d98e39adf8.webp"
+  },
+  {
+    "id": "tum-bio-senthold-asseng",
+    "name": "Senthold Asseng",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Life Science Engineering",
+    "title": "Full Professor",
+    "roles": [
+      "Digital Agriculture"
+    ],
+    "research_areas": [
+      "Digital Agriculture"
+    ],
+    "summary": "Chair: Digital Agriculture.",
+    "profile_url": "https://www.professoren.tum.de/en/asseng-senthold",
+    "lab_url": "https://www.lse.ls.tum.de/en/dag/home/",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/0/1/csm_prof-asseng-senthold_d8694787f0.webp"
+  },
+  {
+    "id": "tum-bio-thomas-becker",
+    "name": "Thomas Becker",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Life Science Engineering",
+    "title": "Full Professor",
+    "roles": [
+      "Brewing and Beverage Technology"
+    ],
+    "research_areas": [
+      "Brewing",
+      "Beverage Technology"
+    ],
+    "summary": "Chair: Brewing and Beverage Technology.",
+    "profile_url": "https://www.professoren.tum.de/en/becker-thomas",
+    "lab_url": "https://www.lse.ls.tum.de/en/bgt/home/",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/3/3/csm_prof-becker-thomas_c5a07017f0.webp"
+  },
+  {
+    "id": "tum-bio-j-philipp-benz",
+    "name": "J. Philipp Benz",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Life Science Engineering",
+    "title": "Full Professor",
+    "roles": [
+      "Fungal Biotechnology in Wood Science"
+    ],
+    "research_areas": [
+      "Fungal Biotechnology in Wood Science"
+    ],
+    "summary": "Chair: Fungal Biotechnology in Wood Science.",
+    "profile_url": "https://www.professoren.tum.de/en/benz-philipp",
+    "lab_url": "https://www.lse.ls.tum.de/en/fungbio/home/",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/2/b/csm_prof-benz-johan-philipp_fd1a82b070.webp"
+  },
+  {
+    "id": "tum-bio-heinz-bernhardt",
+    "name": "Heinz Bernhardt",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Life Science Engineering",
+    "title": "Full Professor",
+    "roles": [
+      "Agricultural Sytems Engineering"
+    ],
+    "research_areas": [
+      "Agricultural Sytems Engineering"
+    ],
+    "summary": "Chair: Agricultural Sytems Engineering.",
+    "profile_url": "https://www.professoren.tum.de/en/bernhardt-heinz",
+    "lab_url": "https://www.lse.ls.tum.de/en/ast/homepage/",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/8/6/csm_prof-bernhardt-heinz_a8b784711c.webp"
+  },
+  {
+    "id": "tum-bio-heiko-briesen",
+    "name": "Heiko Briesen",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Life Science Engineering",
+    "title": "Full Professor",
+    "roles": [
+      "Process systems engineering"
+    ],
+    "research_areas": [
+      "Process systems engineering"
+    ],
+    "summary": "Chair: Process systems engineering.",
+    "profile_url": "https://www.professoren.tum.de/en/briesen-heiko",
+    "lab_url": "https://www.lse.ls.tum.de/en/svt/startseite/",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/5/4/csm_prof-briesen-heiko_99eb456bab.webp"
+  },
+  {
+    "id": "tum-bio-livia-cabernard",
+    "name": "Livia Cabernard",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Life Science Engineering",
+    "title": "Full Professor",
+    "roles": [
+      "Sustainability Assessment of Food and Agricultural Systems"
+    ],
+    "research_areas": [
+      "Sustainability Assessment",
+      "Food",
+      "Agricultural Systems"
+    ],
+    "summary": "Chair: Sustainability Assessment of Food and Agricultural Systems.",
+    "profile_url": "https://www.professoren.tum.de/en/cabernard-livia",
+    "lab_url": "https://www.ep.mgt.tum.de/saf/home/",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/1/c/csm_prof-cabernard-livia_34845ff160.webp"
+  },
+  {
+    "id": "tum-bio-marius-henkel",
+    "name": "Marius Henkel",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Life Science Engineering",
+    "title": "Full Professor",
+    "roles": [
+      "Cellular Agriculture"
+    ],
+    "research_areas": [
+      "Cellular Agriculture"
+    ],
+    "summary": "Chair: Cellular Agriculture.",
+    "profile_url": "https://www.professoren.tum.de/en/henkel-marius",
+    "lab_url": "https://www.lse.ls.tum.de/en/cellag/home/",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/f/6/csm_prof-henkel-marius_d323c9938e.webp"
+  },
+  {
+    "id": "tum-bio-mirjana-minceva",
+    "name": "Mirjana Minceva",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Life Science Engineering",
+    "title": "Full Professor",
+    "roles": [
+      "Biothermodynamics"
+    ],
+    "research_areas": [
+      "Biothermodynamics"
+    ],
+    "summary": "Chair: Biothermodynamics.",
+    "profile_url": "https://www.professoren.tum.de/en/minceva-mirjana",
+    "lab_url": "https://www.lse.ls.tum.de/en/btd/home/",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/0/e/csm_prof-minceva-mirjana_af7c0473c6.webp"
+  },
+  {
+    "id": "tum-bio-timo-oksanen",
+    "name": "Timo Oksanen",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Life Science Engineering",
+    "title": "Full Professor",
+    "roles": [
+      "Agrimechatronics"
+    ],
+    "research_areas": [
+      "Agrimechatronics"
+    ],
+    "summary": "Chair: Agrimechatronics.",
+    "profile_url": "https://www.professoren.tum.de/en/oksanen-timo",
+    "lab_url": "https://www.lse.ls.tum.de/en/amx/home/",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/2/6/csm_prof-oksanen-timo_addfbaeb87.webp"
+  },
+  {
+    "id": "tum-bio-stephen-schrettl",
+    "name": "Stephen Schrettl",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Life Science Engineering",
+    "title": "Full Professor",
+    "roles": [
+      "Functional Materials for Food Packaging"
+    ],
+    "research_areas": [
+      "Functional Materials for Food Packaging"
+    ],
+    "summary": "Chair: Functional Materials for Food Packaging.",
+    "profile_url": "https://www.professoren.tum.de/en/schrettl-stephen",
+    "lab_url": "https://www.lse.ls.tum.de/fmp/home/",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/1/9/csm_prof-schrettl-stephen_73ae38ab95.webp"
+  },
+  {
+    "id": "tum-bio-volker-sieber",
+    "name": "Volker Sieber",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Life Science Engineering",
+    "title": "Full Professor",
+    "roles": [
+      "Chemistry of Biogenic Resources"
+    ],
+    "research_areas": [
+      "Chemistry",
+      "Biogenic Resources"
+    ],
+    "summary": "Chair: Chemistry of Biogenic Resources.",
+    "profile_url": "https://www.professoren.tum.de/en/sieber-volker",
+    "lab_url": "https://cbr.cs.tum.de/?lang=en",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/e/2/csm_prof-sieber-volker_17fdd992c2.webp"
+  },
+  {
+    "id": "tum-bio-ute-weisz",
+    "name": "Ute Weisz",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Life Science Engineering",
+    "title": "Full Professor",
+    "roles": [
+      "Plant Proteins and Nutrition"
+    ],
+    "research_areas": [
+      "Plant Proteins",
+      "Nutrition"
+    ],
+    "summary": "Chair: Plant Proteins and Nutrition.",
+    "profile_url": "https://www.professoren.tum.de/en/weisz-ute",
+    "lab_url": "https://www.lse.ls.tum.de/en/ppn/startpage/",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/8/c/csm_prof-weisz-ute_37a935f4e3.webp"
+  },
+  {
+    "id": "tum-bio-kang-yu",
+    "name": "Kang Yu",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Life Science Engineering",
+    "title": "Full Professor",
+    "roles": [
+      "Precision Agriculture"
+    ],
+    "research_areas": [
+      "Precision Agriculture"
+    ],
+    "summary": "Chair: Precision Agriculture.",
+    "profile_url": "https://www.professoren.tum.de/en/yu-kang",
+    "lab_url": "https://www.lse.ls.tum.de/pag/home/",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/a/c/csm_prof-yu-kang_d6c96663a0.webp"
+  },
+  {
+    "id": "tum-bio-cordt-zollfrank",
+    "name": "Cordt Zollfrank",
+    "institution": "TUM",
+    "department": "TUM School of Life Sciences — Life Science Engineering",
+    "title": "Full Professor",
+    "roles": [
+      "Biogenic Polymers"
+    ],
+    "research_areas": [
+      "Biogenic Polymers"
+    ],
+    "summary": "Chair: Biogenic Polymers.",
+    "profile_url": "https://www.professoren.tum.de/en/zollfrank-cordt",
+    "lab_url": "https://bgp.cs.tum.de/?lang=en",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.ls.tum.de/fileadmin/_processed_/3/5/csm_prof-zollfrank-cordt_412960feee.webp"
+  }
+]

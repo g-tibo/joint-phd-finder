@@ -1,0 +1,25 @@
+# Node / Next.js
+**/node_modules/
+**/.next/
+**/.vercel/
+
+# Scraper — cache of fetched HTML (regenerable) + intermediate outputs
+scraper/cache/
+scraper/__pycache__/
+scraper/scrapers/__pycache__/
+
+# Python
+*.pyc
+__pycache__/
+
+# Env / secrets
+.env
+.env.local
+.env.*.local
+!**/.env.local.example
+
+# Editor / OS junk
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

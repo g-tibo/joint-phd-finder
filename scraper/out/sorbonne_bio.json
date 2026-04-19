@@ -1,0 +1,1246 @@
+[
+  {
+    "id": "sorbonne-bio-alessandra-carbone",
+    "name": "Alessandra Carbone",
+    "institution": "Sorbonne",
+    "department": "IBPS — Computational, Quantitative and Synthetic Biology (LCQB)",
+    "title": "Team Leader — Analytical genomics",
+    "roles": [
+      "Analytical genomics"
+    ],
+    "research_areas": [
+      "Analytical genomics"
+    ],
+    "summary": "Domain annotation and metagenomics - We develop a new approach to domain annotation and remote homology detection. We are extending it to metagenomic annotation. Transcriptomics and sequence analysis - We combine statistical modeling with combinatorial optimization to address each analysis step of a transcriptome sequencing experiment. Protein evolution and interactions – We are creating a large scale mapping of protein-protein interactions with information at the molecular level. We use sequence- and structure-based bioinformatics methods to predict conformation of interacting proteins, interaction sites, protein partners. Protein conformational dynamics - We study protein conformational dynamics to decipher molecular mechanisms underlying protein functions and interactions, and to characterize alternative functional conformations to be targeted by drugs.\n\nOur projects concern the development of bioinformatics and molecular modeling tools and their application to answer biological questions: Domain annotation. We use machine learning and combinatorial optimization to detect protein remote homology, and are adapting the methodology for metagenome annotation. Periodicity in genomes and chromosomes 3D structure in unicellular organisms. We apply spectral analysis to detect periodicities in genomes from high throughput data, and their connections with the three-dimensional structure of chromosomes. High throughput sequencing methods. We are involved in two collaborative methodological efforts; correction of sequencing errors and gapped alignment of sequences. microRNAs detection and functional analysis. We developed algorithms to predict new miRNAs and have analyzed their structural clusters along chromosomes. Transcriptome analysis. We develop statistical methods for the ",
+    "profile_url": "https://www.ibps.sorbonne-universite.fr/en/ibps/directory/225-Alessandra-Carbone",
+    "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/computational-quantitative-and-synthetic-biology/analatical-genomics",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  },
+  {
+    "id": "sorbonne-bio-christian-muchardt",
+    "name": "Christian Muchardt",
+    "institution": "Sorbonne",
+    "department": "IBPS — Computational, Quantitative and Synthetic Biology (LCQB)",
+    "title": "Team Leader — Epigenetics and RNA metabolism in human diseases",
+    "roles": [
+      "Epigenetics and RNA metabolism in human diseases"
+    ],
+    "research_areas": [
+      "Epigenetics",
+      "RNA metabolism in human diseases"
+    ],
+    "summary": "Chromatin is the real matrix from which RNA is synthesized. Chromatin also serves as a support for RNA maturation events and influences this maturation through epigenetic information. In the laboratory, we study these links between chromatin, epigenetics and RNA maturation with a particular interest in the mechanisms of degradation of non-coding RNAs and for alternative splicing in the context of cancer and aging.",
+    "profile_url": "https://www.ibps.sorbonne-universite.fr/en/ibps/directory/17698-Christian-Muchardt",
+    "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/computational-quantitative-and-synthetic-biology/epigenetics-and-rna-metabolism-human-diseases",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  },
+  {
+    "id": "sorbonne-bio-judith-mine-hattab",
+    "name": "Judith Miné-Hattab",
+    "institution": "Sorbonne",
+    "department": "IBPS — Computational, Quantitative and Synthetic Biology (LCQB)",
+    "title": "Team Leader — FIONA: Functional Imaging Of Nuclear Architecture",
+    "roles": [
+      "FIONA: Functional Imaging Of Nuclear Architecture"
+    ],
+    "research_areas": [
+      "Functional Imaging Of Nuclear Architecture"
+    ],
+    "summary": "We regularly organize sciences diffusion events For more information, visit the website of our science and music project: www.muse-ic.fr\n\nIn collaboration with the team of Nataliya Sokolovska, we develop new methods to improve the analysis of Single Particle Tracking data. BI-ADD : publication: https://iopscience.iop.org/article/10.1088/25157647/adfc19 zenodo: https://doi.org/10.5281/zenodo.13334951 github: https://github.com/JunwooParkSaribu/BI_ADD FreeTrace : zenodo: https://doi.org/10.5281/zenodo.13336251 github: https://github.com/JunwooParkSaribu/FreeTrace",
+    "profile_url": "https://www.ibps.sorbonne-universite.fr/en/ibps/directory/15160-Judith-Min%C3%A9-Hattab",
+    "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/computational-quantitative-and-synthetic-biology/FIONA",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  },
+  {
+    "id": "sorbonne-bio-frederic-devaux",
+    "name": "Frédéric Devaux",
+    "institution": "Sorbonne",
+    "department": "IBPS — Computational, Quantitative and Synthetic Biology (LCQB)",
+    "title": "Team Leader — Gene network architecture",
+    "roles": [
+      "Gene network architecture"
+    ],
+    "research_areas": [
+      "Gene network architecture"
+    ],
+    "summary": "Through a combination of experimental and bioinformatics approaches, we are interested in: - studying the evolution and appearance in the genomes of signals addressing proteins to mitochondria (called MTSs); - establishing the rules that control this evolution, i.e. elucidating the relationship between the structure and sequence of MTSs and their import efficiency; - identifying \"cryptic\" MTSs conferring either dual localization properties to proteins annotated as cytosolic, or mitochondrial localization to protein isoforms resulting from physiological or pathological regulations (in the context of cancer for example) of transcription and translation.\n\nTeam themes: - Functional genomics - Spatiotemporal regulation of genome expression - Comparison of proteome and genome phylogenies - Evolution of inter- and intra-specific regulatory networks - Regulation of protein translation and localization to mitochondria",
+    "profile_url": "https://www.ibps.sorbonne-universite.fr/en/ibps/directory/270-Fr%C3%A9d%C3%A9ric-Devaux",
+    "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/computational-quantitative-and-synthetic-biology/gene-network-architecture",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  },
+  {
+    "id": "sorbonne-bio-gilles-fischer",
+    "name": "Gilles Fischer",
+    "institution": "Sorbonne",
+    "department": "IBPS — Computational, Quantitative and Synthetic Biology (LCQB)",
+    "title": "Team Leader — Genome biology",
+    "roles": [
+      "Genome biology"
+    ],
+    "research_areas": [
+      "Genome biology"
+    ],
+    "summary": "Team themes: Synteny and reconstruction of ancestral genomes Evolution of the spatio-temporal replication profiles of genomes Characterization of the molecular mechanisms involved in the formation of chromosomal rearrangements Characterization of genetic determinants controlling genome stability Study of the natural genetic diversity and variations of nucleotide composition of genomes Patterns and rates of protein sequence evolution Phylogeny of genes, genomes and species\n\nIRCAN, Nice France - Gianni Liti Institut Pasteur Paris – Romain Koszul Université de Strasbourg – Joseph Schacherer INRA AgroParisTech, Grigon – Cécile Neuvéglise CNRS Marseille – Bertrand Llorente Isoft, Gif sur Yvette Stowers Institute for Medical Research, Kansas city, USA – Rong Li",
+    "profile_url": "https://www.ibps.sorbonne-universite.fr/en/ibps/directory/282-Gilles-Fischer",
+    "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/computational-quantitative-and-synthetic-biology/genome-biology",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  },
+  {
+    "id": "sorbonne-bio-delphine-salort",
+    "name": "Delphine Salort",
+    "institution": "Sorbonne",
+    "department": "IBPS — Computational, Quantitative and Synthetic Biology (LCQB)",
+    "title": "Team Leader — Mathematical Modeling in Biology",
+    "roles": [
+      "Mathematical Modeling in Biology"
+    ],
+    "research_areas": [
+      "Mathematical Modeling in Biology"
+    ],
+    "summary": "The objective of our team, created in 2014, is to analyze, from a theoretical point of view, or in collaboration with experimenters, certain biological processes or systems derived from biology through mathematical models. In the approach that we adopt, the models obtained use, in the vast majority, tools from the field of partial differential equations and dynamical systems. Our current work focuses on three main themes: Neuroscience Mechanisms of cell polarization Cancerology\n\nNeuroscience: A large part of our work, in the field of neuroscience, consists of the analysis of neural network models of the average field type where we consider networks where each neuron perceives the average activity of the entire network. We develop new mathematical methods allowing to describe from a theoretical point of view the qualitative dynamics of the network according to the forces of interconnections between the neurons and the intrinsic nature of the neurons considered in the network. On the other hand, we are interested in learning type models where it is a question of understanding how a network learns a given signal. This work is carried out in collaboration with K. Pakdaman (IJM, Paris Diderot), B. Perthame and D. Smets (LJLL, UPMC), J.-A. Carrillo (Imperial college of London) and G. Wainrib (ENS, Univ Paris 13) Cell polarization: In collaboration with the team of N. Minc (IJM, Paris Diderot), it is a question of better understanding the mechanisms underlying the phenomena of cell polarization according to the geometry of the cell. Indeed, in work in progress with the team of N. Minc, experiments have highlighted the fact that, the flatter the local geometry of the cell, the more the cluster of Cdc42 proteins, during polarization, is spread out. . Moreover, the experiments ca",
+    "profile_url": "https://www.ibps.sorbonne-universite.fr/en/ibps/directory/5228-Delphine-Salort",
+    "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/computational-quantitative-and-synthetic-biology/mathematical-modeling-biology",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  },
+  {
+    "id": "sorbonne-bio-martin-weigt",
+    "name": "Martin Weigt",
+    "institution": "Sorbonne",
+    "department": "IBPS — Computational, Quantitative and Synthetic Biology (LCQB)",
+    "title": "Team Leader — Statistical genomics and biological physics",
+    "roles": [
+      "Statistical genomics and biological physics"
+    ],
+    "research_areas": [
+      "Statistical genomics",
+      "biological physics"
+    ],
+    "summary": "Our group, established in Sept. 2011, draws inspiration from the statistical physics of disordered systems to develop novel algorithmic tools for solving large-scale optimization and inference tasks, to bring such computational methods to the full benefit of biological research. Specific questions of our interest: Statistical-physics inspired approaches to network inference Biomolecular co-evolution and structure prediction Inference of signaling networks\n\nStatistical inference and statistical physics Statistical modeling of biological data Biomolecular co-evolution and structure prediction Inference of signaling networks",
+    "profile_url": "https://www.ibps.sorbonne-universite.fr/en/ibps/directory/249-Martin-Weigt",
+    "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/computational-quantitative-and-synthetic-biology/statistical-genomics-and-physics",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  },
+  {
+    "id": "sorbonne-bio-julien-henri",
+    "name": "Julien Henri",
+    "institution": "Sorbonne",
+    "department": "IBPS — Computational, Quantitative and Synthetic Biology (LCQB)",
+    "title": "Team Leader — Synthetic and Systems Biology of Microalgae",
+    "roles": [
+      "Synthetic and Systems Biology of Microalgae"
+    ],
+    "research_areas": [
+      "Synthetic",
+      "Systems Biology",
+      "Microalgae"
+    ],
+    "summary": "Chlamydomonas reinhardtii is the most prominent model organism in the green algae lineage for both basic research and biotechnological applications. We use Chlamydomonas to try to understand how a unicellular organism adapts to survive in a hostile environment. Although some experiments indicate the existence of programmed cell death (PCD) in response to severe stresses in Chlamydomonas, the mechanisms controlling this process and the signaling pathways involved, have yet to be identified (de Carpentier et al., 2019). Excitingly, we have shown recently that Chlamydomonas cells that self-destruct emit molecules in the culture medium that allow better resistance and survival of other cells in the population, highlighting the existence of altruistic mechanisms. We have also discovered that in response to more moderate stresses, cells aggregate forming multicellular structures in which algae can be protected. Cellular aggregation would be an intermediate stage where the stress is not strong enough to induce PCD, but where nevertheless cells collaborate to protect themselves. As Chlamydomonas is amenable to powerful genetic approaches, we have built an insertional mutant library, from which we have identified two families of original mutants: the survivor (sur) mutants which are no longer triggering PCD in response to several stresses, and the socializer (saz) mutants that form aggregates spontaneously. We have identified the genes affected in most of these mutants. Further characterization of the mutants by RNA-Seq and quantitative proteomic studies has been performed and allowed us to have a better overview of the mechanisms controlling PCD and aggregation in Chlamydomonas. Our multi-omics approach led us to identify potential key regulators of PCD and aggregation in Chlam",
+    "profile_url": "https://www.ibps.sorbonne-universite.fr/en/ibps/directory/13300-Julien-Henri",
+    "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/computational-quantitative-and-synthetic-biology/synthetic-systems-biology-microalgae",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  },
+  {
+    "id": "sorbonne-bio-stephane-lemaire",
+    "name": "Stéphane Lemaire",
+    "institution": "Sorbonne",
+    "department": "IBPS — Computational, Quantitative and Synthetic Biology (LCQB)",
+    "title": "Team Leader — Synthetic and Systems Biology of Microalgae",
+    "roles": [
+      "Synthetic and Systems Biology of Microalgae"
+    ],
+    "research_areas": [
+      "Synthetic",
+      "Systems Biology",
+      "Microalgae"
+    ],
+    "summary": "Chlamydomonas reinhardtii is the most prominent model organism in the green algae lineage for both basic research and biotechnological applications. We use Chlamydomonas to try to understand how a unicellular organism adapts to survive in a hostile environment. Although some experiments indicate the existence of programmed cell death (PCD) in response to severe stresses in Chlamydomonas, the mechanisms controlling this process and the signaling pathways involved, have yet to be identified (de Carpentier et al., 2019). Excitingly, we have shown recently that Chlamydomonas cells that self-destruct emit molecules in the culture medium that allow better resistance and survival of other cells in the population, highlighting the existence of altruistic mechanisms. We have also discovered that in response to more moderate stresses, cells aggregate forming multicellular structures in which algae can be protected. Cellular aggregation would be an intermediate stage where the stress is not strong enough to induce PCD, but where nevertheless cells collaborate to protect themselves. As Chlamydomonas is amenable to powerful genetic approaches, we have built an insertional mutant library, from which we have identified two families of original mutants: the survivor (sur) mutants which are no longer triggering PCD in response to several stresses, and the socializer (saz) mutants that form aggregates spontaneously. We have identified the genes affected in most of these mutants. Further characterization of the mutants by RNA-Seq and quantitative proteomic studies has been performed and allowed us to have a better overview of the mechanisms controlling PCD and aggregation in Chlamydomonas. Our multi-omics approach led us to identify potential key regulators of PCD and aggregation in Chlam",
+    "profile_url": "https://www.ibps.sorbonne-universite.fr/en/ibps/directory/13291-St%C3%A9phane-Lemaire",
+    "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/computational-quantitative-and-synthetic-biology/synthetic-systems-biology-microalgae",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  },
+  {
+    "id": "sorbonne-bio-zhou-xu",
+    "name": "Zhou Xu",
+    "institution": "Sorbonne",
+    "department": "IBPS — Computational, Quantitative and Synthetic Biology (LCQB)",
+    "title": "Team Leader — Telomere & Genome Stability",
+    "roles": [
+      "Telomere & Genome Stability"
+    ],
+    "research_areas": [
+      "Telomere",
+      "Genome Stability"
+    ],
+    "summary": "(Drawing by Jeanne Le Peillet) Our group is interested in the molecular bases of the cellular response to DNA damage and telomere dysfunction in the yeast Saccharomyces cerevisiae and the green algae Chlamydomonas reinhardtii . We investigate the molecular underpinnings of these processes and aim at characterizing their cell-to-cell variations and functional consequences for genome stability. To do so, we use interdisciplinary approaches combining molecular biology, genetics, genomics, bioinformatics and mathematical modeling. Specific topics covered by our research include: Role of telomeric factors in DNA repair Adaptation and molecular response to telomere dysfunction Dynamics of replicative senescence in the absence of telomerase Characterization of telomere length distribution using long-read Nanopore sequencing Mathematical modeling of telomere length regulation",
+    "profile_url": "https://www.ibps.sorbonne-universite.fr/en/ibps/directory/11013-Zhou-Xu",
+    "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/computational-quantitative-and-synthetic-biology/telomere-genome-stability",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  },
+  {
+    "id": "sorbonne-bio-bruno-cauli",
+    "name": "Bruno Cauli",
+    "institution": "Sorbonne",
+    "department": "IBPS — Center for Neuroscience Sorbonne University (NeuroSU)",
+    "title": "Team Leader — Brain Blood Communications",
+    "roles": [
+      "Brain Blood Communications"
+    ],
+    "research_areas": [
+      "Brain Blood Communications"
+    ],
+    "summary": "The Brain Blood Communications (BBC) team aims to understand how blood-borne metabolic cues influence brain functions along life and how the brain adapts to metabolic environments. Our research will decipher the cellular and molecular mechanisms underlying the benefits of healthy life styles contributing to promote prophylactic habits and develop personalized medicine.",
+    "profile_url": "https://www.ibps.sorbonne-universite.fr/en/ibps/directory/1167-Bruno-Cauli",
+    "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/neuroscience/cortical-network-and-neurovascular-coupling",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  },
+  {
+    "id": "sorbonne-bio-dongdong-li",
+    "name": "Dongdong Li",
+    "institution": "Sorbonne",
+    "department": "IBPS — Center for Neuroscience Sorbonne University (NeuroSU)",
+    "title": "Team Leader — Brain Blood Communications",
+    "roles": [
+      "Brain Blood Communications"
+    ],
+    "research_areas": [
+      "Brain Blood Communications"
+    ],
+    "summary": "The Brain Blood Communications (BBC) team aims to understand how blood-borne metabolic cues influence brain functions along life and how the brain adapts to metabolic environments. Our research will decipher the cellular and molecular mechanisms underlying the benefits of healthy life styles contributing to promote prophylactic habits and develop personalized medicine.",
+    "profile_url": "https://www.ibps.sorbonne-universite.fr/en/ibps/directory/17324-Dongdong-Li",
+    "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/neuroscience/cortical-network-and-neurovascular-coupling",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  },
+  {
+    "id": "sorbonne-bio-christian-neri-dr-inserm",
+    "name": "Christian Neri, DR Inserm",
+    "institution": "Sorbonne",
+    "department": "IBPS — Center for Neuroscience Sorbonne University (NeuroSU)",
+    "title": "Team Leader — Brain-C lab : Brain Compensation Dynamics in Neurodegenerative Diseases",
+    "roles": [
+      "Brain-C lab : Brain Compensation Dynamics in Neurodegenerative Diseases"
+    ],
+    "research_areas": [
+      "Brain-C lab",
+      "Brain Compensation Dynamics in Neurodegenerative Diseases"
+    ],
+    "summary": "January 2026: The second ISEV Conference on EVs in Nervous Systems (EViNS), held in October 2025 in Montreal, Québec, with the Neuro and with McGill, was a true success! We clearly are at a turning point in research on this popular topic, and more emphasis on mechanisms of EV function in nervous systems could revolutionize our capacity to ensure brain health. https://lnkd.in/eiSYjS2t March 2025: Job offer: A 1-year (renewable) study engineer position (IE CDD) is available in our lab to study the role and biomarker potential of extracellular vesicles secreted by human Huntington’s disease neurons in collaboration with the lab of Clotilde Thery (Institue Curie, Paris). Candidates should hold a M2 in cell biology, or a related field, obtained no more than 3 years ago. At least a 1-year post-master research experience in cell biology is mandatory. Hands-on experience in studying EVs will be a major plus. Interested candidates should apply immediately . Please send a letter of motivation, a full CV, and the names and emails of two references to Christian.neri@inserm.fr. Do not miss the EVINS 2nd Conference on EVs in nervous systems, a one-of-a-kind conference : We are excited to announce the upcoming 2nd International Conference on Extracellular Vesicles in Nervous Systems, set to take place in Montreal, Québec,29-31 October 2025 ! This exciting event will be co-organized with McGill University and the Neuro (Montreal Neurological Institute, https://www.mcgill.ca/neuro/ ). Following the success of the inaugural conference in Rome in 2023, we are committed to offering another world-class lineup of cutting-edge topics and inspiring speakers, all within a dynamic, compact format that allows for meaningful discussions and interactions (2.5 days). Stay tuned for more details! htt",
+    "profile_url": "https://www.ibps.sorbonne-universite.fr/en/ibps/directory/17443-Christian-Neri%2C+DR+Inserm",
+    "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/neuroscience/brain-c",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  },
+  {
+    "id": "sorbonne-bio-laure-rondi-reig",
+    "name": "Laure Rondi-Reig",
+    "institution": "Sorbonne",
+    "department": "IBPS — Center for Neuroscience Sorbonne University (NeuroSU)",
+    "title": "Team Leader — Cerebellum, navigation and memory (CeZaMe)",
+    "roles": [
+      "Cerebellum, navigation and memory (CeZaMe)"
+    ],
+    "research_areas": [
+      "Cerebellum",
+      "navigation",
+      "memory",
+      "CeZaMe"
+    ],
+    "summary": "This contribution presumably operates, at different levels, including the computation of sensory-motor signals and a functional influence on forebrain areas supporting memory and executive functions (e.g. hippocampus and/or associative cortices). Our research is divided in two complementary axes that we address using a translational approach both in mice obtained by conditional mutagenesis and in humans: 1) Understand the dynamics of the brain navigation network by measuring functional activity of the cerebellum and the forebrain areas during navigation. 2) Develop behavioral markers to evaluate spatial cognition under pathological state (i.e. Alzheimer disease, Autism Spectrum Disorders), both in patients and mice models. The technical strength of our project lies in the combination of multi-scale experimental techniques : in vivo electrophysiology (spikes activity and local field potential), optogenetic control of neuronal activity, brain imaging and multi-parametric analysis of complex navigation behavior, using innovative tests in real-world and virtual reality environments. The CeZaMe team is a member of the France Cerebellum Club .\n\nThe CeZame lab studies the neural bases of memory from a spatial cognition perspective. As we navigate into the world, our brain forms a neural representation of space, travelled distances and followed directions. This neural representation is stable enough to allow efficient navigation in a known environment and flexible enough to be updated when exploring a new place. Yet, we ignore what mechanisms subtend such properties. Our group already demonstrated the influence of the cerebellum in shaping goal-directed navigation and the hippocampal spatial activity. We posit that the cerebellum acts as a gate filtering sensory signals to stab",
+    "profile_url": "https://www.ibps.sorbonne-universite.fr/fr/IBPS/annuaire/17216-Margaret-Ahmad",
+    "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/neuroscience/cezame",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  },
+  {
+    "id": "sorbonne-bio-anne-lise-paradis",
+    "name": "Anne-Lise Paradis",
+    "institution": "Sorbonne",
+    "department": "IBPS — Center for Neuroscience Sorbonne University (NeuroSU)",
+    "title": "Team Leader — Cerebellum, navigation and memory (CeZaMe)",
+    "roles": [
+      "Cerebellum, navigation and memory (CeZaMe)"
+    ],
+    "research_areas": [
+      "Cerebellum",
+      "navigation",
+      "memory",
+      "CeZaMe"
+    ],
+    "summary": "This contribution presumably operates, at different levels, including the computation of sensory-motor signals and a functional influence on forebrain areas supporting memory and executive functions (e.g. hippocampus and/or associative cortices). Our research is divided in two complementary axes that we address using a translational approach both in mice obtained by conditional mutagenesis and in humans: 1) Understand the dynamics of the brain navigation network by measuring functional activity of the cerebellum and the forebrain areas during navigation. 2) Develop behavioral markers to evaluate spatial cognition under pathological state (i.e. Alzheimer disease, Autism Spectrum Disorders), both in patients and mice models. The technical strength of our project lies in the combination of multi-scale experimental techniques : in vivo electrophysiology (spikes activity and local field potential), optogenetic control of neuronal activity, brain imaging and multi-parametric analysis of complex navigation behavior, using innovative tests in real-world and virtual reality environments. The CeZaMe team is a member of the France Cerebellum Club .\n\nThe CeZame lab studies the neural bases of memory from a spatial cognition perspective. As we navigate into the world, our brain forms a neural representation of space, travelled distances and followed directions. This neural representation is stable enough to allow efficient navigation in a known environment and flexible enough to be updated when exploring a new place. Yet, we ignore what mechanisms subtend such properties. Our group already demonstrated the influence of the cerebellum in shaping goal-directed navigation and the hippocampal spatial activity. We posit that the cerebellum acts as a gate filtering sensory signals to stab",
+    "profile_url": "https://www.ibps.sorbonne-universite.fr/fr/IBPS/annuaire/1125-Anne-Lise-Paradis",
+    "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/neuroscience/cezame",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  },
+  {
+    "id": "sorbonne-bio-fiona-francis",
+    "name": "Fiona Francis",
+    "institution": "Sorbonne",
+    "department": "IBPS — Center for Neuroscience Sorbonne University (NeuroSU)",
+    "title": "Team Leader — Cortical development and pathology",
+    "roles": [
+      "Cortical development and pathology"
+    ],
+    "research_areas": [
+      "Cortical development",
+      "pathology"
+    ],
+    "summary": "Cellular causes of heterotopia have been thought to be primarily due to neuronal migration defects. Eml1 is expressed not only in post-mitotic neurons but also in dividing cells, and ectopic progenitors were identified in Eml1 mutant cortices (Fig 1). Extremely important neuronal progenitors during corticogenesis are radial glial (RG) cells, which give rise to other subtypes of progenitors as well as post-mitotic immature neurons, and serve as guides for migrating neurons (Fig 1, 10). Primary abnormalities in RG cells may hence represent an overlooked cause of heterotopia. We identified mutations in human and mouse Eml1/EML1, showing a role of cortical progenitors in the heterotopia phenotype 2. Mitotic and primary cilia abnormalities were characterized (3; 4; Zaidi et al, submitted). Clinical and bioinformatics studies revealed further heterotopia patients, with mutations in RPGRIP1L and DLGAP4, each gene casting a new light on heterotopia (4; Romero et al., 2022). These are novel data involving stem cells and progenitors which underline new mechanisms for this severe malformation. General aim: Our strategy is to discover new regulation/dysregulation mechanisms of cortical cell types during corticogenesis (Romero et al, 2018), using disease genes and key models as starting points. Following scientific advances in the field (Klingler et al, 2021), we exploit both mouse and human in vitro models, characterizing these at molecular, subcellular, cellular, anatomical and/or behavioural levels.\n\nAll type I lissencephaly gene mouse models show hippocampal heterotopia and more widespread interneuron defects as common features (20-24 and unpublished). In Dcx KO mice, CA3 hippocampal pyramidal cells are abnormally positioned (Fig 3) and this is associated with altered dendritic ",
+    "profile_url": "https://www.ibps.sorbonne-universite.fr/en/ibps/directory/17327-Fiona-Francis",
+    "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/neuroscience/cortical-development-and-pathology",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  },
+  {
+    "id": "sorbonne-bio-elim-hong",
+    "name": "Elim Hong",
+    "institution": "Sorbonne",
+    "department": "IBPS — Center for Neuroscience Sorbonne University (NeuroSU)",
+    "title": "Team Leader — Formation and Interaction of Neural Networks (FINN)",
+    "roles": [
+      "Formation and Interaction of Neural Networks (FINN)"
+    ],
+    "research_areas": [
+      "Formation",
+      "Interaction",
+      "Neural Networks"
+    ],
+    "summary": "We are currently investigating two questions in our team: How do neural activity and neurotransmission mediate cellular dynamics (axon terminal elaboration, synaptogenesis) for the proper formation of neural circuits? To address this question, we are using optogenetics and CRISPR-Cas technology to generate mutants that perturb cholinergic signaling to understand how neural activity and neurotransmission contribute to the formation of cellular and functional connections in the Hb-IPN pathway. What are the neural pathways that functionally interact with the Hb-IPN pathway and how is the network affected by environmental factors? In collaboration with the Laboratoire Jean Perrin, we are carrying out whole brain functional imaging using light-sheet microscopy to identify other areas of the brain that are functionally connected to the Hb-IPN pathway and elucidating how disturbing cholinergic signaling during development by nicotine affect this neural network",
+    "profile_url": "https://www.ibps.sorbonne-universite.fr/en/ibps/directory/6163-Elim-Hong",
+    "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/neuroscience/formation-and-interaction-of-neural-networks",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  },
+  {
+    "id": "sorbonne-bio-jean-marie-mangin",
+    "name": "Jean-Marie Mangin",
+    "institution": "Sorbonne",
+    "department": "IBPS — Center for Neuroscience Sorbonne University (NeuroSU)",
+    "title": "Team Leader — Formation and Interaction of Neural Networks (FINN)",
+    "roles": [
+      "Formation and Interaction of Neural Networks (FINN)"
+    ],
+    "research_areas": [
+      "Formation",
+      "Interaction",
+      "Neural Networks"
+    ],
+    "summary": "We are currently investigating two questions in our team: How do neural activity and neurotransmission mediate cellular dynamics (axon terminal elaboration, synaptogenesis) for the proper formation of neural circuits? To address this question, we are using optogenetics and CRISPR-Cas technology to generate mutants that perturb cholinergic signaling to understand how neural activity and neurotransmission contribute to the formation of cellular and functional connections in the Hb-IPN pathway. What are the neural pathways that functionally interact with the Hb-IPN pathway and how is the network affected by environmental factors? In collaboration with the Laboratoire Jean Perrin, we are carrying out whole brain functional imaging using light-sheet microscopy to identify other areas of the brain that are functionally connected to the Hb-IPN pathway and elucidating how disturbing cholinergic signaling during development by nicotine affect this neural network",
+    "profile_url": "https://www.ibps.sorbonne-universite.fr/en/ibps/directory/17401-Jean-Marie-Mangin",
+    "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/neuroscience/formation-and-interaction-of-neural-networks",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  },
+  {
+    "id": "sorbonne-bio-stephanie-daumas",
+    "name": "Stéphanie Daumas",
+    "institution": "Sorbonne",
+    "department": "IBPS — Center for Neuroscience Sorbonne University (NeuroSU)",
+    "title": "Team Leader — Glutamatergic cotransmission in psychiatric diseases - GluCoPsy",
+    "roles": [
+      "Glutamatergic cotransmission in psychiatric diseases - GluCoPsy"
+    ],
+    "research_areas": [
+      "Glutamatergic cotransmission in psychiatric diseases - GluCoPsy"
+    ],
+    "summary": "Our team is attached to the Memory Research Group, which brings together French teams working on memory from the point of view of biological sciences as well as human and social sciences\n\nFavier M*, Garcia EM*, Icick R*, de Almeida C*, Jehl J*, Desplanque M, Zimmermann J, Henrion A, Mansouri-Guilani N, Mounier C, Ribeiro S, Henderson F, Geoffroy A, Mella S, Poirel O, Bernard V, Fabre V, Li Y, Rosenmund C, Jamain S, Vorspan F, Mourot A, Duriez P, Pinhas L, Maldonado R†, Pietrancosta N†, Daumas S†, El Mestikawy S†. 2024 . The human VGLUT3-pT8I mutation elicits uneven striatal DA signaling, food or drug maladaptive consumption in male mice. Nat Commun . 2024 Jul 7;15(1):5691. doi: 10.1038/s41467-024-49371-1. PMID: 38971801 Henderson F, Dumas S, Gangarossa G, Bernard V, Pujol M, Poirel O, Pietrancosta N, El Mestikawy S, Daumas S#, Fabre V#. 2024 . Regulation of stress-induced sleep perturbations by dorsal raphe VGLUT3 neurons in male mice. Cell Rep. 2024 Jul 23;43(7):114411. doi: 10.1016/j.celrep.2024.114411. Epub 2024 Jun 29. PMID: 38944834 # : co corresponding auteurs de Almeida C*, Chabbah N*, Eyraud C, Fasano C, Bernard V, Pietrancosta N, Fabre V, El Mestikawy S, Daumas S. 2023 . Absence of VGLUT3 Expression Leads to Impaired Fear Memory in Mice. eNeuro. 2023 Feb 23;10(2):ENEURO.0304-22.2023. doi: 10.1523/ENEURO.0304-22.2023. Print 2023 Feb. PMID: 36720646 Cristofari P, Desplanque M, Poirel O, Hébert A, Dumas S, Herzog E, Danglot L, Geny D, Gilles JF, Geeverding A, Bolte S, CaneKe A, Trichet M, Fabre V, Daumas S, Pietrancosta N, El Mestikawy S & Bernard V. 2022. Nanoscopic distribution of VAChT and VGLUT3 in striatal cholinergic varicosities suggests colocalization and segregation of the two transporters in synaptic vesicles. Front Mol Neurosci . 2022 Sep 13;15:991732. ",
+    "profile_url": "https://www.ibps.sorbonne-universite.fr/en/ibps/directory/1581-St%C3%A9phanie-Daumas",
+    "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/neuroscience/glucopsy",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  },
+  {
+    "id": "sorbonne-bio-nicolas-pietrancosta",
+    "name": "Nicolas Pietrancosta",
+    "institution": "Sorbonne",
+    "department": "IBPS — Center for Neuroscience Sorbonne University (NeuroSU)",
+    "title": "Team Leader — Glutamatergic cotransmission in psychiatric diseases - GluCoPsy",
+    "roles": [
+      "Glutamatergic cotransmission in psychiatric diseases - GluCoPsy"
+    ],
+    "research_areas": [
+      "Glutamatergic cotransmission in psychiatric diseases - GluCoPsy"
+    ],
+    "summary": "Our team is attached to the Memory Research Group, which brings together French teams working on memory from the point of view of biological sciences as well as human and social sciences\n\nFavier M*, Garcia EM*, Icick R*, de Almeida C*, Jehl J*, Desplanque M, Zimmermann J, Henrion A, Mansouri-Guilani N, Mounier C, Ribeiro S, Henderson F, Geoffroy A, Mella S, Poirel O, Bernard V, Fabre V, Li Y, Rosenmund C, Jamain S, Vorspan F, Mourot A, Duriez P, Pinhas L, Maldonado R†, Pietrancosta N†, Daumas S†, El Mestikawy S†. 2024 . The human VGLUT3-pT8I mutation elicits uneven striatal DA signaling, food or drug maladaptive consumption in male mice. Nat Commun . 2024 Jul 7;15(1):5691. doi: 10.1038/s41467-024-49371-1. PMID: 38971801 Henderson F, Dumas S, Gangarossa G, Bernard V, Pujol M, Poirel O, Pietrancosta N, El Mestikawy S, Daumas S#, Fabre V#. 2024 . Regulation of stress-induced sleep perturbations by dorsal raphe VGLUT3 neurons in male mice. Cell Rep. 2024 Jul 23;43(7):114411. doi: 10.1016/j.celrep.2024.114411. Epub 2024 Jun 29. PMID: 38944834 # : co corresponding auteurs de Almeida C*, Chabbah N*, Eyraud C, Fasano C, Bernard V, Pietrancosta N, Fabre V, El Mestikawy S, Daumas S. 2023 . Absence of VGLUT3 Expression Leads to Impaired Fear Memory in Mice. eNeuro. 2023 Feb 23;10(2):ENEURO.0304-22.2023. doi: 10.1523/ENEURO.0304-22.2023. Print 2023 Feb. PMID: 36720646 Cristofari P, Desplanque M, Poirel O, Hébert A, Dumas S, Herzog E, Danglot L, Geny D, Gilles JF, Geeverding A, Bolte S, CaneKe A, Trichet M, Fabre V, Daumas S, Pietrancosta N, El Mestikawy S & Bernard V. 2022. Nanoscopic distribution of VAChT and VGLUT3 in striatal cholinergic varicosities suggests colocalization and segregation of the two transporters in synaptic vesicles. Front Mol Neurosci . 2022 Sep 13;15:991732. ",
+    "profile_url": "https://www.ibps.sorbonne-universite.fr/en/ibps/directory/11716-Nicolas-Pietrancosta",
+    "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/neuroscience/glucopsy",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  },
+  {
+    "id": "sorbonne-bio-sebastien-parnaudeau",
+    "name": "Sébastien Parnaudeau",
+    "institution": "Sorbonne",
+    "department": "IBPS — Center for Neuroscience Sorbonne University (NeuroSU)",
+    "title": "Team Leader — Gene regulation and adaptive behaviors",
+    "roles": [
+      "Gene regulation and adaptive behaviors"
+    ],
+    "research_areas": [
+      "Gene regulation",
+      "adaptive behaviors"
+    ],
+    "summary": "Animals adapt their behavior to environmental changes. The general objective of the “Gene Regulation and Adaptive Behaviors” team is to elucidate the physiological and molecular mechanisms whereby life experiences that have an emotional impact, produce long-term behavioral modifications and may lead to disease. To sustain behavioral adaptations, the most probable assumption is that environmental stimulations cause modifications of gene expression in the brain, stabilized by epigenetic mechanisms, which reflect changes in nuclear organization. To address this question, we investigate the functions of transcription factors, such as steroid receptors or STATs, induced by hormones released upon environmental challenges or the functions of epigenetic modifiers recruited by these transcription factors.We generate mutations of these factors in selected brain cell populations (specific neuronal populations, neural precursors, microglia, astrocytes, ...) and combine behavioral, physiological and molecular approaches to study the consequences. In this context, we are particularly interested in studying how stress response remodels gene expression to modify behaviors, such as addiction or emotions; and how stress may lead to pathological situations including behavioral disorders or neurological diseases, such as Parkinson’s disease. We also investigate how hormonal control of gene expression shape sexual and social behaviors.\n\nPhysical and emotional stress induces a rapid release of glucocorticoids from the adrenal glands that orchestrates adaptive metabolic, physiological and behavioral responses. Beneficial when functioning normally, stress exposure may however trigger metabolic and behavioral pathologies in individuals with frequent or prolonged demands, or in hypersensitive in",
+    "profile_url": "https://www.ibps.sorbonne-universite.fr/en/ibps/directory/2088-S%C3%A9bastien-Parnaudeau",
+    "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/neuroscience/gene-regulation-and-adaptative-behaviors",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  },
+  {
+    "id": "sorbonne-bio-francois-tronche",
+    "name": "François Tronche",
+    "institution": "Sorbonne",
+    "department": "IBPS — Center for Neuroscience Sorbonne University (NeuroSU)",
+    "title": "Team Leader — Gene regulation and adaptive behaviors",
+    "roles": [
+      "Gene regulation and adaptive behaviors"
+    ],
+    "research_areas": [
+      "Gene regulation",
+      "adaptive behaviors"
+    ],
+    "summary": "Animals adapt their behavior to environmental changes. The general objective of the “Gene Regulation and Adaptive Behaviors” team is to elucidate the physiological and molecular mechanisms whereby life experiences that have an emotional impact, produce long-term behavioral modifications and may lead to disease. To sustain behavioral adaptations, the most probable assumption is that environmental stimulations cause modifications of gene expression in the brain, stabilized by epigenetic mechanisms, which reflect changes in nuclear organization. To address this question, we investigate the functions of transcription factors, such as steroid receptors or STATs, induced by hormones released upon environmental challenges or the functions of epigenetic modifiers recruited by these transcription factors.We generate mutations of these factors in selected brain cell populations (specific neuronal populations, neural precursors, microglia, astrocytes, ...) and combine behavioral, physiological and molecular approaches to study the consequences. In this context, we are particularly interested in studying how stress response remodels gene expression to modify behaviors, such as addiction or emotions; and how stress may lead to pathological situations including behavioral disorders or neurological diseases, such as Parkinson’s disease. We also investigate how hormonal control of gene expression shape sexual and social behaviors.\n\nPhysical and emotional stress induces a rapid release of glucocorticoids from the adrenal glands that orchestrates adaptive metabolic, physiological and behavioral responses. Beneficial when functioning normally, stress exposure may however trigger metabolic and behavioral pathologies in individuals with frequent or prolonged demands, or in hypersensitive in",
+    "profile_url": "https://www.ibps.sorbonne-universite.fr/en/ibps/directory/2032-Fran%C3%A7ois-Tronche",
+    "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/neuroscience/gene-regulation-and-adaptative-behaviors",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  },
+  {
+    "id": "sorbonne-bio-martin-giurfa",
+    "name": "Martin Giurfa",
+    "institution": "Sorbonne",
+    "department": "IBPS — Center for Neuroscience Sorbonne University (NeuroSU)",
+    "title": "Team Leader — Insect Cognitive Neuroethology (ICON)",
+    "roles": [
+      "Insect Cognitive Neuroethology (ICON)"
+    ],
+    "research_areas": [
+      "Insect Cognitive Neuroethology"
+    ],
+    "summary": "Our current breakthrough establishing virtual-reality protocols for tethered honeybees offers a unique opportunity to uncover the minimal circuits that mediate higher-order forms of cognitive processing in the brain of a behaving bee. We have recently shown that bees learn to solve elemental and non-elemental problems in this experimental context, which allows integrating behavioral, neurobiological and computational approaches to unravel the neural mechanisms underlying non- elemental learning in the honeybee.\n\nGabriela de Brito Sanchez We aim at decrypting central-taste neuromodulation by focusing on the facilitatory or inhibitory effects of biogenic amines such as dopamine, octopamine, tyramine and serotonin, and of neuropeptides such as sNPF on appetitive responses and decision making. We are interested by neuropeptides for which receptors have been characterized in the bee genome, and whose essential roles turns them into the equivalent of a honey bee wanting system (dopamine) and NPY-like system (sNPF). We have studied the impact of these molecules on feeding and foraging decisions and further aim at characterizing their role in central taste processing and salience.",
+    "profile_url": "https://www.ibps.sorbonne-universite.fr/en/ibps/directory/16013-Martin-Giurfa",
+    "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/neuroscience/insect-cognitive-neuroethology-eng",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  },
+  {
+    "id": "sorbonne-bio-julien-ferent",
+    "name": "Julien Ferent",
+    "institution": "Sorbonne",
+    "department": "IBPS — Center for Neuroscience Sorbonne University (NeuroSU)",
+    "title": "Team Leader — Morphogens and Neural Development",
+    "roles": [
+      "Morphogens and Neural Development"
+    ],
+    "research_areas": [
+      "Morphogens",
+      "Neural Development"
+    ],
+    "summary": "Our research team was created in 2021 through the Atip-Avenir program and focuses on the molecular mechanisms underlying the multiple roles of morphogens during nervous system development. We use mouse genetics, primary embryonic cell culture, 3D imaging and transcriptomics (single cell RNA-seq) to decipher how cell-cell communication is at the core of brain formation.\n\nDuring embryonic development, the formation of the brain through the generation, differentiation, and precise connection of new neurons is controlled by many molecular factors. Among these factors, extracellular secreted molecules, called morphogens, direct the shape of the nervous system. During neuronal differentiation, cells change from a proliferative state to acquire cell identity, perform migration, and eventually grow axons and connect to other cell types. Thus, cells must change their responses to their environment to achieve the correct behavior. Our research addresses fundamental questions about how a single (or multiple) morphogenic signal(s) acts at different stages of neuronal development to induce these different responses.",
+    "profile_url": "https://www.ibps.sorbonne-universite.fr/en/ibps/directory/17512-Julien-Ferent",
+    "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/neuroscience/morphogens-and-neural-development",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  },
+  {
+    "id": "sorbonne-bio-loic-broix",
+    "name": "Loïc Broix",
+    "institution": "Sorbonne",
+    "department": "IBPS — Center for Neuroscience Sorbonne University (NeuroSU)",
+    "title": "Team Leader — mRNA transport in neurons",
+    "roles": [
+      "mRNA transport in neurons"
+    ],
+    "research_areas": [
+      "mRNA transport in neurons"
+    ],
+    "summary": "We explore the cellular and molecular mechanisms involved in the transport of mRNAs in neurons. This transport, along with the local translation of mRNAs in the axon, far away from the cell body, ensures precise spatiotemporal control of the axonal proteome, essential for axon growth and synapse formation. Disruptions of this process are frequently associated with neurodevelopmental and neurodegenerative diseases.\n\nOur goal is to better understand the mechanisms involved in the formation and long-distance transport in the axon of ribonucleoprotein (RNP) granules, which contain mRNAs and RNA-binding proteins. Using a multidisciplinary approach that combines molecular and cellular biology, in utero electroporation, and imaging, we aim to address the following questions:",
+    "profile_url": "https://www.ibps.sorbonne-universite.fr/en/ibps/directory/17736-Lo%C3%AFc-Broix",
+    "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/neuroscience/mRNA-transport-in-neurons",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  },
+  {
+    "id": "sorbonne-bio-catalina-betancur",
+    "name": "Catalina Betancur",
+    "institution": "Sorbonne",
+    "department": "IBPS — Center for Neuroscience Sorbonne University (NeuroSU)",
+    "title": "Team Leader — Neurobiology of Psychiatric Disorders",
+    "roles": [
+      "Neurobiology of Psychiatric Disorders"
+    ],
+    "research_areas": [
+      "Neurobiology",
+      "Psychiatric Disorders"
+    ],
+    "summary": "PI: Catalina Betancur Autism spectrum disorder (ASD) is a behaviorally defined neurodevelopmental disability characterized by impairments in social communication and by restricted and stereotyped behaviors and interests. The genetic architecture of ASD is highly heterogeneous and involves hundreds of loci, each accounting for only a small fraction of cases. To date, a genetic etiology is identified in ~30% of the patients, including chromosomal rearrangements, sequence variants and copy number variants (CNVs). All these abnormalities are rare or even unique; the majority are de novo , consistent with purifying selection against deleterious genetic variants of major effect. Pathogenic variants can also be inherited, and are usually associated with incomplete penetrance or variable expressivity. The aim of our research is the identification of genes involved in ASD and understanding the pathophysiological mechanisms involved. Our group was among the first to study the contribution of rare sequence variants to the etiology of ASD. Our research and that of our collaborators identified several genes involved for the first time in ASD, such as neurexin NRXN1 (cell adhesion molecule involved in synaptogenesis, presynaptic partner of neuroligins, also implicated in ASD; Szatmari et al ., 2007), SHANK3 (synaptic scaffolding protein, implicated in the 22q13 deletion syndrome/Phelan-McDermid syndrome; Durand et al ., 2007), and SHANK2 (Pinto et al ., 2010). Mutations in these genes highlight the crucial role of synapse formation and function in the development of autism and other neuropsychiatric conditions. We are involved in international consortia performing large-scale analyses of rare structural and sequence variants in ASD, notably the Autism Genome Project and more recently",
+    "profile_url": "https://www.ibps.sorbonne-universite.fr/en/ibps/directory/1191-Catalina-Betancur",
+    "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/neuroscience/neurobiology-psychiatric-disorders",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  },
+  {
+    "id": "sorbonne-bio-vincent-vialou",
+    "name": "Vincent Vialou",
+    "institution": "Sorbonne",
+    "department": "IBPS — Center for Neuroscience Sorbonne University (NeuroSU)",
+    "title": "Team Leader — Neurobiology of Psychiatric Disorders",
+    "roles": [
+      "Neurobiology of Psychiatric Disorders"
+    ],
+    "research_areas": [
+      "Neurobiology",
+      "Psychiatric Disorders"
+    ],
+    "summary": "PI: Catalina Betancur Autism spectrum disorder (ASD) is a behaviorally defined neurodevelopmental disability characterized by impairments in social communication and by restricted and stereotyped behaviors and interests. The genetic architecture of ASD is highly heterogeneous and involves hundreds of loci, each accounting for only a small fraction of cases. To date, a genetic etiology is identified in ~30% of the patients, including chromosomal rearrangements, sequence variants and copy number variants (CNVs). All these abnormalities are rare or even unique; the majority are de novo , consistent with purifying selection against deleterious genetic variants of major effect. Pathogenic variants can also be inherited, and are usually associated with incomplete penetrance or variable expressivity. The aim of our research is the identification of genes involved in ASD and understanding the pathophysiological mechanisms involved. Our group was among the first to study the contribution of rare sequence variants to the etiology of ASD. Our research and that of our collaborators identified several genes involved for the first time in ASD, such as neurexin NRXN1 (cell adhesion molecule involved in synaptogenesis, presynaptic partner of neuroligins, also implicated in ASD; Szatmari et al ., 2007), SHANK3 (synaptic scaffolding protein, implicated in the 22q13 deletion syndrome/Phelan-McDermid syndrome; Durand et al ., 2007), and SHANK2 (Pinto et al ., 2010). Mutations in these genes highlight the crucial role of synapse formation and function in the development of autism and other neuropsychiatric conditions. We are involved in international consortia performing large-scale analyses of rare structural and sequence variants in ASD, notably the Autism Genome Project and more recently",
+    "profile_url": "https://www.ibps.sorbonne-universite.fr/en/ibps/directory/1626-Vincent-Vialou",
+    "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/neuroscience/neurobiology-psychiatric-disorders",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  },
+  {
+    "id": "sorbonne-bio-peter-vanhoutte",
+    "name": "Peter Vanhoutte",
+    "institution": "Sorbonne",
+    "department": "IBPS — Center for Neuroscience Sorbonne University (NeuroSU)",
+    "title": "Team Leader — Signaling & Adaptive Behavior",
+    "roles": [
+      "Signaling & Adaptive Behavior"
+    ],
+    "research_areas": [
+      "Signaling",
+      "Adaptive Behavior"
+    ],
+    "summary": "Drug addiction is characterized by compulsive patterns of drug-seeking and drug-taking behavior in spite of detrimental consequences and a high rate of relapse after abstinence. A hallmark of addictive drugs is their ability to increase dopamine concentration in discrete brain regions, which persistently shapes excitatory glutamate transmission within the reward circuit, thereby hijacking natural reward processing. This imbalance between dopamine and glutamate transmissions is key for drug-evoked activation of signaling pathways and downstream epigenetic and genetic responses in specific neuronal populations, which are mandatory for the persistence of addictive behavior. Drugs of abuse increase dopamine in the striatum, where it triggers molecular alterations within striatal projection neurons (SPN), which fall into two subpopulations depending on the dopamine receptor subtype they express (D1R or D2R). SPN receive converging glutamate inputs from the cortex, thalamus, amygdala and hippocampus that encode contextual and emotional information together DA signals, which modulate the efficacy of glutamate synapses. Over the past years, we have been studying the molecular and cellular basis by which cocaine alters the integration of dopamine/glutamate signals to persistently usurp the neural circuitry of reward. By contrast, HD is a genetic disease characterized by abnormal expansion of poly CAG repeats in the gene encoding Huntingtin characterized by a progressive loss of plasticity and neurodegenerescence of SPN. Multiple attempts have been made over the past few years in order to unravel the cellular and molecular mechanisms that underlie this neuronal vulnerability in HD. Among these, altered gene expression, mitochondria dysfunctions, cellular metabolism and dopamine/g",
+    "profile_url": "https://www.ibps.sorbonne-universite.fr/en/ibps/directory/1512-Peter-Vanhoutte",
+    "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/neuroscience/Signaling-Adaptive-Behavior",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  },
+  {
+    "id": "sorbonne-bio-corentin-le-magueresse",
+    "name": "Corentin Le Magueresse",
+    "institution": "Sorbonne",
+    "department": "IBPS — Center for Neuroscience Sorbonne University (NeuroSU)",
+    "title": "Team Leader — Neuroimmunity, development and plasticity",
+    "roles": [
+      "Neuroimmunity, development and plasticity"
+    ],
+    "research_areas": [
+      "Neuroimmunity",
+      "development",
+      "plasticity"
+    ],
+    "summary": "We study how mechanisms of immunity, in particular microglial cells, the brain resident immune cells, shape the construction of brain circuits. In particular, we seek to understand how dysregulation of neuro-immune interactions favors the emergence of neurodevelopmental and psychiatric disorders (eg Schizophrenia and Autism Spectrum Disorders) or impairs brain plasticity.\n\n(ii) the role of the immune complement system in synaptic refinement, a process by which connections between neurons are optimized in the juvenile brain through microglia-neuron interactions.",
+    "profile_url": "https://www.ibps.sorbonne-universite.fr/en/ibps/directory/17482-Corentin-Le+Magueresse",
+    "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/neuroscience/neuroimmunity-development-and-plasticity",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  },
+  {
+    "id": "sorbonne-bio-anne-roumier",
+    "name": "Anne Roumier",
+    "institution": "Sorbonne",
+    "department": "IBPS — Center for Neuroscience Sorbonne University (NeuroSU)",
+    "title": "Team Leader — Neuroimmunity, development and plasticity",
+    "roles": [
+      "Neuroimmunity, development and plasticity"
+    ],
+    "research_areas": [
+      "Neuroimmunity",
+      "development",
+      "plasticity"
+    ],
+    "summary": "We study how mechanisms of immunity, in particular microglial cells, the brain resident immune cells, shape the construction of brain circuits. In particular, we seek to understand how dysregulation of neuro-immune interactions favors the emergence of neurodevelopmental and psychiatric disorders (eg Schizophrenia and Autism Spectrum Disorders) or impairs brain plasticity.\n\n(ii) the role of the immune complement system in synaptic refinement, a process by which connections between neurons are optimized in the juvenile brain through microglia-neuron interactions.",
+    "profile_url": "https://www.ibps.sorbonne-universite.fr/en/ibps/directory/17479-Anne-Roumier",
+    "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/neuroscience/neuroimmunity-development-and-plasticity",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  },
+  {
+    "id": "sorbonne-bio-gabrielle-girardeau",
+    "name": "Gabrielle Girardeau",
+    "institution": "Sorbonne",
+    "department": "IBPS — Center for Neuroscience Sorbonne University (NeuroSU)",
+    "title": "Team Leader — Sleep and Emotional Memory",
+    "roles": [
+      "Sleep and Emotional Memory"
+    ],
+    "research_areas": [
+      "Sleep",
+      "Emotional Memory"
+    ],
+    "summary": "",
+    "profile_url": "https://www.ibps.sorbonne-universite.fr/en/ibps/directory/17449-Gabrielle-Girardeau",
+    "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/neuroscience/sleep-and-emotional-memory",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  },
+  {
+    "id": "sorbonne-bio-rebecca-piskorowski",
+    "name": "Rebecca Piskorowski",
+    "institution": "Sorbonne",
+    "department": "IBPS — Center for Neuroscience Sorbonne University (NeuroSU)",
+    "title": "Team Leader — Synaptic and network plasticity",
+    "roles": [
+      "Synaptic and network plasticity"
+    ],
+    "research_areas": [
+      "Synaptic",
+      "network plasticity"
+    ],
+    "summary": "The hippocampus is a brain region that iscritical for memory and learning. Our research is focused on the mechanisms underlying social and appetitive memory. Our research focuses on the long-ignored hippocampal area CA2. We use a combination of techniques to investigate how experience alter the physiology and plasticity and determine the consequences of these changes on memoryfunction under normal conditions and during disease.\n\nWhy study hippocampal area CA2? This relatively small yet under-studied region in the hippocampus receives powerful excitatory sensory information from the cortex and dentate gyrus. Unlike areas CA1 and CA3, CA2 receives input from hypothalamic regions that are very active during emotional and social context, resulting in the release of neuromodulators such as vasopressin and oxytocin that are known to effect learning and social interaction. Furthermore, the pyramidal neurons and interneurons of area CA2 have unique circuitry, physiology and molecular make-up that sets this region apart from other hippocampal areas.",
+    "profile_url": "https://www.ibps.sorbonne-universite.fr/en/ibps/directory/19158-Rebecca-Piskorowski",
+    "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/neuroscience/synaptic-and-network-plasticity",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  },
+  {
+    "id": "sorbonne-bio-ivan-cohen",
+    "name": "Ivan Cohen",
+    "institution": "Sorbonne",
+    "department": "IBPS — Center for Neuroscience Sorbonne University (NeuroSU)",
+    "title": "Team Leader — Synaptic and neuroenergetic networks",
+    "roles": [
+      "Synaptic and neuroenergetic networks"
+    ],
+    "research_areas": [
+      "Synaptic",
+      "neuroenergetic networks"
+    ],
+    "summary": "",
+    "profile_url": "https://www.ibps.sorbonne-universite.fr/en/ibps/directory/17707-Ivan-Cohen",
+    "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/neuroscience/synaptic-and-neuroenergetic-networks",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  },
+  {
+    "id": "sorbonne-bio-ludovic-tricoire",
+    "name": "Ludovic Tricoire",
+    "institution": "Sorbonne",
+    "department": "IBPS — Center for Neuroscience Sorbonne University (NeuroSU)",
+    "title": "Team Leader — Synaptic and neuroenergetic networks",
+    "roles": [
+      "Synaptic and neuroenergetic networks"
+    ],
+    "research_areas": [
+      "Synaptic",
+      "neuroenergetic networks"
+    ],
+    "summary": "",
+    "profile_url": "https://www.ibps.sorbonne-universite.fr/en/ibps/directory/17704-Ludovic-Tricoire",
+    "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/neuroscience/synaptic-and-neuroenergetic-networks",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  },
+  {
+    "id": "sorbonne-bio-damien-bregeon",
+    "name": "Damien Brégeon",
+    "institution": "Sorbonne",
+    "department": "IBPS — Development, Adaptations and Aging (Dev2A)",
+    "title": "Team Leader — Biology of RNA modifications",
+    "roles": [
+      "Biology of RNA modifications"
+    ],
+    "research_areas": [
+      "Biology",
+      "RNA modifications"
+    ],
+    "summary": "Cellular RNAs harbor chemical modifica7ons essen7al for regula7ng gene expression. Dysfunctions in this epitranscriptome are linked to age-related diseases, including cancer, neurodegeneration, cardiovascular and autoimmune disorders. Our multidisciplinary research combines genetic, biochemical, structural and chemical approaches to explore RNA modifications roles in cellular homeostasis and their relevance to human pathologies, leveraging several eukaryotic model cells.\n\n• Dihydrouridine (D), a key RNA modification, is synthesized by Dus flavoenzymes that use NADPH as an electron source. We investigate the link between central metabolism, D biosynthesis, and translational efficiency to understand why this base is overexpressed in cancer cells with high NADPH demand.",
+    "profile_url": "https://www.ibps.sorbonne-universite.fr/en/ibps/directory/17318-Damien-Br%C3%A9geon",
+    "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/development-adaptations-and-aging/biology-of-RNA-modifications",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  },
+  {
+    "id": "sorbonne-bio-djemel-hamdane",
+    "name": "Djemel Hamdane",
+    "institution": "Sorbonne",
+    "department": "IBPS — Development, Adaptations and Aging (Dev2A)",
+    "title": "Team Leader — Biology of RNA modifications",
+    "roles": [
+      "Biology of RNA modifications"
+    ],
+    "research_areas": [
+      "Biology",
+      "RNA modifications"
+    ],
+    "summary": "Cellular RNAs harbor chemical modifica7ons essen7al for regula7ng gene expression. Dysfunctions in this epitranscriptome are linked to age-related diseases, including cancer, neurodegeneration, cardiovascular and autoimmune disorders. Our multidisciplinary research combines genetic, biochemical, structural and chemical approaches to explore RNA modifications roles in cellular homeostasis and their relevance to human pathologies, leveraging several eukaryotic model cells.\n\n• Dihydrouridine (D), a key RNA modification, is synthesized by Dus flavoenzymes that use NADPH as an electron source. We investigate the link between central metabolism, D biosynthesis, and translational efficiency to understand why this base is overexpressed in cancer cells with high NADPH demand.",
+    "profile_url": "https://www.ibps.sorbonne-universite.fr/en/ibps/directory/17321-Djemel-Hamdane",
+    "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/development-adaptations-and-aging/biology-of-RNA-modifications",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  },
+  {
+    "id": "sorbonne-bio-francois-robin",
+    "name": "François Robin",
+    "institution": "Sorbonne",
+    "department": "IBPS — Development, Adaptations and Aging (Dev2A)",
+    "title": "Team Leader — Cell Dynamics in Development and Morphogenesis",
+    "roles": [
+      "Cell Dynamics in Development and Morphogenesis"
+    ],
+    "research_areas": [
+      "Cell Dynamics in Development",
+      "Morphogenesis"
+    ],
+    "summary": "Spatiotemporal patterning of actomyosin contractility plays a key role in cell and tissue morphogenesis during early development. In embryonic cells, actomyosin arrays are highly dynamic structures that remodel on a time scale of ten seconds, through a combination of turnover – local filament assembly/disassembly and motor recruitment/inactivation – and motion – rapid spatial redistribution of filaments, motors and other network elements driven by the network's contraction, and caused by myosin activity or actin polymerization. Because of these dynamic and active properties, contractility is complex and intrinsically self-organizing. We used the C. elegans early embryo to understand how cells pattern force generation through local modulation of self-organized contractility, focusing on pulsed contractility in the C. elegans embryo. Pulsed contraction represents a widespread mode of actomyosin contractility in which transient local accumulations of F-actin and Myosin II accompany local contractions of the cell surface. Such pulsed contractions have been described in a wide range of cells and tissues, including the C. elegans zygote and later embryonic stages in multiple settings in drosophila, in Xenopus, or in cell cultured. We combined two-color fluorescence imaging, live single-molecule imaging, particle tracking, image analysis, and numerical modeling to tease apart the mechanisms of pulse initiation and termination. Strikingly, our results demonstrated that the mechanical component (advection) played a little role in pulse initiation or termination, and that the process was mostly governed by actin and myosin turnover. In our system, autocatalytic RhoA activation/recruitment is responsible for pulse initiation, while the delayed recruitment of a RhoA inactivator (RG",
+    "profile_url": "https://www.ibps.sorbonne-universite.fr/en/ibps/directory/7529-Fran%C3%A7ois-Robin",
+    "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/development-adaptations-and-aging/en-cadmo",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  },
+  {
+    "id": "sorbonne-bio-mathieu-hautefeuille",
+    "name": "Mathieu Hautefeuille",
+    "institution": "Sorbonne",
+    "department": "IBPS — Development, Adaptations and Aging (Dev2A)",
+    "title": "Team Leader — Dynamic and multiscale processes of auto-organisation in tissue morphogenesis",
+    "roles": [
+      "Dynamic and multiscale processes of auto-organisation in tissue morphogenesis"
+    ],
+    "research_areas": [
+      "Dynamic",
+      "multiscale processes",
+      "auto-organisation in tissue morphogenesis"
+    ],
+    "summary": "National collaborations: - Marc-Antoine Fardin, Institut Jacques Monod, CNRS, Team Cell Adhesion and Mechanics (Ladoux-Mège team), Institut Jacques Monod, CNRS, Paris, France - Karine Clément and NutriOMICS Team (Chloé Amouyal and Simon Lecoutre and collaborators), Sorbonne Université and INSERM, Hôpital La Pitié Salpêtrière, Paris, France (3 funded projects) - Isabelle Cremer and Catherine Monnot, Centre de Recherche des Cordeliers, Sorbonne Université, Université de Paris, INSERM, Paris, France (3 funded projects) - Stéphanie Graff-Dubois, Sorbonne Université, Hôpital La Pitié Salpêtrière, Paris, France (1 funded project) - Pierre-Emmanuel Rautou, Centre de Recherche sur l’Inflammation, INSERM, Université de Paris, UMR1149, Clichy, France. International collaborations: - LaNSBioDyT, Facultad de Ciencias, UNAM, Mexico (teams: Tatiana Fiordelisio-Coll; Marina Macias-Silva; Genaro Vázquez-Victorio)",
+    "profile_url": "https://www.ibps.sorbonne-universite.fr/en/ibps/directory/14269-Mathieu-Hautefeuille",
+    "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/development-adaptations-and-aging/dynamic-multiscale-processes-autoorganisation-tissue-morphogenesis",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  },
+  {
+    "id": "sorbonne-bio-wenjin-xiao",
+    "name": "Wenjin Xiao",
+    "institution": "Sorbonne",
+    "department": "IBPS — Development, Adaptations and Aging (Dev2A)",
+    "title": "Team Leader — Dynamic and multiscale processes of auto-organisation in tissue morphogenesis",
+    "roles": [
+      "Dynamic and multiscale processes of auto-organisation in tissue morphogenesis"
+    ],
+    "research_areas": [
+      "Dynamic",
+      "multiscale processes",
+      "auto-organisation in tissue morphogenesis"
+    ],
+    "summary": "National collaborations: - Marc-Antoine Fardin, Institut Jacques Monod, CNRS, Team Cell Adhesion and Mechanics (Ladoux-Mège team), Institut Jacques Monod, CNRS, Paris, France - Karine Clément and NutriOMICS Team (Chloé Amouyal and Simon Lecoutre and collaborators), Sorbonne Université and INSERM, Hôpital La Pitié Salpêtrière, Paris, France (3 funded projects) - Isabelle Cremer and Catherine Monnot, Centre de Recherche des Cordeliers, Sorbonne Université, Université de Paris, INSERM, Paris, France (3 funded projects) - Stéphanie Graff-Dubois, Sorbonne Université, Hôpital La Pitié Salpêtrière, Paris, France (1 funded project) - Pierre-Emmanuel Rautou, Centre de Recherche sur l’Inflammation, INSERM, Université de Paris, UMR1149, Clichy, France. International collaborations: - LaNSBioDyT, Facultad de Ciencias, UNAM, Mexico (teams: Tatiana Fiordelisio-Coll; Marina Macias-Silva; Genaro Vázquez-Victorio)",
+    "profile_url": "https://www.ibps.sorbonne-universite.fr/en/ibps/directory/15474-Wenjin-Xiao",
+    "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/development-adaptations-and-aging/dynamic-multiscale-processes-autoorganisation-tissue-morphogenesis",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  },
+  {
+    "id": "sorbonne-bio-agnes-audibert",
+    "name": "Agnès Audibert",
+    "institution": "Sorbonne",
+    "department": "IBPS — Development, Adaptations and Aging (Dev2A)",
+    "title": "Team Leader — Heterochromatin, cell fate and Exposome",
+    "roles": [
+      "Heterochromatin, cell fate and Exposome"
+    ],
+    "research_areas": [
+      "Heterochromatin",
+      "cell fate",
+      "Exposome"
+    ],
+    "summary": "We now know that, although condensed, constitutive heterochromatin is plastic, dynamic and modulated by the environment (temperature, light, nutrition, pollutants, drugs). Recent studies indicate that, in addition to its role in genome integrity, it is also involved in the establishment of cellular identity. These elements make it a fundamental player in development and response to the environment. Our team's project therefore has two main focuses: (1) the spatio-temporal organization of heterochromatin and its impact during development and (2) its involvement in the response to the exposome, the environmental factors to which an organism is exposed during its life.\n\nConstitutive heterochromatin was first described by Heitz in 1928 as a region of chromosomes that remains condensed throughout the cell cycle. It was subsequently shown to correspond to the centromeric, pericentromeric and telomeric regions of chromosomes. These regions are rich in satellite DNA and transposable elements, but poor in genes. Satellites are tandemly repeated DNA sequences that can adopt non-canonical 3D structures such as hairpins, triplexes, guanine quadruplexes or i motifs. Their sizes, sequences and genomic distributions are species-specific. In addition, some satellites are transcribed and the RNAs produced play a role in various processes such as the formation and maintenance of heterochromatin or dose compensation. Understanding the diversity of their roles is still a challenge, especially as satellite alterations have been observed in pathological contexts such as cancer. Other players are involved in promoting and maintaining the structure of heterochromatin via the deposition of epigenetic marks. These include enzymes such as histone deacetylases (HDACs) and histone methyltransferase",
+    "profile_url": "https://www.ibps.sorbonne-universite.fr/en/ibps/directory/17231-Agn%C3%A8s-Audibert",
+    "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/development-adaptations-and-aging/heterochromatin-cell-fate-and-Exposome",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  },
+  {
+    "id": "sorbonne-bio-jean-michel-gibert",
+    "name": "Jean-Michel Gibert",
+    "institution": "Sorbonne",
+    "department": "IBPS — Development, Adaptations and Aging (Dev2A)",
+    "title": "Team Leader — Heterochromatin, cell fate and Exposome",
+    "roles": [
+      "Heterochromatin, cell fate and Exposome"
+    ],
+    "research_areas": [
+      "Heterochromatin",
+      "cell fate",
+      "Exposome"
+    ],
+    "summary": "We now know that, although condensed, constitutive heterochromatin is plastic, dynamic and modulated by the environment (temperature, light, nutrition, pollutants, drugs). Recent studies indicate that, in addition to its role in genome integrity, it is also involved in the establishment of cellular identity. These elements make it a fundamental player in development and response to the environment. Our team's project therefore has two main focuses: (1) the spatio-temporal organization of heterochromatin and its impact during development and (2) its involvement in the response to the exposome, the environmental factors to which an organism is exposed during its life.\n\nConstitutive heterochromatin was first described by Heitz in 1928 as a region of chromosomes that remains condensed throughout the cell cycle. It was subsequently shown to correspond to the centromeric, pericentromeric and telomeric regions of chromosomes. These regions are rich in satellite DNA and transposable elements, but poor in genes. Satellites are tandemly repeated DNA sequences that can adopt non-canonical 3D structures such as hairpins, triplexes, guanine quadruplexes or i motifs. Their sizes, sequences and genomic distributions are species-specific. In addition, some satellites are transcribed and the RNAs produced play a role in various processes such as the formation and maintenance of heterochromatin or dose compensation. Understanding the diversity of their roles is still a challenge, especially as satellite alterations have been observed in pathological contexts such as cancer. Other players are involved in promoting and maintaining the structure of heterochromatin via the deposition of epigenetic marks. These include enzymes such as histone deacetylases (HDACs) and histone methyltransferase",
+    "profile_url": "https://www.ibps.sorbonne-universite.fr/en/ibps/directory/519-Jean-Michel-Gibert",
+    "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/development-adaptations-and-aging/heterochromatin-cell-fate-and-Exposome",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  },
+  {
+    "id": "sorbonne-bio-chahrazade-el-amri",
+    "name": "Chahrazade El Amri",
+    "institution": "Sorbonne",
+    "department": "IBPS — Development, Adaptations and Aging (Dev2A)",
+    "title": "Team Leader — Integrative cellular ageing and inflammation",
+    "roles": [
+      "Integrative cellular ageing and inflammation"
+    ],
+    "research_areas": [
+      "Integrative cellular ageing",
+      "inflammation"
+    ],
+    "summary": "Our projects are based on different ageing or age-associated diseases models (mice: geriatric vs young, Alzheimer disease, MS, Atherosclerosis, Cancer...) using cells from primary cultures or from human donors. Developmentof anti-ageing compounds is performed using rational design in collaboration with medicinal chemistry teams or in vitro phenotypic screenings using librairies of compounds.\n\nUsing the skin model, we have recently shown the contribution of the p27 pathway to the establishment of keratinocyte senescence in response to glyoxal treatment. Furthermore, characterization of the senescent keratinocyte secretome has led to the identification of specific cytokines expressed at different steps of the senescence process, The ICAI team is involved in the INSERM transversal program AGEMED on ageing aimed at deciphering the time-dependent mechanisms or clocks driving cellular senescence using several in vitro models of cellular senescence and inducers.The major aim of this on-going ambitious and large-scale collaborative project is to identify new biomarkers and pathways of SCs, Using a bank of human plasma samples, we recently characterized thioredoxin-80 (Trx-80) as a potential ageing biomarker, a truncated version of the well-known antioxidant and anti-inflammatory protein thioredoxin-1 (Trx-1). Trx-80 was shown to activate NLRP3 inflammasome and promote the pro-inflammatory phenotype of Macrophage ( M1). Loss of Trx-1 over Trx-80 with age appears as molecular switch from an anti-inflammatory to a proinflammatory phenotype and may largely contribute to oxidative stress, and inflammation that is associated with ageing, ICAI team is involved in a Leducq Foundation consortium, the long-term objective of which is to boost the cardiac regenerative potential through ide",
+    "profile_url": "https://www.ibps.sorbonne-universite.fr/en/ibps/directory/17050-Chahrazade-El+Amri",
+    "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/development-adaptations-and-aging/icai",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  },
+  {
+    "id": "sorbonne-bio-yasmine-cantaut-belarif",
+    "name": "Yasmine Cantaut-Belarif",
+    "institution": "Sorbonne",
+    "department": "IBPS — Development, Adaptations and Aging (Dev2A)",
+    "title": "Team Leader — Long-range signal integration during development",
+    "roles": [
+      "Long-range signal integration during development"
+    ],
+    "research_areas": [
+      "Long-range signal integration during development"
+    ],
+    "summary": "",
+    "profile_url": "https://www.ibps.sorbonne-universite.fr/en/ibps/directory/18621-Yasmine-Cantaut-Belarif",
+    "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/development-adaptations-and-aging/long-range-signal-integration-during-development",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  },
+  {
+    "id": "sorbonne-bio-marie-breau",
+    "name": "Marie Breau",
+    "institution": "Sorbonne",
+    "department": "IBPS — Development, Adaptations and Aging (Dev2A)",
+    "title": "Team Leader — Mechanics of neuronal development",
+    "roles": [
+      "Mechanics of neuronal development"
+    ],
+    "research_areas": [
+      "Mechanics",
+      "neuronal development"
+    ],
+    "summary": "Our lab investigates how neural tissues acquire their shape and function during development (morphogenesis), and how neuronal circuits assemble in the embryo (neuronal circuit formation). Neuronal development involves movements of neurons or their progenitors and the growth of cytoplasmic protrusions such as axons and dendrites, which are considered so far to be primarily guided by chemical cues. Our goal is to unravel the contribution of mechanical forces in these processes, which remains largely unexplored in vivo .\n\nTo address this question, we take advantage of the zebrafish olfactory circuit as a model system. Developing in the olfactory placode (the future olfactory epithelium) , this circuit is located just below the surface of the embryo, making it ideal for imaging and mechanical manipulation. Our approach combines quantitative live imaging, genetic and molecular techniques, and—through collaborations with physicists—tools to map and perturb mechanical forces in vivo .",
+    "profile_url": "https://www.ibps.sorbonne-universite.fr/en/ibps/directory/9832-Marie-Breau",
+    "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/development-adaptations-and-aging/mechanics-neuronal-development",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  },
+  {
+    "id": "sorbonne-bio-charles-durand",
+    "name": "Charles Durand",
+    "institution": "Sorbonne",
+    "department": "IBPS — Development, Adaptations and Aging (Dev2A)",
+    "title": "Team Leader — Origins and regulations of hematopoietic stem cells",
+    "roles": [
+      "Origins and regulations of hematopoietic stem cells"
+    ],
+    "research_areas": [
+      "Origins",
+      "regulations",
+      "hematopoietic stem cells"
+    ],
+    "summary": "The production of blood cells is based on multipotent, self-renewing stem cells designated as hematopoietic stem cells (HSCs). The first HSC appear autonomously and in small numbers at the level of the embryonic aorta. They are generated from specialized endothelial cells named hemogenic. HSCs then amplifie in the placenta and fetal liver before reaching in the bone marrow where they will remain lifelong. During these steps, they are in close contact with different cellular microenvironments that play a decisive role in their function.\n\nThe mechanism of HSC generation from hemogenic endothelium, the characterization and genetic identity card of HSC populations present simultaneously or sequentially in the embryo and of their microenvironments are the main issues adressed by our team through avian, murine and human models using embryological approaches, functional tests and systems biology methods.",
+    "profile_url": "https://www.ibps.sorbonne-universite.fr/en/ibps/directory/483-Charles-Durand",
+    "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/development-adaptations-and-aging/migration-and-differentiation-of-hematopoietic-stem-cells",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  },
+  {
+    "id": "sorbonne-bio-thierry-jaffredo",
+    "name": "Thierry Jaffredo",
+    "institution": "Sorbonne",
+    "department": "IBPS — Development, Adaptations and Aging (Dev2A)",
+    "title": "Team Leader — Origins and regulations of hematopoietic stem cells",
+    "roles": [
+      "Origins and regulations of hematopoietic stem cells"
+    ],
+    "research_areas": [
+      "Origins",
+      "regulations",
+      "hematopoietic stem cells"
+    ],
+    "summary": "The production of blood cells is based on multipotent, self-renewing stem cells designated as hematopoietic stem cells (HSCs). The first HSC appear autonomously and in small numbers at the level of the embryonic aorta. They are generated from specialized endothelial cells named hemogenic. HSCs then amplifie in the placenta and fetal liver before reaching in the bone marrow where they will remain lifelong. During these steps, they are in close contact with different cellular microenvironments that play a decisive role in their function.\n\nThe mechanism of HSC generation from hemogenic endothelium, the characterization and genetic identity card of HSC populations present simultaneously or sequentially in the embryo and of their microenvironments are the main issues adressed by our team through avian, murine and human models using embryological approaches, functional tests and systems biology methods.",
+    "profile_url": "https://www.ibps.sorbonne-universite.fr/en/ibps/directory/546-Thierry-Jaffredo",
+    "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/development-adaptations-and-aging/migration-and-differentiation-of-hematopoietic-stem-cells",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  },
+  {
+    "id": "sorbonne-bio-sylvie-schneider-maunoury",
+    "name": "Sylvie Schneider-Maunoury",
+    "institution": "Sorbonne",
+    "department": "IBPS — Development, Adaptations and Aging (Dev2A)",
+    "title": "Team Leader — Morphogenesis of the vertebrate brain",
+    "roles": [
+      "Morphogenesis of the vertebrate brain"
+    ],
+    "research_areas": [
+      "Morphogenesis",
+      "the vertebrate brain"
+    ],
+    "summary": "Our group is interested in the molecular and cellular mechanisms underlying morphogenesis of the vertebrate brain, and in the perturbations of these processes in human diseases affecting brain development. We are more particularly interested in studying cell polarity processes and the dynamic localisation of intracellular cues and the function of organelles such as cilia. The main project of the group aims at dissecting the functions of the primary cilium in brain morphogenesis using the mouse and zebrafish as model systems. Primary cilia are microtubular organelles with sensory functions, whose defects lead to human diseases called ciliopathies. We mainly focus on the Ftm/Rpgrip1l gene, which codes for a ciliary protein and is involved in severe ciliopathies with associated brain abnormalities. We investigate the function of this gene in brain morphogenesis, cell behaviour and signalling pathways.\n\nWe studied the function of Rpgrip1l in mice and zebrafish. We have shown that this protein plays a role in the regionalization of the telencephalon and the morphogenesis of the olfactory bulb and the corpus callosum in mice, via the formation of a repressor form of the transcription factor Gli3. These data explain the appearance of agenesis of these structures in ciliopathies (Besse et al., 2011; Laclef et al., 2015; Andreu-Cervera et al., 2019). We also identified an original role for Rpgrip1l in the establishment of planar polarity (PCP). Loss of function of Rpgrip1l leads to PCP defects in the murine cochlea and the floor of the neural tube in fish. We have shown that Rpgrip1l controls this process in part by stabilizing the Dishevelled protein (Mahuzier et al., 2012).",
+    "profile_url": "https://www.ibps.sorbonne-universite.fr/en/ibps/directory/663-Sylvie-Schneider-Maunoury",
+    "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/development-adaptations-and-aging/morphogenesis-of-the-vertebrate-brain",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  },
+  {
+    "id": "sorbonne-bio-delphine-duprez",
+    "name": "Delphine Duprez",
+    "institution": "Sorbonne",
+    "department": "IBPS — Development, Adaptations and Aging (Dev2A)",
+    "title": "Team Leader — Coordinated Developement of Muscle and Connective Tissues",
+    "roles": [
+      "Coordinated Developement of Muscle and Connective Tissues"
+    ],
+    "research_areas": [
+      "Coordinated Developement",
+      "Muscle",
+      "Connective Tissues"
+    ],
+    "summary": "1) Skeletal muscle development, growth and regeneration rely on muscle stem cells. A major goal of muscle research is to understand the signals that regulate the ability of muscle stem cells to self-renew or differentiate. Skeletal muscle formation is based on successive and distinct waves of myogenesis. Foetal myogenesis is an important step for muscle growth and the generation of adult muscle stem cells, satellite cells. The source and the nature of the signals that regulate the proliferation and differentiation of muscle progenitors remain to be determined. Foetal muscle progenitors are not all equivalent in limb muscles. There is a sub- population of foetal muscle progenitors that display specific active signalling pathways at muscle tips, close to tendons. We aim to understand the function of this sub-population of muscle progenitors in muscle growth and patterning. 2) Skeletal muscles are formed of myogenic cells and fibroblasts of connective tissues. Classical surgical experiments in chicken embryos have shown that fibroblasts contain the positional information to drive spatial organisation of limb muscles and that muscle cells are naïve. We aim at identifying the molecular signature underlying connective tissue specification and differentiation during development and the molecular interactions between fibroblasts and myogenic cells that impact on muscle spatial organisation during limb development. 3) Tendon and ligament injuries have clinical importance since they can lead to disability affecting patient’s activities. Tendon/ligament repair remains a clinical challenge. One of the reasons of our inability to fully repair tendon or ligament is the lack of understanding of molecular aspects underlying tendon biology. Our objective is to identify the link between ",
+    "profile_url": "https://www.ibps.sorbonne-universite.fr/en/ibps/directory/480-Delphine-Duprez",
+    "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/development-adaptations-and-aging/muscle-and-tendon-formation-and-repair",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  },
+  {
+    "id": "sorbonne-bio-fatiha-nothias",
+    "name": "Fatiha Nothias",
+    "institution": "Sorbonne",
+    "department": "IBPS — Development, Adaptations and Aging (Dev2A)",
+    "title": "Team Leader — Neural adaptation and repair",
+    "roles": [
+      "Neural adaptation and repair"
+    ],
+    "research_areas": [
+      "Neural adaptation",
+      "repair"
+    ],
+    "summary": "Our team has significantly contributed to a better understanding of the molecular and cellular mechanisms underlying axonal regeneration and degeneration related to injury or disease, and this will continue to be one of our primary goals. Our recent research has also included the development of micro-technological approaches enabling the in vitro reconstruction of functional neuronal pathways in humans and rodents. Additionally, a repair strategy that promotes axonal regeneration in the adult CNS, particularly following traumatic injuries, constitutes the second objective of our project. Thus, through interdisciplinary approaches, our future research can be seen as bridging fundamental and applied research, as both branches are interconnected.\n\nIn traumatic and degenerative diseases of the nervous system (NS), affected neurons will degenerate their axons and disconnect from their targets. Such lesions can even spread from neuron to neuron, leading to weakening of neural circuits, even though they are primarily capable of reorganizing themselves. Intrinsic cellular and non-cellular mechanisms control the axonal fate under stress, leading either to axonal degeneration or attempts at regrowth. While attempts to regenerate are generally aborted in the CNS, damaged axons must be restructured by forming a growth cone at their distal end, capable of navigating in an adult neuronal environment and reconnecting to its natural target. In attempting to decipher the cellular and molecular mechanisms at play in axonal degeneration/regeneration, our objectives are twofold: To determine the common or divergent mechanisms that trigger regeneration or degeneration after a focal trauma or a chronic degenerative condition, at the single-cell level. The central element is the cytoskeleton,",
+    "profile_url": "https://www.ibps.sorbonne-universite.fr/en/ibps/directory/17315-Fatiha-Nothias",
+    "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/development-adaptations-and-aging/Neural-adaptation-and-repair",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  },
+  {
+    "id": "sorbonne-bio-sylvia-soares",
+    "name": "Sylvia Soares",
+    "institution": "Sorbonne",
+    "department": "IBPS — Development, Adaptations and Aging (Dev2A)",
+    "title": "Team Leader — Neural adaptation and repair",
+    "roles": [
+      "Neural adaptation and repair"
+    ],
+    "research_areas": [
+      "Neural adaptation",
+      "repair"
+    ],
+    "summary": "Our team has significantly contributed to a better understanding of the molecular and cellular mechanisms underlying axonal regeneration and degeneration related to injury or disease, and this will continue to be one of our primary goals. Our recent research has also included the development of micro-technological approaches enabling the in vitro reconstruction of functional neuronal pathways in humans and rodents. Additionally, a repair strategy that promotes axonal regeneration in the adult CNS, particularly following traumatic injuries, constitutes the second objective of our project. Thus, through interdisciplinary approaches, our future research can be seen as bridging fundamental and applied research, as both branches are interconnected.\n\nIn traumatic and degenerative diseases of the nervous system (NS), affected neurons will degenerate their axons and disconnect from their targets. Such lesions can even spread from neuron to neuron, leading to weakening of neural circuits, even though they are primarily capable of reorganizing themselves. Intrinsic cellular and non-cellular mechanisms control the axonal fate under stress, leading either to axonal degeneration or attempts at regrowth. While attempts to regenerate are generally aborted in the CNS, damaged axons must be restructured by forming a growth cone at their distal end, capable of navigating in an adult neuronal environment and reconnecting to its natural target. In attempting to decipher the cellular and molecular mechanisms at play in axonal degeneration/regeneration, our objectives are twofold: To determine the common or divergent mechanisms that trigger regeneration or degeneration after a focal trauma or a chronic degenerative condition, at the single-cell level. The central element is the cytoskeleton,",
+    "profile_url": "https://www.ibps.sorbonne-universite.fr/en/ibps/directory/17312-Sylvia-Soares",
+    "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/development-adaptations-and-aging/Neural-adaptation-and-repair",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  },
+  {
+    "id": "sorbonne-bio-sakina-mhaouty-kodja",
+    "name": "Sakina Mhaouty-Kodja",
+    "institution": "Sorbonne",
+    "department": "IBPS — Development, Adaptations and Aging (Dev2A)",
+    "title": "Team Leader — Neuroplasticity of reproductive behaviors",
+    "roles": [
+      "Neuroplasticity of reproductive behaviors"
+    ],
+    "research_areas": [
+      "Neuroplasticity",
+      "reproductive behaviors"
+    ],
+    "summary": "In this context, our projects are structured around two complementary axes: The study of signaling pathways involving androgen and estrogen receptors in the regulation of male and female neuroendocrine and behavioral responses. The effects and mechanisms of environmental exposure to endocrine disruptors that may interfere with the action of sex steroid hormones. Our work relies on in vivo models (mice) and in vitro models (neurons generated from pluripotent stem cells) as well as multiple approaches (behavioral, neuroendocrine, neuroanatomical, molecular, and omics) to address these two axes. Our primary goal is to identify relevant biomarkers for i) the central regulation of reproduction by sex steroids, and ii) exposure to endocrine disruptors, which could be used in the context of risk assessment for human health.",
+    "profile_url": "https://www.ibps.sorbonne-universite.fr/en/ibps/directory/17240-Sakina-Mhaouty-Kodja",
+    "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/development-adaptations-and-aging/neuroplasticity-of-reproductive-behaviors",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  },
+  {
+    "id": "sorbonne-bio-enrico-maria-daldello",
+    "name": "Enrico Maria Daldello",
+    "institution": "Sorbonne",
+    "department": "IBPS — Development, Adaptations and Aging (Dev2A)",
+    "title": "Team Leader — Oocyte meiosis Group",
+    "roles": [
+      "Oocyte meiosis Group"
+    ],
+    "research_areas": [
+      "Oocyte meiosis Group"
+    ],
+    "summary": "Read our review articles! Meneau F, Dupré A, Jessus C and Daldello EM (2020) Translational control of Xenopus oocyte meiosis: toward the genomic era. Cells , 9 , 1502. PMCID: PMC7348711 DOI: 10.3390/cells9061502 Lemonnier T, Dupré A and Jessus C (2020) The G2-to-M transition from a phosphatase perspective: a new vision of the meiotic division. Cell Division , 15 , 9. PMCID: PMC7249327 DOI: 10.1186/s13008-020-00065-2 Jessus C, Munro C and Houliston E (2020) Managing the oocyte meiotic arrest-Lessons from frogs and jellyfish. Cells , 9 , 1150. PMCID: PMC7290932 DOI: 10.3390/cells9051150 Dupré A and Jessus C (2017) The Yin and Yang of Arpp19 phosphorylation: arresting or releasing cell division in \"Phosphorylation\", Open Access Book, Edited by Dr Claude Prigent. InTechOpen Publisher. https://www.intechopen.com/books/protein-phosphorylation Haccard O and Jessus C (2011) Greatwall kinase, Arpp19 and protein phosphatase 2A: shifting the mitosis paradigm. Chapter in \"Cell Cycle in Development. Results Probl Cell Differ\" . Editor: J Kubiak, Springer Verlag Publishers. 53 , pp.219-234. PMID: 21630148 Dupré A, Haccard O and Jessus C (2011) Mos in the oocyte: how to use MAPK independently of growth factors and transcription to control meiotic divisions . J. Signal. Transduc . 2011, 350-412. PMID: 21637374 Jessus C (2010) MPF and the control of meiotic divisions: old problems, new concepts. Chapter in \"Oogenesis. The Universal process\", Editors: MH Verlhac & A Villeneuve, Wiley-Blackwell Editions. pp 227-265. https://www.wiley.com/en-us/Oogenesis%3A+The+Universal+Process-p-9780470696828 Jessus C and Haccard O (2007) Calcium's double punch. Nature 449, 297-298. PMID: 17882212 DOI: 10.1038/449297a Haccard O and Jessus C (2006) Oocyte maturation, Mos and cyclins; a matter of synthesis",
+    "profile_url": "https://www.ibps.sorbonne-universite.fr/en/ibps/directory/13027-Enrico+Maria-Daldello",
+    "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/development-adaptations-and-aging/biology-of-the-oocyte",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  },
+  {
+    "id": "sorbonne-bio-fredy-barneche",
+    "name": "Fredy Barneche",
+    "institution": "Sorbonne",
+    "department": "IBPS — Development, Adaptations and Aging (Dev2A)",
+    "title": "Team Leader — Plant Nuclear Dynamics & Signaling",
+    "roles": [
+      "Plant Nuclear Dynamics & Signaling"
+    ],
+    "research_areas": [
+      "Plant Nuclear Dynamics",
+      "Signaling"
+    ],
+    "summary": "Context. Reshuffling of nuclear architecture and the chromatin landscape is a recurring theme orchestrated in most developmental transitions of eukaryotic organisms. Plants display extraordinary capacities at deploying such mechanisms to continuously adjust their development to external cues. This adaptive feature is at the nexus of their high plasticity and fitness under changing environments. As photosynthetic organisms, plants are particularly sensitive to light that is essential as a source of energy and as a spatiotemporal information about the environment.\n\nResearch aims. The PNDS lab aims at understanding the chromatin mechanisms underlying plant adaptive responses and the molecular pathways mediating these transitions. We most notably take advantage of Arabidopsis photomorphogenesis, a major developmental transition induced when young germinating seedlings first access light. This highly controllable transition combines at the cellular level rapid disruptions in nuclear phenotype, massive transcriptional reprogramming, and a profound rewiring of metabolic activities.",
+    "profile_url": "https://www.ibps.sorbonne-universite.fr/en/ibps/directory/16367-Fredy-Barneche",
+    "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/development-adaptations-and-aging/Plant-Nucleus-Dynamics-Signaling",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  },
+  {
+    "id": "sorbonne-bio-clara-richet-bourbousse",
+    "name": "Clara Richet-Bourbousse",
+    "institution": "Sorbonne",
+    "department": "IBPS — Development, Adaptations and Aging (Dev2A)",
+    "title": "Team Leader — Plant Nuclear Dynamics & Signaling",
+    "roles": [
+      "Plant Nuclear Dynamics & Signaling"
+    ],
+    "research_areas": [
+      "Plant Nuclear Dynamics",
+      "Signaling"
+    ],
+    "summary": "Context. Reshuffling of nuclear architecture and the chromatin landscape is a recurring theme orchestrated in most developmental transitions of eukaryotic organisms. Plants display extraordinary capacities at deploying such mechanisms to continuously adjust their development to external cues. This adaptive feature is at the nexus of their high plasticity and fitness under changing environments. As photosynthetic organisms, plants are particularly sensitive to light that is essential as a source of energy and as a spatiotemporal information about the environment.\n\nResearch aims. The PNDS lab aims at understanding the chromatin mechanisms underlying plant adaptive responses and the molecular pathways mediating these transitions. We most notably take advantage of Arabidopsis photomorphogenesis, a major developmental transition induced when young germinating seedlings first access light. This highly controllable transition combines at the cellular level rapid disruptions in nuclear phenotype, massive transcriptional reprogramming, and a profound rewiring of metabolic activities.",
+    "profile_url": "https://www.ibps.sorbonne-universite.fr/en/ibps/directory/16370-Clara-Richet-Bourbousse",
+    "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/development-adaptations-and-aging/Plant-Nucleus-Dynamics-Signaling",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  },
+  {
+    "id": "sorbonne-bio-margaret-ahmad",
+    "name": "Margaret Ahmad",
+    "institution": "Sorbonne",
+    "department": "IBPS — Development, Adaptations and Aging (Dev2A)",
+    "title": "Team Leader — Quantic Biology",
+    "roles": [
+      "Quantic Biology"
+    ],
+    "research_areas": [
+      "Quantic Biology"
+    ],
+    "summary": "CRYPTOCHROMES are flavoprotein blue light receptors first identified in plants and subsequently found throughout the biological Kingdom. In plants, cryptochromes are involved in growth and development, response to stress and pathogens, and response to seasonal variations such as the photoperiodic initiation of flowering In insects and mammals, cryptochromes have been most extensively characterized for their role as components of the circadian oscillator. The unique feature of cryptochromes, in contrast with most other cellular receptors present in man, is that they can potentially be activated by external cues such as light and electromagnetic fields. My research team’s work on cryptochrome has begun with their initial discovery and identification in plants, followed by study of their biological functions (stress response, root and shoot elongation growth, interaction with other plant photoregulatory pathways, phosphorylation effects). More recently our team has characterized light sensitive biochemical reactions of the cryptochromes from both plants and animals and related these primary photoreactions to their signaling function. The team also studies effects of other inputs onto cryptochrome function including effect of cellular metabolites, redox state and oxygen concentration, plant hormones, phosphorylation, and externally applied magnetic fields. The evolutionary origins of cryptochromes from ancestral DNA repair enzymes (photolyases) has been explored, as well as the conserved features among cryptochromes that suggest some common elements in their mechanism of activation across species lines. The team collaborates widely with scientists worldwide comprising expertise in biophysics, structural biology, theoretical physics, animal behaviour, biotechnology and medic",
+    "profile_url": "https://www.ibps.sorbonne-universite.fr/en/ibps/directory/17216-Margaret-Ahmad",
+    "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/development-adaptations-and-aging/quantic-biology",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  },
+  {
+    "id": "sorbonne-bio-nathalie-jourdan",
+    "name": "Nathalie Jourdan",
+    "institution": "Sorbonne",
+    "department": "IBPS — Development, Adaptations and Aging (Dev2A)",
+    "title": "Team Leader — Quantic Biology",
+    "roles": [
+      "Quantic Biology"
+    ],
+    "research_areas": [
+      "Quantic Biology"
+    ],
+    "summary": "CRYPTOCHROMES are flavoprotein blue light receptors first identified in plants and subsequently found throughout the biological Kingdom. In plants, cryptochromes are involved in growth and development, response to stress and pathogens, and response to seasonal variations such as the photoperiodic initiation of flowering In insects and mammals, cryptochromes have been most extensively characterized for their role as components of the circadian oscillator. The unique feature of cryptochromes, in contrast with most other cellular receptors present in man, is that they can potentially be activated by external cues such as light and electromagnetic fields. My research team’s work on cryptochrome has begun with their initial discovery and identification in plants, followed by study of their biological functions (stress response, root and shoot elongation growth, interaction with other plant photoregulatory pathways, phosphorylation effects). More recently our team has characterized light sensitive biochemical reactions of the cryptochromes from both plants and animals and related these primary photoreactions to their signaling function. The team also studies effects of other inputs onto cryptochrome function including effect of cellular metabolites, redox state and oxygen concentration, plant hormones, phosphorylation, and externally applied magnetic fields. The evolutionary origins of cryptochromes from ancestral DNA repair enzymes (photolyases) has been explored, as well as the conserved features among cryptochromes that suggest some common elements in their mechanism of activation across species lines. The team collaborates widely with scientists worldwide comprising expertise in biophysics, structural biology, theoretical physics, animal behaviour, biotechnology and medic",
+    "profile_url": "https://www.ibps.sorbonne-universite.fr/en/ibps/directory/17207-Nathalie-Jourdan",
+    "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/development-adaptations-and-aging/quantic-biology",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  },
+  {
+    "id": "sorbonne-bio-dominique-weil",
+    "name": "Dominique Weil",
+    "institution": "Sorbonne",
+    "department": "IBPS — Development, Adaptations and Aging (Dev2A)",
+    "title": "Team Leader — RNP and condensates",
+    "roles": [
+      "RNP and condensates"
+    ],
+    "research_areas": [
+      "condensates"
+    ],
+    "summary": "Edouard Bertrand: IGMM, Montpellier, France Nadège Bondurand: Institut Imagine, Paris, France Daniel Gautheret: I2BC Saclay, France Zoher Gueroui: ENS Paris, France Judith Miné-Hattab: LCQB, IBPS Gérard Pierron: Institut Gustave Roussy, Villejuif, France Amélie Piton: IGBMC, Strasbourg, France Hugues Roest Crollius: ENS Paris, France Nancy Standart: University of Cambridge, UK Izabela Sumara: IGBMC, Strasbourg, France",
+    "profile_url": "https://www.ibps.sorbonne-universite.fr/en/ibps/directory/705-Dominique-Weil",
+    "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/development-adaptations-and-aging/en-RNP-Co",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  },
+  {
+    "id": "sorbonne-bio-christophe-bailly",
+    "name": "Christophe Bailly",
+    "institution": "Sorbonne",
+    "department": "IBPS — Development, Adaptations and Aging (Dev2A)",
+    "title": "Team Leader — Seed biology",
+    "roles": [
+      "Seed biology"
+    ],
+    "research_areas": [
+      "Seed biology"
+    ],
+    "summary": "The team has extensive expertise in Arabidopsis seed biology as well as in cultivated plant seeds. It is a global leader in certain areas related to seed biology, including ROS, ethylene, and oxygen. The team has a broad network of collaborators and a strong connection with teaching activities at Sorbonne University, offering student training through research. The environment at IBPS and SU enables groundbreaking approaches (e.g., epigenetic studies, Nanopore technology for RNA modifications, cellular imaging techniques...), as well as more exploratory work: systems biology, deep learning, AI, and biomechanics.\n\nCollaborations since 2020 2016-2020 \"ISISTOR\" ANR PRC, PI 2019-2021 \"QUALILEV\" FSRSO, PI 2021-2024 \"RNASEED\", ANR PRC, Coordinator 2021-2024 \"BIOSTIM\", ANR PRCE, PI 2024-2027 \"COMFISEED\", ANR PRCE, Coordinator 2025-2030 \"SUPRASEED\", ANR Grand Défi, PI 2025-2027 \"TEMPO\", SOFIPROTEOL, PI",
+    "profile_url": "https://www.ibps.sorbonne-universite.fr/en/ibps/directory/54-Christophe-Bailly",
+    "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/development-adaptations-and-aging/seed-biology",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  },
+  {
+    "id": "sorbonne-bio-onnik-agbulut",
+    "name": "Onnik Agbulut",
+    "institution": "Sorbonne",
+    "department": "IBPS — Development, Adaptations and Aging (Dev2A)",
+    "title": "Team Leader — Stem Cells, Cardiovascular pathophysiology and Biotherapies",
+    "roles": [
+      "Stem Cells, Cardiovascular pathophysiology and Biotherapies"
+    ],
+    "research_areas": [
+      "Stem Cells",
+      "Cardiovascular pathophysiology",
+      "Biotherapies"
+    ],
+    "summary": "The use of stem cells and biomaterials has become crucial in the field of cardiovascular research both for the development of new therapeutic approaches and for the creation of new cellular models to study cardiovascular diseases and ageing. Biomaterials are used to create a bio-inspired environment that mimics the morphology and properties of the extracellular matrix of the tissue of interest. The aim of our team is to develop biomaterials for cardiac engineering mimicking the alveolar and fibrous structure and the mechanical properties of the myocardium. In this context, we first developped different biomaterials composed of nanofibers from extracellular matrix components ( i.e. collagen). In a second step, these biocompatible and biodegradable biomaterials are seeded with cardiovascular progenitors derived from human pluripotent stem cells. The creation of these cellularized biomaterials allows us to create a cellular model for studying the behavior of these cardiac progenitors in response to various physiological and pathological stimuli and also to develop new medical devices for cardiovascular diseases. Indeed, cardiac cell therapy holds a real promise for improving function of the chronically failing myocardium. However, so far, clinical outcomes of patients included in cell therapy trials have not met the expectations raised by the preceding experimental studies. Analysis of the causes for these suboptimal results leads to three major conclusions : repair of scarred myocardium could be more efficient by the use of cells endowed with a higher cardiomyogenic differentiation potential as compared to cell types used so far clinically (skeletal myoblasts, bone marrow-derived cells, adipose tissue-derived cells) that lack the ability to convert into cardiomyocytes; in",
+    "profile_url": "https://www.ibps.sorbonne-universite.fr/en/ibps/directory/17170-Onnik-Agbulut",
+    "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/development-adaptations-and-aging/carther",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  },
+  {
+    "id": "sorbonne-bio-zhenlin-li",
+    "name": "Zhenlin Li",
+    "institution": "Sorbonne",
+    "department": "IBPS — Development, Adaptations and Aging (Dev2A)",
+    "title": "Team Leader — Stem Cells, Cardiovascular pathophysiology and Biotherapies",
+    "roles": [
+      "Stem Cells, Cardiovascular pathophysiology and Biotherapies"
+    ],
+    "research_areas": [
+      "Stem Cells",
+      "Cardiovascular pathophysiology",
+      "Biotherapies"
+    ],
+    "summary": "The use of stem cells and biomaterials has become crucial in the field of cardiovascular research both for the development of new therapeutic approaches and for the creation of new cellular models to study cardiovascular diseases and ageing. Biomaterials are used to create a bio-inspired environment that mimics the morphology and properties of the extracellular matrix of the tissue of interest. The aim of our team is to develop biomaterials for cardiac engineering mimicking the alveolar and fibrous structure and the mechanical properties of the myocardium. In this context, we first developped different biomaterials composed of nanofibers from extracellular matrix components ( i.e. collagen). In a second step, these biocompatible and biodegradable biomaterials are seeded with cardiovascular progenitors derived from human pluripotent stem cells. The creation of these cellularized biomaterials allows us to create a cellular model for studying the behavior of these cardiac progenitors in response to various physiological and pathological stimuli and also to develop new medical devices for cardiovascular diseases. Indeed, cardiac cell therapy holds a real promise for improving function of the chronically failing myocardium. However, so far, clinical outcomes of patients included in cell therapy trials have not met the expectations raised by the preceding experimental studies. Analysis of the causes for these suboptimal results leads to three major conclusions : repair of scarred myocardium could be more efficient by the use of cells endowed with a higher cardiomyogenic differentiation potential as compared to cell types used so far clinically (skeletal myoblasts, bone marrow-derived cells, adipose tissue-derived cells) that lack the ability to convert into cardiomyocytes; in",
+    "profile_url": "https://www.ibps.sorbonne-universite.fr/en/ibps/directory/17167-Zhenlin-Li",
+    "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/development-adaptations-and-aging/carther",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  },
+  {
+    "id": "sorbonne-bio-clement-carre",
+    "name": "Clément Carré",
+    "institution": "Sorbonne",
+    "department": "IBPS — Development, Adaptations and Aging (Dev2A)",
+    "title": "Team Leader — TE r Bio : Transgenerational Epigenetics & small RNA biology",
+    "roles": [
+      "TE r Bio : Transgenerational Epigenetics & small RNA biology"
+    ],
+    "research_areas": [
+      "TE r Bio",
+      "Transgenerational Epigenetics",
+      "small RNA biology"
+    ],
+    "summary": "Our team studies the Biology of RNAs, in particular the small RNAs involved in the regulation of gene expression and Transposable Elements (TE). We are also interested in RNAs post-transcriptional modifications that play a fundamental role in RNA biogenesis and fate. In metazoans, three types of small RNAs have been described, whose specificity differs according to the Argonaute protein with which they interact: microRNA (miRNA), small interfering RNA (siRNA) and PIWI interacting RNAs (piRNA). TEs that are present in all genomes, have the ability to transpose thus causing possibly deleterious mutations. In Drosophila, their expression are controlled by piRNAs in the gonads and by siRNAs in somatic tissues. Our team's projects aim to better understand the dynamics (activation and evolution) of piRNA clusters in heterochromatic locus from which piRNAs are maturated and, using functional screens, to characterize genes involved in siRNA- and piRNA-dependent repression. Some of those genes have human orthologue with potential therapeutic targets that will help to better understand pathologies related to the invalidation of those pathways.",
+    "profile_url": "https://www.ibps.sorbonne-universite.fr/en/ibps/directory/1900-Cl%C3%A9ment-Carr%C3%A9",
+    "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/development-adaptations-and-aging/transgenerational-epigenetics-small-rna-biology",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  },
+  {
+    "id": "sorbonne-bio-laure-teysset",
+    "name": "Laure Teysset",
+    "institution": "Sorbonne",
+    "department": "IBPS — Development, Adaptations and Aging (Dev2A)",
+    "title": "Team Leader — TE r Bio : Transgenerational Epigenetics & small RNA biology",
+    "roles": [
+      "TE r Bio : Transgenerational Epigenetics & small RNA biology"
+    ],
+    "research_areas": [
+      "TE r Bio",
+      "Transgenerational Epigenetics",
+      "small RNA biology"
+    ],
+    "summary": "Our team studies the Biology of RNAs, in particular the small RNAs involved in the regulation of gene expression and Transposable Elements (TE). We are also interested in RNAs post-transcriptional modifications that play a fundamental role in RNA biogenesis and fate. In metazoans, three types of small RNAs have been described, whose specificity differs according to the Argonaute protein with which they interact: microRNA (miRNA), small interfering RNA (siRNA) and PIWI interacting RNAs (piRNA). TEs that are present in all genomes, have the ability to transpose thus causing possibly deleterious mutations. In Drosophila, their expression are controlled by piRNAs in the gonads and by siRNAs in somatic tissues. Our team's projects aim to better understand the dynamics (activation and evolution) of piRNA clusters in heterochromatic locus from which piRNAs are maturated and, using functional screens, to characterize genes involved in siRNA- and piRNA-dependent repression. Some of those genes have human orthologue with potential therapeutic targets that will help to better understand pathologies related to the invalidation of those pathways.",
+    "profile_url": "https://www.ibps.sorbonne-universite.fr/en/ibps/directory/681-Laure-Teysset",
+    "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/development-adaptations-and-aging/transgenerational-epigenetics-small-rna-biology",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  }
+]
