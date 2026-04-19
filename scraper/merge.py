@@ -29,6 +29,7 @@ OVERRIDES = ROOT / "overrides.json"
 SOURCES = [
     ("ntu_all.json", "NTU", None),
     ("sorbonne_bio.json", "Sorbonne", "Degree"),
+    ("sorbonne_stem.json", "Sorbonne", "Degree"),
     ("tum_bio.json", "TUM", "Supervision"),
     ("tum_nat_cit.json", "TUM", "Supervision"),
     ("turin_depts.json", "Turin", "Supervision"),
