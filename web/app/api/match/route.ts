@@ -36,9 +36,12 @@ function tokenize(s: string): string[] {
     .filter((t) => t.length > 2 && !STOPWORDS.has(t));
 }
 
-function shortlist(query: string, pool: Faculty[], size: number): Faculty[] {
+function scoreCandidates(
+  query: string,
+  pool: Faculty[],
+): { f: Faculty; score: number }[] {
   const qTokens = new Set(tokenize(query));
-  if (qTokens.size === 0) return pool.slice(0, size);
+  if (qTokens.size === 0) return pool.map((f) => ({ f, score: 0 }));
   const scored = pool.map((f) => {
     const areas = (f.research_areas ?? []).join(" ").toLowerCase();
     const summary = (f.summary ?? "").toLowerCase();
@@ -54,8 +57,33 @@ function shortlist(query: string, pool: Faculty[], size: number): Faculty[] {
     return { f, score };
   });
   scored.sort((a, b) => b.score - a.score);
-  if (scored[0].score === 0) return pool.slice(0, size);
+  return scored;
+}
+
+function shortlist(query: string, pool: Faculty[], size: number): Faculty[] {
+  const scored = scoreCandidates(query, pool);
+  if (scored.length === 0 || scored[0].score === 0) return pool.slice(0, size);
   return scored.slice(0, size).map((s) => s.f);
+}
+
+// If one (or a handful of) candidate(s) is a clear keyword-match leader —
+// their score dominates the runner-up — surface them explicitly to Claude as
+// a hint, to stop the model diversifying away from an obvious specialist.
+// Returns up to 3 dominant candidates, only when the dominance is real.
+function keywordLeaders(
+  query: string,
+  pool: Faculty[],
+): { f: Faculty; score: number }[] {
+  const scored = scoreCandidates(query, pool).filter((s) => s.score > 0);
+  if (scored.length === 0) return [];
+  const top = scored[0].score;
+  const runnerUp = scored[3]?.score ?? 0; // compare against the 4th-best
+  // Require both absolute signal (top >= 10 = multiple area-level hits) and
+  // clear dominance (top >= 2x the 4th candidate). Avoids false positives when
+  // many candidates share a weak keyword.
+  if (top < 10 || top < 2 * Math.max(runnerUp, 1)) return [];
+  // Include everyone within 75% of the top score, up to 3.
+  return scored.filter((s) => s.score >= top * 0.75).slice(0, 3);
 }
 
 function compact(records: Faculty[]) {
@@ -133,7 +161,8 @@ export async function POST(req: NextRequest) {
 Return strict JSON { "matches": [ { "id", "rationale" } ] }. Return up to 10.
 - Only use ids that appear in the directory.
 - Rationale (≤ 30 words) must name the specific overlap: shared systems, diseases, organisms, techniques, or methods.
-- Prefer stronger specificity over seniority.
+- KEYWORD_MATCH_LEADERS (if listed) must occupy the top positions in the output, in the given order, unless their research is clearly unrelated to the project; in that rare case, explain why in the rationale.
+- Beyond the leaders, prefer stronger specificity over seniority.
 - Prefer matches that would plausibly co-supervise an NTU PhD student.
 - Output JSON only. No prose, no fences.`,
     });
@@ -150,7 +179,8 @@ Return strict JSON { "matches": [ { "id", "rationale" } ] }. Return up to 10.
 Return strict JSON { "matches": [ { "id", "rationale" } ] }. Return up to 10.
 - Only use ids that appear in the directory.
 - Rationale (≤ 30 words) must name the specific overlap: shared systems, diseases, organisms, techniques, or methods.
-- Prefer stronger specificity over seniority.
+- KEYWORD_MATCH_LEADERS (if listed) must occupy the top positions in the output, in the given order, unless their research is clearly unrelated to the project.
+- Beyond the leaders, prefer stronger specificity over seniority.
 - Output JSON only.`,
     });
   }
@@ -176,6 +206,7 @@ Return strict JSON { "matches": [ { "id", "rationale" } ] }. Return up to 10.
 Return strict JSON { "matches": [ { "id", "rationale" } ] }. Return up to 10.
 - The rationale (≤ 30 words) should explain how the partner faculty complements the student's project AND the NTU supervisor's line of work — e.g. a method, model system, or clinical angle the NTU lab lacks.
 - Only use ids that appear in the directory.
+- KEYWORD_MATCH_LEADERS (if listed) must occupy the top positions in the output, in the given order, unless their research is clearly unrelated to the project and supervisor.
 - Output JSON only.`,
     });
   }
@@ -311,7 +342,20 @@ async function singleRank(args: {
   }
   const directory = compact(shortlist(query, pool, SHORTLIST_SIZE));
   const directoryText = `DIRECTORY (JSON):\n${JSON.stringify(directory)}`;
-  const projectText = `\n\nPROJECT:\n${query.trim()}`;
+  // Highlight any dominant keyword-match candidates so Claude anchors the
+  // top of the list on them unless their research is clearly off-topic.
+  const leaders = keywordLeaders(query, pool);
+  const leaderText = leaders.length
+    ? `\n\nKEYWORD_MATCH_LEADERS (ordered; their research_areas contain multiple project keywords verbatim):\n${leaders
+        .map(
+          (l, i) =>
+            `  ${i + 1}. id=${l.f.id}  name="${l.f.name}"  areas=${JSON.stringify(
+              (l.f.research_areas ?? []).slice(0, 6),
+            )}`,
+        )
+        .join("\n")}`
+    : "";
+  const projectText = `${leaderText}\n\nPROJECT:\n${query.trim()}`;
 
   try {
     const resp = await client.messages.create({
