@@ -1,20 +1,26 @@
-"""University of Turin (UniTO) — biology faculty scraper.
+"""University of Turin (UniTO) — multi-department faculty scraper.
 
-Data source: the DBIOS department — Dipartimento di Scienze della Vita e
-Biologia dei Sistemi — which publishes its personnel index grouped by role at
+UniTO publishes each department's personnel at a per-subdomain campusnet
+instance, all using the same `do/docenti.pl` widget. We iterate through a
+configurable list of departments and collect their ranked faculty from the
+"Suddivisi per ruolo" (grouped-by-role) view.
 
-    /do/docenti.pl/Search?format=6;sort=U2;max=5000;sf=0;title=Suddivisi+per+ruolo
+Roles kept — only ranked faculty who can main-supervise PhD students:
 
-Each person has a profile page at /do/docenti.pl/Show?_id=<username>. The
-profile exposes their position, SSD (scientific discipline code), research
-group, and ORCID in a structured `<div class="row mb-3">` block near the top.
+- Professori/Professoresse ordinari/e            → Full Professor
+- Professori/Professoresse associati/e           → Associate Professor
+- Ricercatori/Ricercatrici universitari/e        → Researcher (permanent)
+- Ricercatori/Ricercatrici a tempo determinato di tipo B  → Assistant Professor
+  (RTD-B is Italy's tenure-track rank, converts to Associate on successful
+  evaluation)
+- Ricercatori/Ricercatrici in tenure track       → Tenure-Track Researcher
 
-We keep faculty-ranked records only (full professors, associate professors,
-university researchers, tenure-track). PhD students, contract staff, and
-emeriti are excluded.
+Excluded: RTD-A (3-year non-tenure, effectively a postdoc with teaching),
+Emeriti, Assegnisti (postdocs without teaching), PhD students, and all
+support / admin staff.
 
 Run with:
-    python -m scrapers.turin_bio
+    python -m scrapers.turin_depts
 """
 
 from __future__ import annotations
@@ -30,24 +36,50 @@ from scrapers._http import get
 from schema import Faculty, clean_text, slugify
 
 
-BASE = "https://www.dbios.unito.it"
-INDEX = (
-    f"{BASE}/do/docenti.pl/Search?"
-    "format=6;sort=U2;max=5000;sf=0;title=Suddivisi+per+ruolo"
-)
+# Each entry: (department subdomain base URL, display label).
+# The per-department personnel index is always at
+# {base}/do/docenti.pl/Search?format=6;sort=U2;max=5000;sf=0;title=Suddivisi+per+ruolo
+_DEPARTMENTS: list[tuple[str, str]] = [
+    (
+        "https://www.dbios.unito.it",
+        "Department of Life Sciences and Systems Biology (DBIOS)",
+    ),
+    (
+        "https://www.dbmss.unito.it",
+        "Department of Molecular Biotechnology and Health Sciences (DBMSS)",
+    ),
+    (
+        "https://www.chimica.unito.it",
+        "Department of Chemistry",
+    ),
+    (
+        "https://www.df.unito.it",
+        "Department of Physics",
+    ),
+    (
+        "https://www.dipmatematica.unito.it",
+        'Department of Mathematics "Giuseppe Peano"',
+    ),
+]
 
-# Italian role label -> (English title, keep?). `keep=False` skips the role.
+
+# Italian role label -> (English title, keep?).
 _ROLES: dict[str, tuple[str, bool]] = {
     "Professori/Professoresse ordinari/e": ("Full Professor", True),
     "Professori/Professoresse associati/e": ("Associate Professor", True),
     "Professori/Professoresse emeriti/e": ("Emeritus Professor", False),
     "Ricercatori/Ricercatrici universitari/e": ("Researcher", True),
+    # RTD-A is a 3-year non-tenure post — effectively a postdoc with teaching.
+    # Italian PhD regulations typically don't let RTD-As be main supervisors,
+    # so we exclude them from the directory.
     "Ricercatori/Ricercatrici a tempo determinato di tipo A": (
-        "Assistant Professor (Type A)",
-        True,
+        "Assistant Professor (RTD-A)",
+        False,
     ),
+    # RTD-B is tenure-track (converts to Associate after 3 years on successful
+    # evaluation). Kept.
     "Ricercatori/Ricercatrici a tempo determinato di tipo B": (
-        "Assistant Professor (Type B)",
+        "Assistant Professor",
         True,
     ),
     "Ricercatori/Ricercatrici in tenure track": (
@@ -56,14 +88,11 @@ _ROLES: dict[str, tuple[str, bool]] = {
     ),
 }
 
-DEPARTMENT = "Department of Life Sciences and Systems Biology (DBIOS)"
-
 
 def _reformat_name(s: str) -> str:
-    """Turin lists names as 'Last First' (e.g. 'Maffei Massimo Emilio'). Reorder
-    to 'First Last' for display consistency with the rest of the directory.
-    Heuristic: treat the first token as the family name only if the whole
-    string is >= 2 tokens; otherwise leave alone."""
+    """Fallback for the provisional name before we fetch the profile page:
+    'Last First' -> 'First Last'. The profile h2 gives us the clean form
+    directly — see _parse_profile."""
     parts = clean_text(s).split()
     if len(parts) < 2:
         return clean_text(s)
@@ -72,16 +101,19 @@ def _reformat_name(s: str) -> str:
     return f"{first} {last}"
 
 
-def _list_faculty() -> list[tuple[str, str, str]]:
-    """Return [(role_label_en, name, profile_url)] for kept roles, in page order."""
-    html = get(INDEX)
+def _list_faculty(base: str) -> list[tuple[str, str, str]]:
+    """Return [(role_label_en, name, profile_url)] for kept roles, in page
+    order. `base` is the per-department subdomain root."""
+    index = (
+        f"{base}/do/docenti.pl/Search?"
+        "format=6;sort=U2;max=5000;sf=0;title=Suddivisi+per+ruolo"
+    )
+    html = get(index)
     soup = BeautifulSoup(html, "html.parser")
     current_role_en: str | None = None
     current_kept = False
     out: list[tuple[str, str, str]] = []
     seen: set[str] = set()
-    # Walk document order: switch the active role when we encounter a role
-    # header, and collect docenti links while the active role is kept.
     for node in soup.find_all(True):
         if node.name in ("h3", "h4", "h5"):
             label = clean_text(node.get_text(" ", strip=True))
@@ -90,7 +122,6 @@ def _list_faculty() -> list[tuple[str, str, str]]:
                 current_role_en = title_en if keep else None
                 current_kept = keep
             else:
-                # Any other section header ends the previous role block.
                 current_role_en = None
                 current_kept = False
         elif (
@@ -100,7 +131,7 @@ def _list_faculty() -> list[tuple[str, str, str]]:
             and node.get("href", "").startswith("/do/docenti.pl/Show?_id=")
         ):
             name = clean_text(node.get_text(" ", strip=True))
-            href = urljoin(BASE, node["href"])
+            href = urljoin(base, node["href"])
             if not name or href in seen:
                 continue
             seen.add(href)
@@ -108,19 +139,17 @@ def _list_faculty() -> list[tuple[str, str, str]]:
     return out
 
 
-def _parse_profile(name: str, url: str, role_en: str) -> Faculty:
+def _parse_profile(name: str, url: str, role_en: str, dept_label: str) -> Faculty:
     html = get(url)
     soup = BeautifulSoup(html, "html.parser")
 
-    # Header row with position, SSD, ORCID.
     row = soup.find(
         "div", class_=lambda c: c and "row" in c and "mb-3" in c
     )
     row_text = row.get_text(" ", strip=True) if row else ""
 
-    # The profile page renders the name correctly as "First Last" in an h2,
-    # compound surnames intact ("Giovanna Di Nardo"). Prefer that over the
-    # index-page "Last First" form which we only split with fragile heuristics.
+    # Prefer the profile page's own h2 rendering of the name — compound
+    # surnames like "Di Nardo" come out correctly ordered there.
     if row:
         name_el = row.find(["h1", "h2", "h3"])
         if name_el:
@@ -128,9 +157,6 @@ def _parse_profile(name: str, url: str, role_en: str) -> Faculty:
             if clean:
                 name = clean
 
-    # Photo — UniTO hosts each staff member's headshot at a predictable path
-    # keyed on their campusnet _id: /docenti/att/<id>.fotografia.<ext>
-    # The extension varies per record (png or jpg), so match on the stem.
     photo = ""
     for img in soup.find_all("img"):
         src = img.get("src", "")
@@ -151,13 +177,11 @@ def _parse_profile(name: str, url: str, role_en: str) -> Faculty:
         if orcid_a:
             orcid = orcid_a["href"].strip()
 
-    # Research group — first /do/gruppi.pl/Show link under the "Gruppi di ricerca" section.
     group_name = ""
     group_url = ""
     for h in soup.find_all(["h2", "h3", "h4", "h5"]):
         if "Gruppi di ricerca" in h.get_text(strip=True):
             nxt = h.find_next()
-            # Scan the next 40 siblings/descendants for a gruppi link.
             for _ in range(40):
                 if nxt is None:
                     break
@@ -171,16 +195,12 @@ def _parse_profile(name: str, url: str, role_en: str) -> Faculty:
                 nxt = nxt.find_next()
             break
 
-    # Research areas: derive from SSD name + research group label — both are
-    # short domain phrases, so just stack them.
     areas: list[str] = []
     if ssd_name:
         areas.append(ssd_name)
     if group_name and group_name.lower() not in {a.lower() for a in areas}:
         areas.append(group_name)
 
-    # Summary: join SSD + group into a readable sentence; profile pages don't
-    # publish a free-text research abstract.
     summary_bits = []
     if ssd_name:
         summary_bits.append(f"Scientific discipline: {ssd_name}.")
@@ -189,10 +209,10 @@ def _parse_profile(name: str, url: str, role_en: str) -> Faculty:
     summary = " ".join(summary_bits)
 
     return {
-        "id": slugify("turin", "bio", name),
+        "id": slugify("turin", name),
         "name": name,
         "institution": "Turin",
-        "department": DEPARTMENT,
+        "department": dept_label,
         "title": role_en,
         "roles": [group_name] if group_name else [],
         "research_areas": areas[:4],
@@ -206,25 +226,41 @@ def _parse_profile(name: str, url: str, role_en: str) -> Faculty:
 
 
 def scrape() -> list[Faculty]:
-    people = _list_faculty()
-    print(f"[turin_bio] {len(people)} faculty listed")
-    out: list[Faculty] = []
-    for role, name, url in people:
+    all_out: list[Faculty] = []
+    seen_ids: set[str] = set()
+    for base, label in _DEPARTMENTS:
         try:
-            out.append(_parse_profile(name, url, role))
+            people = _list_faculty(base)
         except Exception as e:
-            print(f"  [turin_bio] skip {name} @ {url}: {e}")
-    return out
+            print(f"  [turin_depts] FAIL listing {label}: {e}")
+            continue
+        print(f"[turin_depts] {len(people):3} listed  |  {label}")
+        kept = 0
+        for role, name, url in people:
+            try:
+                rec = _parse_profile(name, url, role, label)
+            except Exception as e:
+                print(f"  [turin_depts] skip {name} @ {url}: {e}")
+                continue
+            # Cross-department dedupe: a prof appearing under multiple
+            # campusnet sites keeps the first department we scraped.
+            if rec["id"] in seen_ids:
+                continue
+            seen_ids.add(rec["id"])
+            all_out.append(rec)
+            kept += 1
+        print(f"             kept {kept} unique records")
+    return all_out
 
 
 def main() -> None:
     out_dir = Path(__file__).resolve().parents[1] / "out"
     out_dir.mkdir(exist_ok=True)
     records = scrape()
-    (out_dir / "turin_bio.json").write_text(
+    (out_dir / "turin_depts.json").write_text(
         json.dumps(records, indent=2, ensure_ascii=False), encoding="utf-8"
     )
-    print(f"[turin_bio] wrote {len(records)} records")
+    print(f"[turin_depts] wrote {len(records)} records total")
 
 
 if __name__ == "__main__":
