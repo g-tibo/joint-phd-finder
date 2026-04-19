@@ -43,10 +43,14 @@ export const PARTNER_TYPE: Record<string, PartnershipType> = Object.fromEntries(
 );
 
 function lastNameKey(name: string): string {
-  if (name.includes(",")) {
-    return name.split(",")[0].trim().toLowerCase();
+  // Strip parenthesised content (e.g. "Luke Ong (翁之昊)" -> "Luke Ong") so
+  // the sort key uses the Latin surname rather than the trailing CJK
+  // characters, which would otherwise sort before every Latin letter.
+  const stripped = name.replace(/\([^)]*\)/g, " ").trim();
+  if (stripped.includes(",")) {
+    return stripped.split(",")[0].trim().toLowerCase();
   }
-  const parts = name.trim().split(/\s+/);
+  const parts = stripped.split(/\s+/);
   return parts[parts.length - 1].toLowerCase();
 }
 
