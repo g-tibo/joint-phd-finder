@@ -102,6 +102,35 @@ def _extract_team_leaders(soup: BeautifulSoup) -> list[dict]:
     return leaders
 
 
+def _extract_staff_scientists(soup: BeautifulSoup) -> list[dict]:
+    """Return [{name, profile_url}] from the 'Staff scientists' section.
+
+    Staff scientists at IBPS are CNRS/INSERM permanent researchers
+    (Chargé/Directeur de recherche) — PhD-supervising faculty in the French
+    system, even though they're not the team's group leader. They appear
+    inside a `<ul class="list-arrows">` that follows the header, so sibling-
+    walking (like we do for leaders) misses them; we search the DOM instead.
+    """
+    members: list[dict] = []
+    seen: set[str] = set()
+    for h in soup.find_all(["h2", "h3", "h4"]):
+        if "staff scientist" in h.get_text(" ", strip=True).lower():
+            ul = h.find_next("ul")
+            if ul is None:
+                break
+            for a in ul.find_all("a", href=True):
+                href: str = a["href"]
+                if "/ibps/directory/" not in href.lower() and "/annuaire/" not in href.lower():
+                    continue
+                name = clean_text(a.get_text(" ", strip=True))
+                if not name or name.lower() in seen:
+                    continue
+                seen.add(name.lower())
+                members.append({"name": name, "profile_url": urljoin(BASE, href)})
+            break
+    return members
+
+
 def _fetch_photo(profile_url: str) -> str:
     """Fetch a leader's IBPS directory page and return their headshot URL.
     Returns "" on any failure — photos are best-effort enrichment."""
@@ -194,38 +223,50 @@ def scrape() -> list[Faculty]:
     teams = list_team_pages()
     print(f"[sorbonne_bio] {len(teams)} team pages found")
     out: list[Faculty] = []
+    seen_ids: set[str] = set()
+
+    def _emit(person: dict, title_label: str, team_title: str, dept: str,
+              summary: str, url: str) -> None:
+        """Build + dedupe a Faculty record for one person on a team page."""
+        rec_id = slugify("sorbonne", "bio", person["name"])
+        if rec_id in seen_ids:
+            return  # cross-appointment across teams — keep the first occurrence
+        seen_ids.add(rec_id)
+        out.append({
+            "id": rec_id,
+            "name": person["name"],
+            "institution": "Sorbonne",
+            "department": dept,
+            "title": f"{title_label} — {team_title}",
+            "roles": [team_title],
+            "research_areas": _research_areas_from_title(team_title),
+            "summary": summary,
+            "profile_url": person["profile_url"],
+            "lab_url": url,
+            "scholar_url": "",
+            "orcid": "",
+            "photo_url": _fetch_photo(person["profile_url"]),
+        })
+
     for team_label, url in teams:
         try:
             html = get(url)
             soup = BeautifulSoup(html, "html.parser")
             title = _team_title(soup, team_label)
             leaders = _extract_team_leaders(soup)
+            staff = _extract_staff_scientists(soup)
             summary = _summary(soup)
             dept = _unit_label(url)
-            if not leaders:
-                # No leader could mean the team block uses an uncommon layout —
-                # emit a placeholder record keyed on the team so the team
-                # still shows up rather than silently dropping it. We flag this
-                # in the name so it's obvious in QA.
-                print(f"  [sorbonne_bio] no team leader extracted: {title} @ {url}")
+            if not leaders and not staff:
+                print(f"  [sorbonne_bio] no members extracted: {title} @ {url}")
                 continue
             for L in leaders:
-                rec: Faculty = {
-                    "id": slugify("sorbonne", "bio", L["name"]),
-                    "name": L["name"],
-                    "institution": "Sorbonne",
-                    "department": dept,
-                    "title": f"Team Leader — {title}",
-                    "roles": [title],
-                    "research_areas": _research_areas_from_title(title),
-                    "summary": summary,
-                    "profile_url": L["profile_url"],
-                    "lab_url": url,
-                    "scholar_url": "",
-                    "orcid": "",
-                    "photo_url": _fetch_photo(L["profile_url"]),
-                }
-                out.append(rec)
+                _emit(L, "Team Leader", title, dept, summary, url)
+            for S in staff:
+                # Staff scientists = CNRS/INSERM Chargé/Directeur de recherche,
+                # permanent PhD-supervising researchers. Label them distinctly
+                # from team leaders so the card title reads correctly.
+                _emit(S, "Staff Scientist", title, dept, summary, url)
         except Exception as e:
             print(f"  [sorbonne_bio] skip {team_label} @ {url}: {e}")
     return out
