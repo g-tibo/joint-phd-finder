@@ -1,0 +1,44 @@
+[
+  {
+    "id": "sorbonne-stem-souhir-boujday",
+    "name": "Souhir Boujday",
+    "institution": "Sorbonne",
+    "department": "Laboratoire de Réactivité de Surface (LRS) — UMR 7197",
+    "title": "Full Professor — Chair, School of Chemistry",
+    "roles": [],
+    "research_areas": [
+      "Biointerfaces",
+      "Biosensors",
+      "Surface chemistry",
+      "Nanoparticles",
+      "Spectroscopy"
+    ],
+    "summary": "Chair of the School of Chemistry at Sorbonne Université. Research at LRS focuses on biointerfaces: functionalisation of nanoparticles and surfaces for biosensing and biomedical applications, surface spectroscopy, and protein–surface interactions.",
+    "profile_url": "https://lrs.sorbonne-universite.fr",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  },
+  {
+    "id": "sorbonne-stem-mathieu-mivelle",
+    "name": "Mathieu Mivelle",
+    "institution": "Sorbonne",
+    "department": "Institut des NanoSciences de Paris (INSP)",
+    "title": "CNRS Researcher",
+    "roles": [],
+    "research_areas": [
+      "Nano-optics",
+      "Plasmonics",
+      "Nanoantennas",
+      "Chirality",
+      "Light-matter interaction"
+    ],
+    "summary": "CNRS researcher at the Institut des NanoSciences de Paris (Sorbonne Université / CNRS). Research on nano-optics, plasmonic nanoantennas, magnetic light-matter interactions, and chiroptical effects at the nanoscale.",
+    "profile_url": "https://www.insp.upmc.fr",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": ""
+  }
+]
