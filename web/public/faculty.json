@@ -14395,6 +14395,25 @@
     "partnership_type": "Degree"
   },
   {
+    "id": "sorbonne-stem-agostini-federica",
+    "name": "Agostini Federica",
+    "institution": "Sorbonne",
+    "department": "Laboratoire de Chimie Théorique (LCT)",
+    "title": "Junior Chair Professor",
+    "roles": [
+      "Chair Professeur Junior"
+    ],
+    "research_areas": [],
+    "summary": "Office: 1213-414.",
+    "profile_url": "https://www.lct.jussieu.fr/?page_id=128",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
     "id": "sorbonne-bio-alain-trembleau",
     "name": "Alain Trembleau",
     "institution": "Sorbonne",
@@ -14413,6 +14432,25 @@
     "scholar_url": "",
     "orcid": "",
     "photo_url": "",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
+    "id": "sorbonne-stem-alban-urvoy",
+    "name": "Alban URVOY",
+    "institution": "Sorbonne",
+    "department": "Laboratoire Kastler Brossel (LKB)",
+    "title": "Teaching Researcher (Enseignant-Chercheur)",
+    "roles": [
+      "Enseignant-Chercheur"
+    ],
+    "research_areas": [],
+    "summary": "Laboratoire Kastler Brossel — quantum physics.",
+    "profile_url": "https://www.lkb.fr/laboratoire/membres/alban-urvoy/",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.lkb.fr/wp-content/uploads/2024/09/alban-urvoy.png",
     "partner_university": "Sorbonne",
     "partnership_type": "Degree"
   },
@@ -14437,6 +14475,25 @@
     "scholar_url": "",
     "orcid": "",
     "photo_url": "",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
+    "id": "sorbonne-stem-alberto-bramati",
+    "name": "Alberto BRAMATI",
+    "institution": "Sorbonne",
+    "department": "Laboratoire Kastler Brossel (LKB)",
+    "title": "Teaching Researcher (Enseignant-Chercheur)",
+    "roles": [
+      "Enseignant-Chercheur"
+    ],
+    "research_areas": [],
+    "summary": "Laboratoire Kastler Brossel — quantum physics.",
+    "profile_url": "https://www.lkb.fr/laboratoire/membres/alberto-bramati/",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.lkb.fr/wp-content/uploads/2024/09/Trombi_BRAMATI-Alberto-2-1.png",
     "partner_university": "Sorbonne",
     "partnership_type": "Degree"
   },
@@ -15178,6 +15235,25 @@
     "partnership_type": "Degree"
   },
   {
+    "id": "sorbonne-stem-antoine-heidmann",
+    "name": "Antoine HEIDMANN",
+    "institution": "Sorbonne",
+    "department": "Laboratoire Kastler Brossel (LKB)",
+    "title": "CNRS/INSERM Researcher",
+    "roles": [
+      "Chercheur"
+    ],
+    "research_areas": [],
+    "summary": "Laboratoire Kastler Brossel — quantum physics.",
+    "profile_url": "https://www.lkb.fr/laboratoire/membres/antoine-heidmann/",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.lkb.fr/wp-content/uploads/2024/05/antoine-heidmann.png",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
     "id": "sorbonne-stem-antoine-rauzy",
     "name": "Antoine Rauzy",
     "institution": "Sorbonne",
@@ -15350,6 +15426,25 @@
     "scholar_url": "",
     "orcid": "",
     "photo_url": "https://www.ibps.sorbonne-universite.fr/ressources/whoswho/105x140,1137-E15_A-Benecke.jpeg",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
+    "id": "sorbonne-stem-assaraf-roland",
+    "name": "Assaraf Roland",
+    "institution": "Sorbonne",
+    "department": "Laboratoire de Chimie Théorique (LCT)",
+    "title": "CNRS Researcher",
+    "roles": [
+      "Chargé de recherche"
+    ],
+    "research_areas": [],
+    "summary": "Office: 1213-410.",
+    "profile_url": "https://www.lct.jussieu.fr/?page_id=128",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "",
     "partner_university": "Sorbonne",
     "partnership_type": "Degree"
   },
@@ -15808,6 +15903,44 @@
     "partnership_type": "Degree"
   },
   {
+    "id": "sorbonne-stem-braida-benoit",
+    "name": "Braïda Benoît",
+    "institution": "Sorbonne",
+    "department": "Laboratoire de Chimie Théorique (LCT)",
+    "title": "Associate Professor",
+    "roles": [
+      "Maître de conférences"
+    ],
+    "research_areas": [],
+    "summary": "Office: 1213-402.",
+    "profile_url": "https://www.lct.jussieu.fr/?page_id=128",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
+    "id": "sorbonne-stem-brice-bakkali-hassani",
+    "name": "Brice BAKKALI-HASSANI",
+    "institution": "Sorbonne",
+    "department": "Laboratoire Kastler Brossel (LKB)",
+    "title": "CNRS/INSERM Researcher",
+    "roles": [
+      "Chercheur"
+    ],
+    "research_areas": [],
+    "summary": "Laboratoire Kastler Brossel — quantum physics.",
+    "profile_url": "https://www.lkb.fr/laboratoire/membres/bakkali-hassani-brice/",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.lkb.fr/wp-content/uploads/2024/12/Trombi_BAKKALI-HASSANI-Brice.png",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
     "id": "sorbonne-stem-brigitte-rousseau",
     "name": "Brigitte Rousseau",
     "institution": "Sorbonne",
@@ -16045,6 +16178,25 @@
     "partnership_type": "Degree"
   },
   {
+    "id": "sorbonne-stem-chaquin-patrick",
+    "name": "Chaquin Patrick",
+    "institution": "Sorbonne",
+    "department": "Laboratoire de Chimie Théorique (LCT)",
+    "title": "Full Professor",
+    "roles": [
+      "Professeur émérite"
+    ],
+    "research_areas": [],
+    "summary": "Office: 1213-420.",
+    "profile_url": "https://www.lct.jussieu.fr/?page_id=128",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
     "id": "sorbonne-stem-charles-dapogny",
     "name": "Charles Dapogny",
     "institution": "Sorbonne",
@@ -16107,6 +16259,44 @@
     "summary": "Research themes: Analyse des équations aux dérivées partielles. Institution: CNRS.",
     "profile_url": "https://www.ljll.fr/membre/dietze-charlotte/",
     "lab_url": "https://www.ljll.fr/~dietze/",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
+    "id": "sorbonne-stem-chataigner-isabelle",
+    "name": "Chataigner Isabelle",
+    "institution": "Sorbonne",
+    "department": "Laboratoire de Chimie Théorique (LCT)",
+    "title": "Full Professor",
+    "roles": [
+      "Professeur"
+    ],
+    "research_areas": [],
+    "summary": "Office: 1213-411.",
+    "profile_url": "https://www.lct.jussieu.fr/?page_id=128",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
+    "id": "sorbonne-stem-chevreau-hilaire",
+    "name": "Chevreau Hilaire",
+    "institution": "Sorbonne",
+    "department": "Laboratoire de Chimie Théorique (LCT)",
+    "title": "Associate Professor",
+    "roles": [
+      "Maître de conférences"
+    ],
+    "research_areas": [],
+    "summary": "Office: 1213-402.",
+    "profile_url": "https://www.lct.jussieu.fr/?page_id=128",
+    "lab_url": "",
     "scholar_url": "",
     "orcid": "",
     "photo_url": "",
@@ -16634,6 +16824,25 @@
     "scholar_url": "",
     "orcid": "",
     "photo_url": "",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
+    "id": "sorbonne-stem-clement-sayrin",
+    "name": "Clément SAYRIN",
+    "institution": "Sorbonne",
+    "department": "Laboratoire Kastler Brossel (LKB)",
+    "title": "Teaching Researcher (Enseignant-Chercheur)",
+    "roles": [
+      "Enseignant-Chercheur"
+    ],
+    "research_areas": [],
+    "summary": "Laboratoire Kastler Brossel — quantum physics.",
+    "profile_url": "https://www.lkb.fr/laboratoire/membres/clement-sayrin/",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.lkb.fr/wp-content/uploads/2024/05/clement-sayrin.png",
     "partner_university": "Sorbonne",
     "partnership_type": "Degree"
   },
@@ -17213,6 +17422,25 @@
     "summary": "Research team: Algèbres d'Opérateurs. Institution: UPC.",
     "profile_url": "http://webusers.imj-prg.fr/~denis.perrot/",
     "lab_url": "http://webusers.imj-prg.fr/~denis.perrot/",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
+    "id": "sorbonne-stem-dezarnaud-dandine-christine",
+    "name": "Dezarnaud-Dandine Christine",
+    "institution": "Sorbonne",
+    "department": "Laboratoire de Chimie Théorique (LCT)",
+    "title": "Associate Professor",
+    "roles": [
+      "Maître de conférences"
+    ],
+    "research_areas": [],
+    "summary": "Office: 1213-423.",
+    "profile_url": "https://www.lct.jussieu.fr/?page_id=128",
+    "lab_url": "",
     "scholar_url": "",
     "orcid": "",
     "photo_url": "",
@@ -18137,6 +18365,25 @@
     "partnership_type": "Degree"
   },
   {
+    "id": "sorbonne-stem-fabrice-gerbier",
+    "name": "Fabrice GERBIER",
+    "institution": "Sorbonne",
+    "department": "Laboratoire Kastler Brossel (LKB)",
+    "title": "CNRS/INSERM Researcher",
+    "roles": [
+      "Chercheur"
+    ],
+    "research_areas": [],
+    "summary": "Laboratoire Kastler Brossel — quantum physics.",
+    "profile_url": "https://www.lkb.fr/laboratoire/membres/fabrice-gerbier/",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.lkb.fr/wp-content/uploads/2024/05/fabrice-gerbier.png",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
     "id": "sorbonne-stem-fabrice-orgogozo",
     "name": "Fabrice Orgogozo",
     "institution": "Sorbonne",
@@ -18398,6 +18645,25 @@
     "partnership_type": "Degree"
   },
   {
+    "id": "sorbonne-stem-fourre-isabelle",
+    "name": "Fourré Isabelle",
+    "institution": "Sorbonne",
+    "department": "Laboratoire de Chimie Théorique (LCT)",
+    "title": "Associate Professor",
+    "roles": [
+      "Maîtresse de conférences"
+    ],
+    "research_areas": [],
+    "summary": "Office: 1213-418.",
+    "profile_url": "https://www.lct.jussieu.fr/?page_id=128",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
     "id": "sorbonne-stem-francesco-lemma",
     "name": "Francesco Lemma",
     "institution": "Sorbonne",
@@ -18520,6 +18786,25 @@
     "scholar_url": "",
     "orcid": "",
     "photo_url": "https://www.imj-prg.fr/membres/photo/francois_loeser.jpg",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
+    "id": "sorbonne-stem-francois-nez",
+    "name": "Francois NEZ",
+    "institution": "Sorbonne",
+    "department": "Laboratoire Kastler Brossel (LKB)",
+    "title": "CNRS/INSERM Researcher",
+    "roles": [
+      "Chercheur"
+    ],
+    "research_areas": [],
+    "summary": "Laboratoire Kastler Brossel — quantum physics.",
+    "profile_url": "https://www.lkb.fr/laboratoire/membres/francois-nez/",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.lkb.fr/wp-content/uploads/2024/05/francois-nez.png",
     "partner_university": "Sorbonne",
     "partnership_type": "Degree"
   },
@@ -18868,6 +19153,44 @@
     "partnership_type": "Degree"
   },
   {
+    "id": "sorbonne-stem-fuster-franck",
+    "name": "Fuster Franck",
+    "institution": "Sorbonne",
+    "department": "Laboratoire de Chimie Théorique (LCT)",
+    "title": "Associate Professor",
+    "roles": [
+      "Maître de conférences"
+    ],
+    "research_areas": [],
+    "summary": "Office: 1213-416.",
+    "profile_url": "https://www.lct.jussieu.fr/?page_id=128",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
+    "id": "sorbonne-stem-felix-werner",
+    "name": "Félix WERNER",
+    "institution": "Sorbonne",
+    "department": "Laboratoire Kastler Brossel (LKB)",
+    "title": "CNRS/INSERM Researcher",
+    "roles": [
+      "Chercheur"
+    ],
+    "research_areas": [],
+    "summary": "Laboratoire Kastler Brossel — quantum physics.",
+    "profile_url": "https://www.lkb.fr/laboratoire/membres/felix-werner/",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.lkb.fr/wp-content/uploads/2024/05/felix-werner.png",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
     "id": "sorbonne-bio-gabrielle-girardeau",
     "name": "Gabrielle Girardeau",
     "institution": "Sorbonne",
@@ -19009,6 +19332,25 @@
     "research_areas": [],
     "summary": "Research team: CASCH.",
     "profile_url": "https://ipcm.fr/linstitut/annuaires/",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
+    "id": "sorbonne-stem-giner-emmanuel",
+    "name": "Giner Emmanuel",
+    "institution": "Sorbonne",
+    "department": "Laboratoire de Chimie Théorique (LCT)",
+    "title": "CNRS Researcher",
+    "roles": [
+      "Chargé de recherche"
+    ],
+    "research_areas": [],
+    "summary": "Office: 1323-404.",
+    "profile_url": "https://www.lct.jussieu.fr/?page_id=128",
     "lab_url": "",
     "scholar_url": "",
     "orcid": "",
@@ -19212,6 +19554,44 @@
     "partnership_type": "Degree"
   },
   {
+    "id": "sorbonne-stem-gerard-helene",
+    "name": "Gérard Hélène",
+    "institution": "Sorbonne",
+    "department": "Laboratoire de Chimie Théorique (LCT)",
+    "title": "Full Professor",
+    "roles": [
+      "Professeur"
+    ],
+    "research_areas": [],
+    "summary": "Office: 1213-425.",
+    "profile_url": "https://www.lct.jussieu.fr/?page_id=128",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
+    "id": "sorbonne-stem-halbert-stephanie",
+    "name": "Halbert Stéphanie",
+    "institution": "Sorbonne",
+    "department": "Laboratoire de Chimie Théorique (LCT)",
+    "title": "Associate Professor",
+    "roles": [
+      "Maître de conférences"
+    ],
+    "research_areas": [],
+    "summary": "Office: 1213-411.",
+    "profile_url": "https://www.lct.jussieu.fr/?page_id=128",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
     "id": "sorbonne-stem-hani-amouri",
     "name": "Hani Amouri",
     "institution": "Sorbonne",
@@ -19337,6 +19717,25 @@
     "scholar_url": "",
     "orcid": "",
     "photo_url": "",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
+    "id": "sorbonne-stem-hilton-barbosa-de-aguiar",
+    "name": "Hilton BARBOSA DE AGUIAR",
+    "institution": "Sorbonne",
+    "department": "Laboratoire Kastler Brossel (LKB)",
+    "title": "CNRS/INSERM Researcher",
+    "roles": [
+      "Chercheur"
+    ],
+    "research_areas": [],
+    "summary": "Laboratoire Kastler Brossel — quantum physics.",
+    "profile_url": "https://www.lkb.fr/laboratoire/membres/hilton-barbosa-de-aguiar/",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.lkb.fr/wp-content/uploads/2024/05/hilton-barbosa-de-aguiar.png",
     "partner_university": "Sorbonne",
     "partnership_type": "Degree"
   },
@@ -19469,6 +19868,25 @@
     "partnership_type": "Degree"
   },
   {
+    "id": "sorbonne-stem-igor-dotsenko",
+    "name": "Igor DOTSENKO",
+    "institution": "Sorbonne",
+    "department": "Laboratoire Kastler Brossel (LKB)",
+    "title": "Teaching Researcher (Enseignant-Chercheur)",
+    "roles": [
+      "Enseignant-Chercheur"
+    ],
+    "research_areas": [],
+    "summary": "Laboratoire Kastler Brossel — quantum physics.",
+    "profile_url": "https://www.lkb.fr/laboratoire/membres/igor-dotsenko/",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.lkb.fr/wp-content/uploads/2024/05/igor-dotsenko.png",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
     "id": "sorbonne-stem-ilia-itenberg",
     "name": "Ilia Itenberg",
     "institution": "Sorbonne",
@@ -19486,6 +19904,25 @@
     "scholar_url": "",
     "orcid": "",
     "photo_url": "",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
+    "id": "sorbonne-stem-irenee-frerot",
+    "name": "Irénée FREROT",
+    "institution": "Sorbonne",
+    "department": "Laboratoire Kastler Brossel (LKB)",
+    "title": "CNRS/INSERM Researcher",
+    "roles": [
+      "Chercheur"
+    ],
+    "research_areas": [],
+    "summary": "Laboratoire Kastler Brossel — quantum physics.",
+    "profile_url": "https://www.lkb.fr/laboratoire/membres/irenee-frerot/",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.lkb.fr/wp-content/uploads/2024/06/Trombi_FREROT-Irenee.png",
     "partner_university": "Sorbonne",
     "partnership_type": "Degree"
   },
@@ -19665,6 +20102,25 @@
     "partnership_type": "Degree"
   },
   {
+    "id": "sorbonne-stem-jakob-reichel",
+    "name": "Jakob REICHEL",
+    "institution": "Sorbonne",
+    "department": "Laboratoire Kastler Brossel (LKB)",
+    "title": "Teaching Researcher (Enseignant-Chercheur)",
+    "roles": [
+      "Enseignant-Chercheur"
+    ],
+    "research_areas": [],
+    "summary": "Laboratoire Kastler Brossel — quantum physics.",
+    "profile_url": "https://www.lkb.fr/laboratoire/membres/jakob-reichel/",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.lkb.fr/wp-content/uploads/2024/05/jakob-reichel.png",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
     "id": "sorbonne-stem-jamal-moussa",
     "name": "Jamal Moussa",
     "institution": "Sorbonne",
@@ -19783,6 +20239,44 @@
     "scholar_url": "",
     "orcid": "",
     "photo_url": "",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
+    "id": "sorbonne-stem-jean-dalibard",
+    "name": "Jean DALIBARD",
+    "institution": "Sorbonne",
+    "department": "Laboratoire Kastler Brossel (LKB)",
+    "title": "Teaching Researcher (Enseignant-Chercheur)",
+    "roles": [
+      "Enseignant-Chercheur"
+    ],
+    "research_areas": [],
+    "summary": "Laboratoire Kastler Brossel — quantum physics.",
+    "profile_url": "https://www.lkb.fr/laboratoire/membres/jean-dalibard/",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.lkb.fr/wp-content/uploads/2024/05/jean-dalibard.png",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
+    "id": "sorbonne-stem-jean-hare",
+    "name": "Jean HARE",
+    "institution": "Sorbonne",
+    "department": "Laboratoire Kastler Brossel (LKB)",
+    "title": "Teaching Researcher (Enseignant-Chercheur)",
+    "roles": [
+      "Enseignant-Chercheur"
+    ],
+    "research_areas": [],
+    "summary": "Laboratoire Kastler Brossel — quantum physics.",
+    "profile_url": "https://www.lkb.fr/laboratoire/membres/jean-hare/",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.lkb.fr/wp-content/uploads/2024/05/Trombi_HARE-Jean.png",
     "partner_university": "Sorbonne",
     "partnership_type": "Degree"
   },
@@ -19959,6 +20453,25 @@
     "partnership_type": "Degree"
   },
   {
+    "id": "sorbonne-stem-jean-michel-courty",
+    "name": "Jean-Michel COURTY",
+    "institution": "Sorbonne",
+    "department": "Laboratoire Kastler Brossel (LKB)",
+    "title": "Teaching Researcher (Enseignant-Chercheur)",
+    "roles": [
+      "Enseignant-Chercheur"
+    ],
+    "research_areas": [],
+    "summary": "Laboratoire Kastler Brossel — quantum physics.",
+    "profile_url": "https://www.lkb.fr/laboratoire/membres/jean-michel-courty/",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.lkb.fr/wp-content/uploads/2024/05/jean-michel-courty-768x936.png",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
     "id": "sorbonne-bio-jean-michel-gibert",
     "name": "Jean-Michel Gibert",
     "institution": "Sorbonne",
@@ -20000,6 +20513,25 @@
     "scholar_url": "",
     "orcid": "",
     "photo_url": "",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
+    "id": "sorbonne-stem-jean-philippe-karr",
+    "name": "Jean-Philippe KARR",
+    "institution": "Sorbonne",
+    "department": "Laboratoire Kastler Brossel (LKB)",
+    "title": "Teaching Researcher (Enseignant-Chercheur)",
+    "roles": [
+      "Enseignant-Chercheur"
+    ],
+    "research_areas": [],
+    "summary": "Laboratoire Kastler Brossel — quantum physics.",
+    "profile_url": "https://www.lkb.fr/laboratoire/membres/jean-philippe-karr/",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.lkb.fr/wp-content/uploads/2024/05/jean-philippe-karr.png",
     "partner_university": "Sorbonne",
     "partnership_type": "Degree"
   },
@@ -20150,6 +20682,25 @@
     "scholar_url": "",
     "orcid": "",
     "photo_url": "",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
+    "id": "sorbonne-stem-jules-grucker",
+    "name": "Jules GRUCKER",
+    "institution": "Sorbonne",
+    "department": "Laboratoire Kastler Brossel (LKB)",
+    "title": "Teaching Researcher (Enseignant-Chercheur)",
+    "roles": [
+      "Enseignant-Chercheur"
+    ],
+    "research_areas": [],
+    "summary": "Laboratoire Kastler Brossel — quantum physics.",
+    "profile_url": "https://www.lkb.fr/laboratoire/membres/jules-grucker/",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.lkb.fr/wp-content/uploads/2024/05/jules-grucker.png",
     "partner_university": "Sorbonne",
     "partnership_type": "Degree"
   },
@@ -20328,6 +20879,25 @@
     "partnership_type": "Degree"
   },
   {
+    "id": "sorbonne-stem-julien-laurat",
+    "name": "Julien LAURAT",
+    "institution": "Sorbonne",
+    "department": "Laboratoire Kastler Brossel (LKB)",
+    "title": "Teaching Researcher (Enseignant-Chercheur)",
+    "roles": [
+      "Enseignant-Chercheur"
+    ],
+    "research_areas": [],
+    "summary": "Laboratoire Kastler Brossel — quantum physics.",
+    "profile_url": "https://www.lkb.fr/laboratoire/membres/julien-laurat/",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.lkb.fr/wp-content/uploads/2024/09/julien-laurat.png",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
     "id": "sorbonne-bio-juliette-puyaubert",
     "name": "Juliette Puyaubert",
     "institution": "Sorbonne",
@@ -20386,6 +20956,25 @@
     "scholar_url": "",
     "orcid": "",
     "photo_url": "",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
+    "id": "sorbonne-stem-jerome-beugnon",
+    "name": "Jérôme BEUGNON",
+    "institution": "Sorbonne",
+    "department": "Laboratoire Kastler Brossel (LKB)",
+    "title": "Teaching Researcher (Enseignant-Chercheur)",
+    "roles": [
+      "Enseignant-Chercheur"
+    ],
+    "research_areas": [],
+    "summary": "Laboratoire Kastler Brossel — quantum physics.",
+    "profile_url": "https://www.lkb.fr/laboratoire/membres/jerome-beugnon/",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.lkb.fr/wp-content/uploads/2024/09/jerome-beugnon.png",
     "partner_university": "Sorbonne",
     "partnership_type": "Degree"
   },
@@ -20768,6 +21357,25 @@
     "partnership_type": "Degree"
   },
   {
+    "id": "sorbonne-stem-laurent-hilico",
+    "name": "Laurent HILICO",
+    "institution": "Sorbonne",
+    "department": "Laboratoire Kastler Brossel (LKB)",
+    "title": "Teaching Researcher (Enseignant-Chercheur)",
+    "roles": [
+      "Enseignant-Chercheur"
+    ],
+    "research_areas": [],
+    "summary": "Laboratoire Kastler Brossel — quantum physics.",
+    "profile_url": "https://www.lkb.fr/laboratoire/membres/laurent-hilico/",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.lkb.fr/wp-content/uploads/2024/05/laurent-hilico.png",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
     "id": "sorbonne-bio-laurent-jacob",
     "name": "Laurent Jacob",
     "institution": "Sorbonne",
@@ -21130,6 +21738,25 @@
     "scholar_url": "",
     "orcid": "",
     "photo_url": "https://www.ibps.sorbonne-universite.fr/ressources/whoswho/13/105x140,17704-tricoire-ludovic.jpeg",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
+    "id": "sorbonne-stem-luppi-eleonora",
+    "name": "Luppi Eleonora",
+    "institution": "Sorbonne",
+    "department": "Laboratoire de Chimie Théorique (LCT)",
+    "title": "Associate Professor",
+    "roles": [
+      "Maître de conférences HDR"
+    ],
+    "research_areas": [],
+    "summary": "Office: 1213-420.",
+    "profile_url": "https://www.lct.jussieu.fr/?page_id=128",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "",
     "partner_university": "Sorbonne",
     "partnership_type": "Degree"
   },
@@ -21762,6 +22389,25 @@
     "partnership_type": "Degree"
   },
   {
+    "id": "sorbonne-stem-markovits-alexis",
+    "name": "Markovits Alexis",
+    "institution": "Sorbonne",
+    "department": "Laboratoire de Chimie Théorique (LCT)",
+    "title": "Full Professor",
+    "roles": [
+      "Professeur"
+    ],
+    "research_areas": [],
+    "summary": "Office: 1213-416.",
+    "profile_url": "https://www.lct.jussieu.fr/?page_id=128",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
     "id": "sorbonne-bio-marta-garcia",
     "name": "Marta Garcia",
     "institution": "Sorbonne",
@@ -22018,6 +22664,25 @@
     "partnership_type": "Degree"
   },
   {
+    "id": "sorbonne-stem-mattia-walschaers",
+    "name": "Mattia WALSCHAERS",
+    "institution": "Sorbonne",
+    "department": "Laboratoire Kastler Brossel (LKB)",
+    "title": "CNRS/INSERM Researcher",
+    "roles": [
+      "Chercheur"
+    ],
+    "research_areas": [],
+    "summary": "Laboratoire Kastler Brossel — quantum physics.",
+    "profile_url": "https://www.lkb.fr/laboratoire/membres/mattia-walschaers/",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.lkb.fr/wp-content/uploads/2024/06/Trombi_WALSCHAERS-Mattia-1.png",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
     "id": "sorbonne-stem-max-cerf",
     "name": "Max Cerf",
     "institution": "Sorbonne",
@@ -22186,6 +22851,25 @@
     "scholar_url": "",
     "orcid": "",
     "photo_url": "https://www.ibps.sorbonne-universite.fr/ressources/whoswho/10/105x140,426-Profil_IBPS.jpeg",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
+    "id": "sorbonne-stem-michel-brune",
+    "name": "Michel BRUNE",
+    "institution": "Sorbonne",
+    "department": "Laboratoire Kastler Brossel (LKB)",
+    "title": "CNRS/INSERM Researcher",
+    "roles": [
+      "Chercheur"
+    ],
+    "research_areas": [],
+    "summary": "Laboratoire Kastler Brossel — quantum physics.",
+    "profile_url": "https://www.lkb.fr/laboratoire/membres/michel-brune/",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.lkb.fr/wp-content/uploads/2024/05/michel-brune.png",
     "partner_university": "Sorbonne",
     "partnership_type": "Degree"
   },
@@ -22370,6 +23054,25 @@
     "summary": "Research team: Théorie des Nombres. Institution: UPC.",
     "profile_url": "http://webusers.imj-prg.fr/~mireille.fouquet/",
     "lab_url": "http://webusers.imj-prg.fr/~mireille.fouquet/",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
+    "id": "sorbonne-stem-monmarche-pierre",
+    "name": "Monmarché Pierre",
+    "institution": "Sorbonne",
+    "department": "Laboratoire de Chimie Théorique (LCT)",
+    "title": "Associate Professor",
+    "roles": [
+      "Maître de conférences"
+    ],
+    "research_areas": [],
+    "summary": "Office: 1516-308.",
+    "profile_url": "https://www.lct.jussieu.fr/?page_id=128",
+    "lab_url": "",
     "scholar_url": "",
     "orcid": "",
     "photo_url": "",
@@ -22702,6 +23405,25 @@
     "partnership_type": "Degree"
   },
   {
+    "id": "sorbonne-stem-nathan-goldman",
+    "name": "Nathan GOLDMAN",
+    "institution": "Sorbonne",
+    "department": "Laboratoire Kastler Brossel (LKB)",
+    "title": "CNRS/INSERM Researcher",
+    "roles": [
+      "Chercheur"
+    ],
+    "research_areas": [],
+    "summary": "Laboratoire Kastler Brossel — quantum physics.",
+    "profile_url": "https://www.lkb.fr/laboratoire/membres/nathan-goldman-2/",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.lkb.fr/wp-content/uploads/2024/05/nathan-goldman.png",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
     "id": "sorbonne-bio-nelly-henry",
     "name": "Nelly Henry",
     "institution": "Sorbonne",
@@ -22740,6 +23462,25 @@
     "scholar_url": "",
     "orcid": "",
     "photo_url": "",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
+    "id": "sorbonne-stem-nicolas-cherroret",
+    "name": "Nicolas CHERRORET",
+    "institution": "Sorbonne",
+    "department": "Laboratoire Kastler Brossel (LKB)",
+    "title": "CNRS/INSERM Researcher",
+    "roles": [
+      "Chercheur"
+    ],
+    "research_areas": [],
+    "summary": "Laboratoire Kastler Brossel — quantum physics.",
+    "profile_url": "https://www.lkb.fr/laboratoire/membres/nicolas-cherroret/",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.lkb.fr/wp-content/uploads/2024/05/nicolas-cherroret.png",
     "partner_university": "Sorbonne",
     "partnership_type": "Degree"
   },
@@ -22802,6 +23543,25 @@
     "scholar_url": "",
     "orcid": "",
     "photo_url": "https://www.ibps.sorbonne-universite.fr/ressources/whoswho/3/105x140,11716-telechargement.jpeg",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
+    "id": "sorbonne-stem-nicolas-treps",
+    "name": "Nicolas TREPS",
+    "institution": "Sorbonne",
+    "department": "Laboratoire Kastler Brossel (LKB)",
+    "title": "Teaching Researcher (Enseignant-Chercheur)",
+    "roles": [
+      "Enseignant-Chercheur"
+    ],
+    "research_areas": [],
+    "summary": "Laboratoire Kastler Brossel — quantum physics.",
+    "profile_url": "https://www.lkb.fr/laboratoire/membres/nicolas-treps/",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.lkb.fr/wp-content/uploads/2024/09/nicolas-treps.png",
     "partner_university": "Sorbonne",
     "partnership_type": "Degree"
   },
@@ -23304,6 +24064,25 @@
     "partnership_type": "Degree"
   },
   {
+    "id": "sorbonne-stem-paul-indelicato",
+    "name": "Paul INDELICATO",
+    "institution": "Sorbonne",
+    "department": "Laboratoire Kastler Brossel (LKB)",
+    "title": "CNRS/INSERM Researcher",
+    "roles": [
+      "Chercheur"
+    ],
+    "research_areas": [],
+    "summary": "Laboratoire Kastler Brossel — quantum physics.",
+    "profile_url": "https://www.lkb.fr/laboratoire/membres/paul-indelicato/",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.lkb.fr/wp-content/uploads/2024/05/paul-indelicato.png",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
     "id": "sorbonne-stem-pauline-tan",
     "name": "Pauline Tan",
     "institution": "Sorbonne",
@@ -23426,6 +24205,25 @@
     "scholar_url": "",
     "orcid": "",
     "photo_url": "",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
+    "id": "sorbonne-stem-pierre-clade",
+    "name": "Pierre CLADÉ",
+    "institution": "Sorbonne",
+    "department": "Laboratoire Kastler Brossel (LKB)",
+    "title": "CNRS/INSERM Researcher",
+    "roles": [
+      "Chercheur"
+    ],
+    "research_areas": [],
+    "summary": "Laboratoire Kastler Brossel — quantum physics.",
+    "profile_url": "https://www.lkb.fr/laboratoire/membres/pierre-clade/",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.lkb.fr/wp-content/uploads/2024/09/pierre-clade-3.png",
     "partner_university": "Sorbonne",
     "partnership_type": "Degree"
   },
@@ -23564,6 +24362,25 @@
     "partnership_type": "Degree"
   },
   {
+    "id": "sorbonne-stem-pierre-francois-cohadon",
+    "name": "Pierre-François COHADON",
+    "institution": "Sorbonne",
+    "department": "Laboratoire Kastler Brossel (LKB)",
+    "title": "Teaching Researcher (Enseignant-Chercheur)",
+    "roles": [
+      "Enseignant-Chercheur"
+    ],
+    "research_areas": [],
+    "summary": "Laboratoire Kastler Brossel — quantum physics.",
+    "profile_url": "https://www.lkb.fr/laboratoire/membres/pierre-francois-cohadon/",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.lkb.fr/wp-content/uploads/2024/05/pierre-francois-cohadon.png",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
     "id": "sorbonne-stem-pierre-henri-chaudouard",
     "name": "Pierre-Henri Chaudouard",
     "institution": "Sorbonne",
@@ -23645,6 +24462,82 @@
     "scholar_url": "",
     "orcid": "",
     "photo_url": "https://www.imj-prg.fr/membres/photo/pierre-vincent_koseleff.jpg",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
+    "id": "sorbonne-stem-pilme-julien",
+    "name": "Pilmé Julien",
+    "institution": "Sorbonne",
+    "department": "Laboratoire de Chimie Théorique (LCT)",
+    "title": "Associate Professor",
+    "roles": [
+      "Maître de conférences HDR"
+    ],
+    "research_areas": [],
+    "summary": "Office: 1213-422.",
+    "profile_url": "https://www.lct.jussieu.fr/?page_id=128",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
+    "id": "sorbonne-stem-piquemal-jean-philip",
+    "name": "Piquemal Jean-Philip",
+    "institution": "Sorbonne",
+    "department": "Laboratoire de Chimie Théorique (LCT)",
+    "title": "Full Professor",
+    "roles": [
+      "Professeur"
+    ],
+    "research_areas": [],
+    "summary": "Office: 1213-404.",
+    "profile_url": "https://www.lct.jussieu.fr/?page_id=128",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
+    "id": "sorbonne-stem-ple-thomas",
+    "name": "Plé Thomas",
+    "institution": "Sorbonne",
+    "department": "Laboratoire de Chimie Théorique (LCT)",
+    "title": "CNRS Researcher",
+    "roles": [
+      "Chargé de recherche"
+    ],
+    "research_areas": [],
+    "summary": "Office: 3334-109.",
+    "profile_url": "https://www.lct.jussieu.fr/?page_id=128",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
+    "id": "sorbonne-stem-quentin-glorieux",
+    "name": "Quentin GLORIEUX",
+    "institution": "Sorbonne",
+    "department": "Laboratoire Kastler Brossel (LKB)",
+    "title": "Teaching Researcher (Enseignant-Chercheur)",
+    "roles": [
+      "Enseignant-Chercheur"
+    ],
+    "research_areas": [],
+    "summary": "Laboratoire Kastler Brossel — quantum physics.",
+    "profile_url": "https://www.lkb.fr/laboratoire/membres/quentin-glorieux/",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.lkb.fr/wp-content/uploads/2024/09/quentin-glorieux-1.png",
     "partner_university": "Sorbonne",
     "partnership_type": "Degree"
   },
@@ -23780,6 +24673,25 @@
     "partnership_type": "Degree"
   },
   {
+    "id": "sorbonne-stem-raphael-lopes",
+    "name": "Raphaël LOPES",
+    "institution": "Sorbonne",
+    "department": "Laboratoire Kastler Brossel (LKB)",
+    "title": "CNRS/INSERM Researcher",
+    "roles": [
+      "Chercheur"
+    ],
+    "research_areas": [],
+    "summary": "Laboratoire Kastler Brossel — quantum physics.",
+    "profile_url": "https://www.lkb.fr/laboratoire/membres/raphael-lopes/",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.lkb.fr/wp-content/uploads/2024/05/raphael-lopes.png",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
     "id": "sorbonne-bio-raphael-voituriez",
     "name": "Raphaël Voituriez",
     "institution": "Sorbonne",
@@ -23844,6 +24756,25 @@
     "scholar_url": "",
     "orcid": "",
     "photo_url": "https://www.ibps.sorbonne-universite.fr/ressources/whoswho/5/105x140,19158-WhatsApp-Image-2026-03-23-at-16.jpeg",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
+    "id": "sorbonne-stem-reinhardt-peter",
+    "name": "Reinhardt Peter",
+    "institution": "Sorbonne",
+    "department": "Laboratoire de Chimie Théorique (LCT)",
+    "title": "Associate Professor",
+    "roles": [
+      "Maître de conférences HDR"
+    ],
+    "research_areas": [],
+    "summary": "Office: 1213-402.",
+    "profile_url": "https://www.lct.jussieu.fr/?page_id=128",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "",
     "partner_university": "Sorbonne",
     "partnership_type": "Degree"
   },
@@ -23934,6 +24865,25 @@
     "partnership_type": "Degree"
   },
   {
+    "id": "sorbonne-stem-richardi-johannes",
+    "name": "Richardi Johannes",
+    "institution": "Sorbonne",
+    "department": "Laboratoire de Chimie Théorique (LCT)",
+    "title": "Associate Professor",
+    "roles": [
+      "Maître de conférences HDR"
+    ],
+    "research_areas": [],
+    "summary": "Office: 1323-403.",
+    "profile_url": "https://www.lct.jussieu.fr/?page_id=128",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
     "id": "sorbonne-stem-rodrigue-lescouezec",
     "name": "Rodrigue Lescouezec",
     "institution": "Sorbonne",
@@ -23973,6 +24923,25 @@
     "scholar_url": "",
     "orcid": "",
     "photo_url": "",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
+    "id": "sorbonne-stem-romain-long",
+    "name": "Romain LONG",
+    "institution": "Sorbonne",
+    "department": "Laboratoire Kastler Brossel (LKB)",
+    "title": "Teaching Researcher (Enseignant-Chercheur)",
+    "roles": [
+      "Enseignant-Chercheur"
+    ],
+    "research_areas": [],
+    "summary": "Laboratoire Kastler Brossel — quantum physics.",
+    "profile_url": "https://www.lkb.fr/laboratoire/membres/romain-long/",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.lkb.fr/wp-content/uploads/2024/05/romain-long.png",
     "partner_university": "Sorbonne",
     "partnership_type": "Degree"
   },
@@ -24235,6 +25204,25 @@
     "partnership_type": "Degree"
   },
   {
+    "id": "sorbonne-stem-samuel-deleglise",
+    "name": "Samuel DELEGLISE",
+    "institution": "Sorbonne",
+    "department": "Laboratoire Kastler Brossel (LKB)",
+    "title": "CNRS/INSERM Researcher",
+    "roles": [
+      "Chercheur"
+    ],
+    "research_areas": [],
+    "summary": "Laboratoire Kastler Brossel — quantum physics.",
+    "profile_url": "https://www.lkb.fr/laboratoire/membres/samuel-deleglise/",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.lkb.fr/wp-content/uploads/2024/05/samuel-deleglise.png",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
     "id": "sorbonne-stem-samuel-daudin",
     "name": "Samuel Daudin",
     "institution": "Sorbonne",
@@ -24381,6 +25369,25 @@
     "scholar_url": "",
     "orcid": "",
     "photo_url": "",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
+    "id": "sorbonne-stem-sebastien-gleyzes",
+    "name": "Sebastien GLEYZES",
+    "institution": "Sorbonne",
+    "department": "Laboratoire Kastler Brossel (LKB)",
+    "title": "CNRS/INSERM Researcher",
+    "roles": [
+      "Chercheur"
+    ],
+    "research_areas": [],
+    "summary": "Laboratoire Kastler Brossel — quantum physics.",
+    "profile_url": "https://www.lkb.fr/laboratoire/membres/sebastien-gleyzes/",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.lkb.fr/wp-content/uploads/2024/05/sebastien-gleyzes.png",
     "partner_university": "Sorbonne",
     "partnership_type": "Degree"
   },
@@ -24578,6 +25585,25 @@
     "partnership_type": "Degree"
   },
   {
+    "id": "sorbonne-stem-silvi-bernard",
+    "name": "Silvi Bernard",
+    "institution": "Sorbonne",
+    "department": "Laboratoire de Chimie Théorique (LCT)",
+    "title": "Full Professor",
+    "roles": [
+      "Professeur émérite"
+    ],
+    "research_areas": [],
+    "summary": "Office: 1213-411.",
+    "profile_url": "https://www.lct.jussieu.fr/?page_id=128",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
     "id": "sorbonne-stem-simon-andre",
     "name": "Simon Andre",
     "institution": "Sorbonne",
@@ -24615,6 +25641,25 @@
     "summary": "Research team: Théorie des Nombres. Institution: Sorbonne Université.",
     "profile_url": "http://webusers.imj-prg.fr/~sinnou.david/",
     "lab_url": "http://webusers.imj-prg.fr/~sinnou.david/",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
+    "id": "sorbonne-stem-siro-brigiano-flavio",
+    "name": "Siro Brigiano Flavio",
+    "institution": "Sorbonne",
+    "department": "Laboratoire de Chimie Théorique (LCT)",
+    "title": "Associate Professor",
+    "roles": [
+      "Maître de conférences"
+    ],
+    "research_areas": [],
+    "summary": "Office: 1213-422.",
+    "profile_url": "https://www.lct.jussieu.fr/?page_id=128",
+    "lab_url": "",
     "scholar_url": "",
     "orcid": "",
     "photo_url": "",
@@ -24825,6 +25870,25 @@
     "partnership_type": "Degree"
   },
   {
+    "id": "sorbonne-stem-stephane-boucard",
+    "name": "Stéphane BOUCARD",
+    "institution": "Sorbonne",
+    "department": "Laboratoire Kastler Brossel (LKB)",
+    "title": "Teaching Researcher (Enseignant-Chercheur)",
+    "roles": [
+      "Enseignant-Chercheur"
+    ],
+    "research_areas": [],
+    "summary": "Laboratoire Kastler Brossel — quantum physics.",
+    "profile_url": "https://www.lkb.fr/laboratoire/membres/stephane-boucard/",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.lkb.fr/wp-content/uploads/2024/05/stephane-boucard.png",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
     "id": "sorbonne-bio-stephane-delmas",
     "name": "Stéphane Delmas",
     "institution": "Sorbonne",
@@ -24951,6 +26015,25 @@
     "scholar_url": "",
     "orcid": "",
     "photo_url": "https://www.ibps.sorbonne-universite.fr/ressources/whoswho/13/105x140,1581-SDaumas1.jpeg",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
+    "id": "sorbonne-stem-sylvain-nascimbene",
+    "name": "Sylvain NASCIMBENE",
+    "institution": "Sorbonne",
+    "department": "Laboratoire Kastler Brossel (LKB)",
+    "title": "Teaching Researcher (Enseignant-Chercheur)",
+    "roles": [
+      "Enseignant-Chercheur"
+    ],
+    "research_areas": [],
+    "summary": "Laboratoire Kastler Brossel — quantum physics.",
+    "profile_url": "https://www.lkb.fr/laboratoire/membres/sylvain-nascimbene/",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.lkb.fr/wp-content/uploads/2024/05/sylvain-nascimbene.png",
     "partner_university": "Sorbonne",
     "partnership_type": "Degree"
   },
@@ -25167,6 +26250,25 @@
     "partnership_type": "Degree"
   },
   {
+    "id": "sorbonne-stem-tarik-yefsah",
+    "name": "Tarik YEFSAH",
+    "institution": "Sorbonne",
+    "department": "Laboratoire Kastler Brossel (LKB)",
+    "title": "CNRS/INSERM Researcher",
+    "roles": [
+      "Chercheur"
+    ],
+    "research_areas": [],
+    "summary": "Laboratoire Kastler Brossel — quantum physics.",
+    "profile_url": "https://www.lkb.fr/laboratoire/membres/tarik-yefsah/",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.lkb.fr/wp-content/uploads/2024/05/tarik-yefsah.png",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
     "id": "sorbonne-stem-tat-dat-to",
     "name": "Tat-dat To",
     "institution": "Sorbonne",
@@ -25207,6 +26309,25 @@
     "scholar_url": "",
     "orcid": "",
     "photo_url": "",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
+    "id": "sorbonne-stem-thibaut-jacqmin",
+    "name": "Thibaut JACQMIN",
+    "institution": "Sorbonne",
+    "department": "Laboratoire Kastler Brossel (LKB)",
+    "title": "Teaching Researcher (Enseignant-Chercheur)",
+    "roles": [
+      "Enseignant-Chercheur"
+    ],
+    "research_areas": [],
+    "summary": "Laboratoire Kastler Brossel — quantum physics.",
+    "profile_url": "https://www.lkb.fr/laboratoire/membres/thibaut-jacqmin/",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.lkb.fr/wp-content/uploads/2024/05/thibaut-jacqmin.png",
     "partner_university": "Sorbonne",
     "partnership_type": "Degree"
   },
@@ -25273,6 +26394,44 @@
     "scholar_url": "",
     "orcid": "",
     "photo_url": "",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
+    "id": "sorbonne-stem-toulouse-julien",
+    "name": "Toulouse Julien",
+    "institution": "Sorbonne",
+    "department": "Laboratoire de Chimie Théorique (LCT)",
+    "title": "Full Professor",
+    "roles": [
+      "Professeur"
+    ],
+    "research_areas": [],
+    "summary": "Office: 1213-415.",
+    "profile_url": "https://www.lct.jussieu.fr/?page_id=128",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
+    "id": "sorbonne-stem-tristan-briant",
+    "name": "Tristan BRIANT",
+    "institution": "Sorbonne",
+    "department": "Laboratoire Kastler Brossel (LKB)",
+    "title": "Teaching Researcher (Enseignant-Chercheur)",
+    "roles": [
+      "Enseignant-Chercheur"
+    ],
+    "research_areas": [],
+    "summary": "Laboratoire Kastler Brossel — quantum physics.",
+    "profile_url": "https://www.lkb.fr/laboratoire/membres/tristan-briant/",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.lkb.fr/wp-content/uploads/2024/05/tristan-briant.png",
     "partner_university": "Sorbonne",
     "partnership_type": "Degree"
   },
@@ -25379,6 +26538,25 @@
     "summary": "In this context, our projects are structured around two complementary axes: The study of signaling pathways involving androgen and estrogen receptors in the regulation of male and female neuroendocrine and behavioral responses. The effects and mechanisms of environmental exposure to endocrine disruptors that may interfere with the action of sex steroid hormones. Our work relies on in vivo models (mice) and in vitro models (neurons generated from pluripotent stem cells) as well as multiple approaches (behavioral, neuroendocrine, neuroanatomical, molecular, and omics) to address these two axes. Our primary goal is to identify relevant biomarkers for i) the central regulation of reproduction by sex steroids, and ii) exposure to endocrine disruptors, which could be used in the context of risk assessment for human health.",
     "profile_url": "https://www.ibps.sorbonne-universite.fr/en/ibps/directory/17237-Val%C3%A9rie-Messent",
     "lab_url": "https://www.ibps.sorbonne-universite.fr/en/research/development-adaptations-and-aging/neuroplasticity-of-reproductive-behaviors",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
+    "id": "sorbonne-stem-ventura-martine",
+    "name": "Ventura Martine",
+    "institution": "Sorbonne",
+    "department": "Laboratoire de Chimie Théorique (LCT)",
+    "title": "CNRS Researcher",
+    "roles": [
+      "Chargée de recherche"
+    ],
+    "research_areas": [],
+    "summary": "Office: 1213-412.",
+    "profile_url": "https://www.lct.jussieu.fr/?page_id=128",
+    "lab_url": "",
     "scholar_url": "",
     "orcid": "",
     "photo_url": "",
@@ -25849,6 +27027,25 @@
     "scholar_url": "",
     "orcid": "",
     "photo_url": "",
+    "partner_university": "Sorbonne",
+    "partnership_type": "Degree"
+  },
+  {
+    "id": "sorbonne-stem-yvan-castin",
+    "name": "Yvan CASTIN",
+    "institution": "Sorbonne",
+    "department": "Laboratoire Kastler Brossel (LKB)",
+    "title": "CNRS/INSERM Researcher",
+    "roles": [
+      "Chercheur"
+    ],
+    "research_areas": [],
+    "summary": "Laboratoire Kastler Brossel — quantum physics.",
+    "profile_url": "https://www.lkb.fr/laboratoire/membres/yvan-castin/",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.lkb.fr/wp-content/uploads/2024/05/yvan-castin.png",
     "partner_university": "Sorbonne",
     "partnership_type": "Degree"
   },

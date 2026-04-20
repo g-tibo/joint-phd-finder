@@ -7,6 +7,8 @@ Ingénierie:
 - IMJ-PRG  (UFR de Mathématiques — Institut de Mathématiques de Jussieu)
 - LJLL     (UFR de Mathématiques — Laboratoire Jacques-Louis Lions)
 - IPCM     (UFR de Chimie — Institut Parisien de Chimie Moléculaire)
+- LCT      (UFR de Chimie — Laboratoire de Chimie Théorique)
+- LKB      (UFR de Physique — Laboratoire Kastler Brossel)
 
 Each institute uses its own CMS, so parsing logic is per-site. All three
 share one output file and go through the same ranked-only filter.
@@ -327,6 +329,121 @@ def _scrape_ipcm() -> list[Faculty]:
 
 
 # --------------------------------------------------------------------------- #
+# LKB — Laboratoire Kastler Brossel (Physics)
+# --------------------------------------------------------------------------- #
+
+LKB_URL = "https://www.lkb.fr/laboratoire/membres/chercheurs-et-enseignants-chercheurs/"
+LKB_DEPT = "Laboratoire Kastler Brossel (LKB)"
+
+
+def _scrape_lkb() -> list[Faculty]:
+    """LKB lists its researchers and teaching-researchers as `<article>` cards
+    on a single page. Each card carries the name (uppercase family surname),
+    a photo, and a "Chercheur" / "Enseignant-Chercheur" category. Both count
+    as ranked faculty in the French system; the finer PR/MCF/DR/CR split
+    isn't surfaced here — we record the broader category as title."""
+    html = get(LKB_URL)
+    soup = BeautifulSoup(html, "html.parser")
+    articles = soup.select("article.rebond_membres_article")
+    out: list[Faculty] = []
+    for art in articles:
+        a = art.find("a", href=True)
+        if not a:
+            continue
+        profile_url = a["href"].strip()
+        h3 = art.find("h3", class_="rebond_membres_article_title")
+        name_raw = clean_text(h3.get_text(" ", strip=True)) if h3 else ""
+        subt = art.find("p", class_="header_subtitle")
+        category = clean_text(subt.get_text(" ", strip=True)) if subt else ""
+        if not name_raw:
+            continue
+        # Category guard — an excluded label here means someone's been added
+        # to the /chercheurs-et-enseignants-chercheurs/ page in error.
+        if category and not re.search(r"chercheur", category, re.I):
+            continue
+        name = _imj_reformat_name(name_raw)  # same "FIRST LASTNAME" form
+        photo = ""
+        img = art.find("img")
+        if img and img.get("src"):
+            photo = img["src"].strip()
+        title = (
+            "Teaching Researcher (Enseignant-Chercheur)"
+            if "enseignant" in category.lower()
+            else "CNRS/INSERM Researcher"
+        )
+        out.append({
+            "id": slugify("sorbonne", "stem", name),
+            "name": name,
+            "institution": "Sorbonne",
+            "department": LKB_DEPT,
+            "title": title,
+            "roles": [category] if category else [],
+            "research_areas": [],  # team info isn't on the list page
+            "summary": "Laboratoire Kastler Brossel — quantum physics.",
+            "profile_url": profile_url,
+            "lab_url": "",
+            "scholar_url": "",
+            "orcid": "",
+            "photo_url": photo,
+        })
+    print(f"[sorbonne_stem] LKB: {len(out)} ranked faculty")
+    return out
+
+
+# --------------------------------------------------------------------------- #
+# LCT — Laboratoire de Chimie Théorique (Chemistry)
+# --------------------------------------------------------------------------- #
+
+LCT_URL = "https://www.lct.jussieu.fr/?page_id=128"
+LCT_DEPT = "Laboratoire de Chimie Théorique (LCT)"
+
+
+def _scrape_lct() -> list[Faculty]:
+    """LCT has a simple 4-column table: [identite, telephone, localisation,
+    fonction]. The fonction column names the exact rank, so we can filter
+    with the standard _RANKED_RE and exclude Ingénieur de recherche / ATER /
+    other non-faculty roles."""
+    html = get(LCT_URL)
+    soup = BeautifulSoup(html, "html.parser")
+    rows = soup.select("table tr")
+    out: list[Faculty] = []
+    for r in rows[1:]:
+        cells = r.find_all(["th", "td"])
+        if len(cells) < 4:
+            continue
+        name_raw = clean_text(cells[0].get_text(" ", strip=True))
+        office = clean_text(cells[2].get_text(" ", strip=True))
+        fonction = clean_text(cells[3].get_text(" ", strip=True))
+        if not name_raw:
+            continue
+        # "Chair Professeur Junior" is W1-equivalent tenure-track — keep it;
+        # the regex doesn't match it, so carve out explicitly.
+        if not (_RANKED_RE.search(fonction) or "chair professeur" in fonction.lower()):
+            continue
+        name = _imj_reformat_name(name_raw)
+        english = _rank_english(fonction)
+        if "chair professeur" in fonction.lower():
+            english = "Junior Chair Professor"
+        out.append({
+            "id": slugify("sorbonne", "stem", name),
+            "name": name,
+            "institution": "Sorbonne",
+            "department": LCT_DEPT,
+            "title": english,
+            "roles": [fonction] if fonction else [],
+            "research_areas": [],
+            "summary": f"Office: {office}." if office else "",
+            "profile_url": LCT_URL,
+            "lab_url": "",
+            "scholar_url": "",
+            "orcid": "",
+            "photo_url": "",
+        })
+    print(f"[sorbonne_stem] LCT: {len(out)} ranked faculty")
+    return out
+
+
+# --------------------------------------------------------------------------- #
 # Shared helpers + entry point
 # --------------------------------------------------------------------------- #
 
@@ -347,7 +464,7 @@ def _keywords_from(label: str) -> list[str]:
 def scrape() -> list[Faculty]:
     all_out: list[Faculty] = []
     seen_ids: set[str] = set()
-    for fn in (_scrape_imj, _scrape_ljll, _scrape_ipcm):
+    for fn in (_scrape_imj, _scrape_ljll, _scrape_ipcm, _scrape_lkb, _scrape_lct):
         try:
             recs = fn()
         except Exception as e:
